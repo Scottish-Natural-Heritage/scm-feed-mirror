@@ -93,7 +93,7 @@ data "cloudflare_zones" "nature_scot" {
 resource "cloudflare_record" "validation_records" {
   # Each name & alias could result in a validation request, so we
   # 'for each' this block
-  for_each = { for record in aws_acm_certificate.certificate.domain_validation_options : record.resource_record_name => record }
+  for_each = { for record in aws_acm_certificate.certificate.domain_validation_options : record.domain_name => record }
   zone_id  = data.cloudflare_zones.nature_scot.zones[0].id
   name     = each.value.resource_record_name
   value    = each.value.resource_record_value
