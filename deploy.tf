@@ -1,15 +1,30 @@
-# Tell terraform where to keep it's state between runs so it can be run
-# locally as well as on ci/cd
 terraform {
+  # Tell terraform where to keep it's state between runs so it can be run
+  # locally as well as on ci/cd
   backend "s3" {
     bucket = "naturescot-scm-feed-mirror-state"
     key    = "terraform-state"
     region = "eu-west-2"
   }
+
+  # Tell terraform about the location and version of the cloudflare
+  # provider
+  required_providers {
+    cloudflare = {
+      source  = "cloudflare/cloudflare"
+      version = "~> 3.0"
+    }
+  }
 }
 
+# Some things like CloudFront are global, so need some resources created
+# in the primary US region
 provider "aws" {
   region = "eu-west-2"
+}
+provider "aws" {
+  region = "us-east-1"
+  alias  = "alternate"
 }
 
 # Create an S3 bucket for storing our files
@@ -47,4 +62,11 @@ resource "aws_s3_object" "content" {
   etag         = filemd5("${path.module}/mirror/${each.key}")
 
   acl = "public-read"
+}
+
+# Create a NatureScot certificate
+resource "aws_acm_certificate" "certificate" {
+  domain_name       = "scm-feed.nature.scot"
+  validation_method = "DNS"
+  provider          = aws.alternate
 }
