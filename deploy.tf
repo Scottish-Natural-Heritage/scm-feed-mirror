@@ -89,6 +89,11 @@ data "cloudflare_zones" "nature_scot" {
   }
 }
 
+# Declare our new certificate so we can reference it
+data "new_zone" "scm_feed_nature_scot" {
+  name = "scm-feed.nature.scot"
+}
+
 # Create a DNS record for each validation request from ACM
 resource "cloudflare_record" "validation_records" {
   # Each name & alias could result in a validation request, so we
