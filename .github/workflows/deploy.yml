@@ -23,7 +23,7 @@ jobs:
 
     - name: Deploy the mirror to AWS
       env:
-        TF_VAR_cloudflare_api_token: ${{ secrets.CLOUDFARE_API_KEY }}
+        TF_VAR_cloudflare_api_token: ${{ secrets.CLOUDFLARE_API_KEY }}
       run: |
         terraform init
         terraform apply -no-color -auto-approve
