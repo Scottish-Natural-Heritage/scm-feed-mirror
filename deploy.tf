@@ -94,7 +94,7 @@ resource "cloudflare_record" "validation_records" {
   # Each name & alias could result in a validation request, so we
   # 'for each' this block
   for_each = { for record in aws_acm_certificate.certificate.domain_validation_options : record.resource_record_name => record }
-  zone_id  = data.cloudflare_zones.nature_scot.zones[0].id
+  zone_id  = data.cloudflare_zones.nature_scot.zone_id
   name     = each.value.resource_record_name
   value    = each.value.resource_record_value
   type     = each.value.resource_record_type
