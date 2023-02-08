@@ -178,3 +178,13 @@ resource "aws_cloudfront_distribution" "distribution" {
     ssl_support_method       = "sni-only"
   }
 }
+
+# Create our final resource, a DNS record that lets the wider world find
+# the mirror
+resource "cloudflare_record" "cname_record" {
+  zone_id = data.cloudflare_zones.nature_scot.zones[0].id
+  name    = "scm-feed.nature.scot"
+  value   = aws_cloudfront_distribution.distribution.domain_name
+  type    = "CNAME"
+  ttl     = 300
+}
