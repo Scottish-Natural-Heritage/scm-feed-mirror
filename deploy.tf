@@ -80,9 +80,6 @@ resource "aws_acm_certificate" "certificate" {
   domain_name       = "scm-feed.nature.scot"
   validation_method = "DNS"
   provider          = aws.alternate
-  lifecycle {
-    create_before_destroy = true
-  }
 }
 
 # Find the nature.scot zone in Cloudflare
