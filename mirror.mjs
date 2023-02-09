@@ -36,21 +36,40 @@ const getDataFromRealAPI = async (url) => {
     return apiJson;
 }
  
-//#endregion 
+//#endregion
 
-//#region Formatters
+//#region Formatters and helpers
 
 const prettyJson = (jsonData) => {
     return JSON.stringify(jsonData, undefined, '\t');
+}
+
+const getDirectoryPath = (paCode) => {
+    if (paCode) {
+        return resolve(baseRoot, baseUrl, paCode);
+    } else {
+        return resolve(baseRoot, baseUrl);
+    }
+}
+
+ 
+//#endregion
+
+
+//#region Save a file in a directory
+
+const writeFileWithinOwnDirectory = async (jsonData, paCode) => {
+    const directoryPath = getDirectoryPath(paCode);
+    const filePath = resolve(directoryPath, 'index.json');
+    // Create the directory for saving and serving the mirrored data.
+    await mkdir(directoryPath, { recursive: true });
+    // And pop the JSON data in a git diff friendly way.
+    await writeFile(filePath, prettyJson(jsonData), { encoding: 'utf8' });
 }
  
 //#endregion
 
 //#region Main Script
-
-// Create the base directory for saving and serving the mirrored data.
-const basePath = resolve(baseRoot, baseUrl);
-await mkdir(basePath, { recursive: true });
 
 // Get the big lump of data
 console.log('Fetching the data from the real API');
@@ -58,18 +77,14 @@ const realApiJsonData = await getDataFromRealAPI(realApiEndpoint);
 
 // Save the really big file as an 'index' file.
 console.log('Saving the main file');
-const filePath = resolve(baseRoot, baseUrl, 'index.json');
-await writeFile(filePath, prettyJson(realApiJsonData), { encoding: 'utf8' });
+await writeFileWithinOwnDirectory(realApiJsonData);
 
 // Loop through the sites in the big file
 for (const site of realApiJsonData.Site) {
     console.log('Fetching site with PA code', site.Code);
     const realApiJsonDataSite = await getDataFromRealAPI(realApiEndpoint + `/${site.Code}`);
     console.log('Saving the individual file for PA', site.Code);
-    const sitePath = resolve(baseRoot, baseUrl, `${site.Code}`);
-    const filePath = resolve(sitePath, 'index.json');
-    await mkdir(sitePath, { recursive: true });
-    await writeFile(filePath, prettyJson(realApiJsonDataSite), { encoding: 'utf8' });
+    await writeFileWithinOwnDirectory(realApiJsonDataSite, site.Code);
 }
 
 console.log('All done!');
