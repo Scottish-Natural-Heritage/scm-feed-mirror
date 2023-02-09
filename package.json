@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "description": "Static mirror for NatureScot's SCM Feed",
   "author": "Graham Hotchkiss <graham.hotchkiss@nature.scot>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node mirror.mjs"
+  }
 }
