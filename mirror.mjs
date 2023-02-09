@@ -26,11 +26,12 @@ import { resolve } from 'node:path';
  
 //#region Method to fetch data from real API
 
-const getDataFromRealAPI = async () => {
+const getDataFromRealAPI = async (url) => {
     const headers = new Headers();
     headers.append('Accept', 'application/json');
-    const response = await fetch(realApiEndpoint, {headers});
+    const response = await fetch(url, {headers});
     // TODO: We are going to add sanity checks here
+    // The big lump and individual site have identical structures
     const apiJson = await response.json();
     return apiJson;
 }
@@ -53,12 +54,23 @@ await mkdir(basePath, { recursive: true });
 
 // Get the big lump of data
 console.log('Fetching the data from the real API');
-const realApiJsonData = await getDataFromRealAPI();
+const realApiJsonData = await getDataFromRealAPI(realApiEndpoint);
 
-// Save it as an 'index' file.
+// Save the really big file as an 'index' file.
 console.log('Saving the main file');
 const filePath = resolve(baseRoot, baseUrl, 'index.json');
 await writeFile(filePath, prettyJson(realApiJsonData), { encoding: 'utf8' });
+
+// Loop through the sites in the big file
+for (const site of realApiJsonData.Site) {
+    console.log('Fetching site with PA code', site.Code);
+    const realApiJsonDataSite = await getDataFromRealAPI(realApiEndpoint + `/${site.Code}`);
+    console.log('Saving the individual file for PA', site.Code);
+    const sitePath = resolve(baseRoot, baseUrl, `${site.Code}`);
+    const filePath = resolve(sitePath, 'index.json');
+    await mkdir(sitePath, { recursive: true });
+    await writeFile(filePath, prettyJson(realApiJsonDataSite), { encoding: 'utf8' });
+}
 
 console.log('All done!');
 
