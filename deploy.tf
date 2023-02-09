@@ -105,7 +105,7 @@ resource "cloudflare_record" "validation_records" {
 resource "aws_acm_certificate_validation" "validation" {
   certificate_arn = aws_acm_certificate.certificate.arn
   validation_record_fqdns = [
-    for record in aws_acm_certificate.certificate.domain_validation_options : cloudflare_record.validation_records[record.resource_record_name].name
+    for record in aws_acm_certificate.certificate.domain_validation_options : cloudflare_record.validation_records[record.domain_name].name
   ]
   provider = aws.alternate
 }
