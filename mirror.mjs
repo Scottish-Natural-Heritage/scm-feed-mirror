@@ -30,9 +30,15 @@ const getDataFromRealAPI = async (url) => {
     const headers = new Headers();
     headers.append('Accept', 'application/json');
     const response = await fetch(url, {headers});
-    // TODO: We are going to add sanity checks here
+    // Error if fetch fails.
+    if (!response.ok) {
+        throw new Error('Failed to fetch', url);
+    }
+    const apiJson = await response.json(); // This will error if the response is not JSON
     // The big lump and individual site have identical structures
-    const apiJson = await response.json();
+    if (!checkJsonLooksOk(apiJson)) {
+        throw new Error('The JSON does not have the required structure');
+    }
     return apiJson;
 }
  
@@ -52,6 +58,40 @@ const getDirectoryPath = (paCode) => {
     }
 }
 
+const checkJsonLooksOk = (jsonData) => {
+
+    // The top node should have two properties
+    if (!(
+        jsonData instanceof Object
+        // NB as the properties are readOnly the `blah.hasOwnProperty('blah')` approach does NOT work
+        && 'refreshDateTime' in jsonData
+        && 'Site' in jsonData
+    )) {
+        return false;
+    }
+
+    // The Site node should be an array of at least 1 object    
+    if (!(
+        jsonData.Site instanceof Array
+        && jsonData.Site.length > 0
+        && jsonData.Site[0] instanceof Object
+    )) {
+        return false;
+    }
+
+    // The first Site should have a few site-like properties    
+    if (!(
+        'Code' in jsonData.Site[0]
+        && 'SiteName' in jsonData.Site[0]
+        && 'SiteDesignation' in jsonData.Site[0]
+        && 'ProtectedOverlays' in jsonData.Site[0]
+        && 'SiteFeature' in jsonData.Site[0]
+    )) {
+        return false;
+    }
+
+    return true;
+}
  
 //#endregion
 
