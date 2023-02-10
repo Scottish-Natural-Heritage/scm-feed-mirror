@@ -27,6 +27,16 @@ import { resolve } from 'node:path';
 //#region Method to fetch data from real API
 
 const getDataFromRealAPI = async (url) => {
+    const response = await repeatedlyAttempt(callRealApiAndCheckOk, [url], 10);
+    const apiJson = await response.json(); // This will error if the response is not JSON
+    // The big lump and individual site have identical structures
+    if (!checkJsonLooks(apiJson)) {
+        throw new Error('The JSON does not have the required structure');
+    }
+    return apiJson;
+}
+
+const callRealApiAndCheckOk = async (url) => {
     const headers = new Headers();
     headers.append('Accept', 'application/json');
     const response = await fetch(url, {headers});
@@ -34,12 +44,7 @@ const getDataFromRealAPI = async (url) => {
     if (!response.ok) {
         throw new Error('Failed to fetch', url);
     }
-    const apiJson = await response.json(); // This will error if the response is not JSON
-    // The big lump and individual site have identical structures
-    if (!checkJsonLooksOk(apiJson)) {
-        throw new Error('The JSON does not have the required structure');
-    }
-    return apiJson;
+    return response;
 }
  
 //#endregion
@@ -58,7 +63,7 @@ const getDirectoryPath = (paCode) => {
     }
 }
 
-const checkJsonLooksOk = (jsonData) => {
+const checkJsonLooks = (jsonData) => {
 
     // The top node should have two properties
     if (!(
@@ -92,7 +97,46 @@ const checkJsonLooksOk = (jsonData) => {
 
     return true;
 }
- 
+
+//#endregion
+
+//#region methods to repeat a function on error
+
+const pause = async (milliseconds) => {
+    // Wait for a wee bit before resolving the promise.
+    return new Promise(resolve => setTimeout(resolve, milliseconds));
+}
+
+const repeatedlyAttempt = async (func, args, attempts) => {
+    try {
+        // Try the function with the supplied arguments.
+        const result = await func(...args);
+
+        // Return the result if it's successful.
+        return result;
+        // If it failed...
+    } catch {
+        // Tell the user that one attempt failed.
+        console.log('Attempted, but failed.')
+
+        // If we still have some attempts...
+        if (attempts) {
+            // Tell the user how many remain.
+            console.log(`${attempts} attempts remain.`);
+
+            // Let the server catch it's breath for a couple of seconds in case
+            // we're hammering it in to the ground.
+            await pause(2000);
+
+            // Try again, crossing our fingers.
+            return await repeatedlyAttempt(func, args, --attempts);
+        }
+
+        // If we have no attempts left. Throw an error and stop.
+        throw new Error('Repeatedly attempted, but continually failed. Cannot continue.')
+    }
+}
+
 //#endregion
 
 
