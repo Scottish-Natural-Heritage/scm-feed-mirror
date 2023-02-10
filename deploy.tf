@@ -51,7 +51,7 @@ resource "aws_s3_bucket_website_configuration" "website" {
     suffix = "index.json"
   }
   error_document {
-    key = "404.json"
+    key = "404.html"
   }
 }
 
