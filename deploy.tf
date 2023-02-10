@@ -50,9 +50,6 @@ resource "aws_s3_bucket_website_configuration" "website" {
   index_document {
     suffix = "index.json"
   }
-  error_document {
-    key = "404.html"
-  }
 }
 
 # Allow GET requests from anywhere
@@ -67,7 +64,7 @@ resource "aws_s3_bucket_cors_configuration" "cors" {
 
 # Upload all the JSON files to S3
 resource "aws_s3_object" "content" {
-  for_each = fileset("mirror", "**/*.{json,html}")
+  for_each = fileset("mirror", "**/*.json")
 
   bucket       = aws_s3_bucket.bucket.bucket
   key          = each.key
