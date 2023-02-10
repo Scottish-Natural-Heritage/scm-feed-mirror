@@ -67,7 +67,7 @@ resource "aws_s3_bucket_cors_configuration" "cors" {
 
 # Upload all the JSON files to S3
 resource "aws_s3_object" "content" {
-  for_each = fileset("mirror", "**/*.json,**/*.html")
+  for_each = fileset("mirror", "**/*.{json,html}")
 
   bucket       = aws_s3_bucket.bucket.bucket
   key          = each.key
