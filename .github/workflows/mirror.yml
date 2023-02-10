@@ -1,0 +1,30 @@
+name: Mirror latest SCM Feed data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  '42 5 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out the main branch of this repo
+      uses: actions/checkout@v3
+      with:
+        ref: main
+    - name: Set up node
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+    - name: Fetch latest data
+      run: |-
+        npm run start
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add --all
+        timestamp=$(date --utc)
+        git commit --message="Latest data: ${timestamp}" || exit 0
+        git push
