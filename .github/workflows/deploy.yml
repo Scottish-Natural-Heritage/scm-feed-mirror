@@ -1,6 +1,10 @@
 name: Deploy the latest SCM Feed data to AWS
 
 on:
+  workflow_run:
+    workflows: [Mirror latest SCM Feed data]
+    types:
+      - completed
   workflow_dispatch:
 
 jobs:
