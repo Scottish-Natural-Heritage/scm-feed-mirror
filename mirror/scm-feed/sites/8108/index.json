@@ -1,0 +1,231 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "8108",
+			"SiteName": "Valla Field",
+			"SiteDesignation": "SSSI",
+			"LocalAuthority": "Shetland Islands",
+			"SNHArea": "National Operations North",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Zetland",
+						"Prime": "P",
+						"Overlap": 629.19,
+						"Percentage": 100
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Shetland Isles",
+						"Prime": "P",
+						"Overlap": 0.67,
+						"Percentage": 0
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Orkney and Shetland",
+						"Prime": "P",
+						"Overlap": 629.19,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "13169",
+					"Name": "Great skua (Stercorarius skua), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2013-06-11",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "13170",
+					"Name": "Red-throated diver (Gavia stellata), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2013-07-02",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "16803",
+					"Name": "Mineralogy of Scotland",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Earth sciences",
+					"Subcategory": "Mineralogy",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2007-01-21",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Earth Sciences",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

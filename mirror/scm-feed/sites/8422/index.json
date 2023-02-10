@@ -1,0 +1,208 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "8422",
+			"SiteName": "Eilean na Muice Duibhe (Duich Moss), Islay",
+			"SiteDesignation": "Ramsar",
+			"LocalAuthority": "Argyll and Bute",
+			"SNHArea": "National Operations West",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "South Ebudes",
+						"Prime": "P",
+						"Overlap": 576.42,
+						"Percentage": 100
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "South Ebudes",
+						"Prime": "P",
+						"Overlap": 576.42,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Argyll",
+						"Prime": "P",
+						"Overlap": 576.42,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Argyll",
+						"Prime": "P",
+						"Overlap": 576.42,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "14148",
+					"Name": "Blanket bog",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Upland habitat",
+					"Subcategory": "Bogs (Upland)",
+					"SummaryCondition": "Recovering",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2007-11-20",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Burning",
+								"PressureRecordedAs": "Burning"
+							},
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
+								"keywords": "Rhododendron"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Unfavourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14149",
+					"Name": "Greenland white-fronted goose (Anser albifrons flavirostris), non-breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of non-breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Declining",
+					"LatestAssessedVisitDate": "2013-04-30",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "20973",
+					"Name": "Depressions on peat substrates",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Bogs (Upland)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				}
+			]
+		}
+	]
+}

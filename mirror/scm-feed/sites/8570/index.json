@@ -1,0 +1,534 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "8570",
+			"SiteName": "Rinns of Islay",
+			"SiteDesignation": "SPA",
+			"LocalAuthority": "Argyll and Bute",
+			"SNHArea": "National Operations West",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "South Ebudes",
+						"Prime": "P",
+						"Overlap": 9434.15,
+						"Percentage": 100
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Argyll",
+						"Prime": "P",
+						"Overlap": 40.47,
+						"Percentage": 0
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Argyll",
+						"Prime": "P",
+						"Overlap": 9434.15,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "14732",
+					"Name": "Chough (Pyrrhocorax pyrrhocorax), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2013-01-30",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Agricultural operations",
+								"PressureRecordedAs": "Agricultural operations"
+							},
+							{
+								"Description": "To be identified",
+								"PressureRecordedAs": "Pressure to be identified "
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14733",
+					"Name": "Common scoter (Melanitta nigra), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2013-09-30",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Unfavourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14734",
+					"Name": "Corncrake (Crex crex), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2013-09-30",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Development",
+								"PressureRecordedAs": "Development with planning permission"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14735",
+					"Name": "Hen harrier (Circus cyaneus), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2016-06-30",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14736",
+					"Name": "Chough (Pyrrhocorax pyrrhocorax), non-breeding",
+					"ActionPlanFeature": "Y",
+					"WaterFeature": "N",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of non-breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2013-01-30",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Agricultural operations",
+								"PressureRecordedAs": "Agricultural operations"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14737",
+					"Name": "Greenland white-fronted goose (Anser albifrons flavirostris), non-breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of non-breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2013-04-30",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14738",
+					"Name": "Whooper swan (Cygnus cygnus), passage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of non-breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2015-04-02",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

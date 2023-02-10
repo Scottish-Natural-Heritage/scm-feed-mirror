@@ -1,0 +1,116 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "962",
+			"SiteName": "Loch Ba Woodland",
+			"SiteDesignation": "SSSI",
+			"LocalAuthority": "Argyll and Bute",
+			"SNHArea": "National Operations West",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Mid Ebudes",
+						"Prime": "P",
+						"Overlap": 118.43,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Mull",
+						"Prime": "P",
+						"Overlap": 118.43,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Argyll",
+						"Prime": "P",
+						"Overlap": 118.43,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "11410",
+					"Name": "Upland oak woodland",
+					"ActionPlanFeature": "Y",
+					"WaterFeature": "N",
+					"Category": "Woodland",
+					"Subcategory": "Broad-leaved, mixed and yew woodland",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2000-11-16",
+					"LatestAssessedSCMcycle": "1",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Unfavourable"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

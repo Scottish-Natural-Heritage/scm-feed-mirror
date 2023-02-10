@@ -1,0 +1,99 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "10262",
+			"SiteName": "Portencross Woods",
+			"SiteDesignation": "SSSI",
+			"LocalAuthority": "North Ayrshire",
+			"SNHArea": "National Operations West Central",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Ayrshire",
+						"Prime": "P",
+						"Overlap": 18.52,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 18.52,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "16769",
+					"Name": "Upland mixed ash woodland",
+					"ActionPlanFeature": "Y",
+					"WaterFeature": "Y",
+					"Category": "Woodland",
+					"Subcategory": "Broad-leaved, mixed and yew woodland",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2016-05-31",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Bracken"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Deer, Sheep"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Not Assessed"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

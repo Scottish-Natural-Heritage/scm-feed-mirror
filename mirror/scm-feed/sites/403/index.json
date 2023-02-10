@@ -1,0 +1,109 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "403",
+			"SiteName": "Corrie Burn",
+			"SiteDesignation": "SSSI",
+			"LocalAuthority": "North Lanarkshire",
+			"SNHArea": "National Operations West Central",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Stirling",
+						"Prime": "P",
+						"Overlap": 11.08,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 11.08,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "10257",
+					"Name": "Lower Carboniferous [Dinantian - Namurian (part)]",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Earth sciences",
+					"Subcategory": "Stratigraphy",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Recovered",
+					"LatestAssessedVisitDate": "2012-11-28",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Earth Sciences",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Dumping/ storage of materials",
+								"PressureRecordedAs": "Dumping/spreading/storage of materials"
+							},
+							{
+								"Description": "Under grazing",
+								"PressureRecordedAs": "Grazing - under"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Unfavourable"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

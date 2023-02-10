@@ -1,0 +1,193 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "198",
+			"SiteName": "Bennane Head Grasslands",
+			"SiteDesignation": "SSSI",
+			"LocalAuthority": "South Ayrshire",
+			"SNHArea": "National Operations West Central",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Ayrshire",
+						"Prime": "P",
+						"Overlap": 70.62,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "West Dumfries and Galloway",
+						"Prime": "P",
+						"Overlap": 70.62,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 70.62,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "9886",
+					"Name": "Lowland neutral grassland",
+					"ActionPlanFeature": "Y",
+					"WaterFeature": "N",
+					"Category": "Lowland grassland",
+					"Subcategory": "Neutral grassland",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2012-08-21",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+							},
+							{
+								"Description": "Water management",
+								"PressureRecordedAs": "Water management"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Unfavourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "16391",
+					"Name": "Green-winged orchid (Orchis morio)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2008-05-17",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Grazing - other",
+								"PressureRecordedAs": "Grazing - appropriate level"
+							},
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

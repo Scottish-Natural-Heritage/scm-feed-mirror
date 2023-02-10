@@ -1,0 +1,400 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "188",
+			"SiteName": "Ben Lui",
+			"SiteDesignation": "SSSI",
+			"LocalAuthority": "Argyll and Bute",
+			"SNHArea": "National Operations South",
+			"NationalPark": "Loch Lomond and The Trossachs",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "West Perth",
+						"Prime": "S",
+						"Overlap": 37.97,
+						"Percentage": 1
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Mid Perth",
+						"Prime": "S",
+						"Overlap": 1066.9,
+						"Percentage": 36
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Main Argyll",
+						"Prime": "P",
+						"Overlap": 1822.66,
+						"Percentage": 62
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Inveraray & Tyndrum",
+						"Prime": "P",
+						"Overlap": 2927.53,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Tay",
+						"Prime": "S",
+						"Overlap": 1039.86,
+						"Percentage": 36
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Argyll",
+						"Prime": "P",
+						"Overlap": 1809.55,
+						"Percentage": 62
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "9838",
+					"Name": "Vascular plant assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2015-08-13",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Recovering"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9841",
+					"Name": "Upland assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Mosaic",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2016-08-01",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Deer, Sheep"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "16563",
+					"Name": "Dalradian",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Earth sciences",
+					"Subcategory": "Structural and metamorphic geology",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2011-11-10",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Earth Sciences",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Not Assessed"
+							}
+						]
+					}
+				},
+				{
+					"Id": "16564",
+					"Name": "Mineralogy of Scotland",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Earth sciences",
+					"Subcategory": "Mineralogy",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2012-09-04",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Earth Sciences",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Not Assessed"
+							}
+						]
+					}
+				},
+				{
+					"Id": "16565",
+					"Name": "Invertebrate assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2016-08-01",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Not Assessed"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

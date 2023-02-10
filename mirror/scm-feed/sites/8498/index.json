@@ -1,0 +1,588 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "8498",
+			"SiteName": "Fetlar",
+			"SiteDesignation": "SPA",
+			"LocalAuthority": "Shetland Islands",
+			"SNHArea": "National Operations North",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Zetland",
+						"Prime": "P",
+						"Overlap": 16964.69,
+						"Percentage": 100
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Shetland Isles",
+						"Prime": "P",
+						"Overlap": 14416.01,
+						"Percentage": 85
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Orkney and Shetland",
+						"Prime": "P",
+						"Overlap": 16959.51,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "14426",
+					"Name": "Seabird assemblage, breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2017-06-21",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14427",
+					"Name": "Arctic skua (Stercorarius parasiticus), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2017-06-21",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Inter-specific competition",
+								"PressureRecordedAs": "Inter-specific competition"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14428",
+					"Name": "Arctic tern (Sterna paradisaea), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2017-06-21",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14429",
+					"Name": "Dunlin (Calidris alpina schinzii), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2003-06-30",
+					"LatestAssessedSCMcycle": "1",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14430",
+					"Name": "Fulmar (Fulmarus glacialis), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2016-06-26",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14431",
+					"Name": "Great skua (Stercorarius skua), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2017-06-21",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14432",
+					"Name": "Red-necked phalarope (Phalaropus lobatus), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Recovered",
+					"LatestAssessedVisitDate": "2014-07-31",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Unfavourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14433",
+					"Name": "Whimbrel (Numenius phaeopus), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2002-06-30",
+					"LatestAssessedSCMcycle": "1",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

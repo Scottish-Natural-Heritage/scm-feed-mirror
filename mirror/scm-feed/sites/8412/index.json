@@ -1,0 +1,447 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "8412",
+			"SiteName": "Caithness and Sutherland Peatlands",
+			"SiteDesignation": "Ramsar",
+			"LocalAuthority": "Highland",
+			"SNHArea": "National Operations North",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "East Sutherland",
+						"Prime": "S",
+						"Overlap": 29784.63,
+						"Percentage": 21
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "East Sutherland",
+						"Prime": "S",
+						"Overlap": 29784.63,
+						"Percentage": 21
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Caithness",
+						"Prime": "S",
+						"Overlap": 49023.6,
+						"Percentage": 34
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Caithness",
+						"Prime": "S",
+						"Overlap": 49023.6,
+						"Percentage": 34
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "West Sutherland",
+						"Prime": "P",
+						"Overlap": 64763.05,
+						"Percentage": 45
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "West Sutherland",
+						"Prime": "P",
+						"Overlap": 64763.05,
+						"Percentage": 45
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "North Coast",
+						"Prime": "P",
+						"Overlap": 0,
+						"Percentage": 0
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "North Coast",
+						"Prime": "P",
+						"Overlap": 0,
+						"Percentage": 0
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "North West Sutherland",
+						"Prime": "S",
+						"Overlap": 39824.59,
+						"Percentage": 28
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "North West Sutherland",
+						"Prime": "S",
+						"Overlap": 39824.59,
+						"Percentage": 28
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "East Sutherland",
+						"Prime": "S",
+						"Overlap": 11341.04,
+						"Percentage": 8
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "East Sutherland",
+						"Prime": "S",
+						"Overlap": 11341.04,
+						"Percentage": 8
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "West Sutherland - East",
+						"Prime": "S",
+						"Overlap": 7128.2,
+						"Percentage": 5
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "West Sutherland - East",
+						"Prime": "S",
+						"Overlap": 7128.2,
+						"Percentage": 5
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Northern",
+						"Prime": "P",
+						"Overlap": 75896.47,
+						"Percentage": 53
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Northern",
+						"Prime": "P",
+						"Overlap": 75896.47,
+						"Percentage": 53
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North Highland",
+						"Prime": "P",
+						"Overlap": 143571.28,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North Highland",
+						"Prime": "P",
+						"Overlap": 143571.28,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "14120",
+					"Name": "Breeding bird assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Birds",
+					"Subcategory": "Birds - assemblages of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2009-07-12",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Not Assessed"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14121",
+					"Name": "Blanket bog",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Upland habitat",
+					"Subcategory": "Bogs (Upland)",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2017-06-08",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Burning",
+								"PressureRecordedAs": "Burning"
+							},
+							{
+								"Description": "Game/ fisheries management",
+								"PressureRecordedAs": "Game or fisheries management"
+							},
+							{
+								"Description": "Trampling",
+								"PressureRecordedAs": "Trampling"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14122",
+					"Name": "Dunlin (Calidris alpina schinzii), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2015-06-30",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Forestry operations",
+								"PressureRecordedAs": "Forestry operations"
+							},
+							{
+								"Description": "Recreation/disturbance",
+								"PressureRecordedAs": "Recreation/disturbance"
+							},
+							{
+								"Description": "Water management",
+								"PressureRecordedAs": "Water management"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14123",
+					"Name": "Greylag goose (Anser anser), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2018-06-08",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Burning",
+								"PressureRecordedAs": "Burning"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Not Assessed"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

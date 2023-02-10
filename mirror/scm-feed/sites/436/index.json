@@ -1,0 +1,187 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "436",
+			"SiteName": "Craighoyle Woodland",
+			"SiteDesignation": "SSSI",
+			"LocalAuthority": "Argyll and Bute",
+			"SNHArea": "National Operations West",
+			"NationalPark": "Loch Lomond and The Trossachs",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Main Argyll",
+						"Prime": "P",
+						"Overlap": 77.57,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 77.57,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "10320",
+					"Name": "Bryophyte assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Non-vascular plants",
+					"Subcategory": "Bryophytes",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2009-01-21",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "10321",
+					"Name": "Lichen assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Non-vascular plants",
+					"Subcategory": "Lichen",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2018-02-04",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence or changing extent of invasive species"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Recovering"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

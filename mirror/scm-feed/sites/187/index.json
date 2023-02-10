@@ -1,0 +1,340 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "187",
+			"SiteName": "Ben Loyal",
+			"SiteDesignation": "SSSI",
+			"LocalAuthority": "Highland",
+			"SNHArea": "National Operations North",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "West Sutherland",
+						"Prime": "P",
+						"Overlap": 4339.27,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "North West Sutherland",
+						"Prime": "P",
+						"Overlap": 4339.27,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North Highland",
+						"Prime": "P",
+						"Overlap": 4339.27,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "9834",
+					"Name": "Upland birch woodland",
+					"ActionPlanFeature": "Y",
+					"WaterFeature": "Y",
+					"Category": "Woodland",
+					"Subcategory": "Broad-leaved, mixed and yew woodland",
+					"SummaryCondition": "Recovering",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2010-06-02",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Game/ fisheries management",
+								"PressureRecordedAs": "Game or fisheries management"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Deer"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Recovering"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9835",
+					"Name": "Blanket bog",
+					"ActionPlanFeature": "Y",
+					"WaterFeature": "Y",
+					"Category": "Upland habitat",
+					"Subcategory": "Bogs (Upland)",
+					"SummaryCondition": "Recovering",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2010-07-09",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Game/ fisheries management",
+								"PressureRecordedAs": "Game or fisheries management"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Recovering"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9836",
+					"Name": "Caledonian Igneous",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Earth sciences",
+					"Subcategory": "Igneous petrology",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2018-07-04",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Earth Sciences",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9837",
+					"Name": "Upland assemblage",
+					"ActionPlanFeature": "Y",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Mosaic",
+					"SummaryCondition": "Recovering",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2010-07-09",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Game/ fisheries management",
+								"PressureRecordedAs": "Game or fisheries management"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Recovering"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

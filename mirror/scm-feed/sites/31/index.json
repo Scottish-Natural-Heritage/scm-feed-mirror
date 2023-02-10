@@ -1,0 +1,339 @@
+{
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "31",
+			"SiteName": "Aldons Hill",
+			"SiteDesignation": "SSSI",
+			"LocalAuthority": "South Ayrshire",
+			"SNHArea": "National Operations West Central",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Ayrshire",
+						"Prime": "P",
+						"Overlap": 234.45,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "West Dumfries and Galloway",
+						"Prime": "P",
+						"Overlap": 234.45,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 234.45,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "9526",
+					"Name": "Upland assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Mosaic",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2008-10-01",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14968",
+					"Name": "Calaminarian grassland and serpentine heath",
+					"ActionPlanFeature": "Y",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Inland rock",
+					"SummaryCondition": "Recovering",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2002-07-10",
+					"LatestAssessedSCMcycle": "1",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Agricultural operations",
+								"PressureRecordedAs": "Agricultural operations"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Unfavourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14969",
+					"Name": "Subalpine dry heath",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Dwarf shrub heath (Upland)",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2015-05-12",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Agricultural operations",
+								"PressureRecordedAs": "Agricultural operations"
+							},
+							{
+								"Description": "Grazing - other",
+								"PressureRecordedAs": "Grazing - appropriate level"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Recovering"
+							}
+						]
+					}
+				},
+				{
+					"Id": "14970",
+					"Name": "Subalpine wet heath",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Upland habitat",
+					"Subcategory": "Dwarf shrub heath (Upland)",
+					"SummaryCondition": "Recovering",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2003-06-04",
+					"LatestAssessedSCMcycle": "1",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Burning",
+								"PressureRecordedAs": "Burning"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Recovering"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
+}

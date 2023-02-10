@@ -1,1283 +1,1283 @@
 {
-    "refreshDateTime": "2023-02-07 04:17:33",
-    "Site": [
-        {
-            "Code": "9",
-            "SiteName": "Abernethy Forest",
-            "SiteDesignation": "SSSI",
-            "LocalAuthority": "Highland",
-            "SNHArea": "National Operations Central Highland",
-            "NationalPark": "Cairngorms",
-            "ProtectedOverlays": {
-                "Overlay": [
-                    {
-                        "Type": "VICE_COUNTIES",
-                        "Ref": "Elgin",
-                        "Prime": "S",
-                        "Overlap": 1655.93,
-                        "Percentage": 29.0
-                    },
-                    {
-                        "Type": "VICE_COUNTIES",
-                        "Ref": "Easterness",
-                        "Prime": "P",
-                        "Overlap": 4137.18,
-                        "Percentage": 71.0
-                    },
-                    {
-                        "Type": "DEER_MANAGEMENT_GROUP",
-                        "Ref": "Cairngorm/Speyside",
-                        "Prime": "P",
-                        "Overlap": 5793.12,
-                        "Percentage": 100.0
-                    },
-                    {
-                        "Type": "SEPA_SUB_BASIN_DISTRICTS",
-                        "Ref": "North East Scotland",
-                        "Prime": "P",
-                        "Overlap": 5793.12,
-                        "Percentage": 100.0
-                    }
-                ]
-            },
-            "SiteFeature": [
-                {
-                    "Id": "9479",
-                    "Name": "Native pinewood",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "Y",
-                    "Category": "Woodland",
-                    "Subcategory": "Coniferous woodland",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2008-09-30",
-                    "LatestAssessedSCMcycle": "2",
-                    "FeatureType": "Habitats",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Game/ fisheries management",
-                                "PressureRecordedAs": "Game or fisheries management"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9480",
-                    "Name": "Subalpine dry heath",
-                    "ActionPlanFeature": "Y",
-                    "WaterFeature": "N",
-                    "Category": "Upland habitat",
-                    "Subcategory": "Dwarf shrub heath (Upland)",
-                    "SummaryCondition": "Unfavourable",
-                    "LatestAssessedCondition": "Unfavourable No change",
-                    "LatestAssessedVisitDate": "2004-09-27",
-                    "LatestAssessedSCMcycle": "1",
-                    "FeatureType": "Habitats",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Burning",
-                                "PressureRecordedAs": "Burning"
-                            },
-                            {
-                                "Description": "Under grazing",
-                                "PressureRecordedAs": "Grazing - under"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Unfavourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Unfavourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Unfavourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Unfavourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9481",
-                    "Name": "Basin fen",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "Y",
-                    "Category": "Wetlands",
-                    "Subcategory": "Fen, marsh and swamp (Wetland)",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2014-10-18",
-                    "LatestAssessedSCMcycle": "3",
-                    "FeatureType": "Habitats",
-                    "Pressures": {
-                        "Pressure": []
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9482",
-                    "Name": "Raised bog",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "Y",
-                    "Category": "Wetlands",
-                    "Subcategory": "Bogs (Wetland)",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2014-08-12",
-                    "LatestAssessedSCMcycle": "3",
-                    "FeatureType": "Habitats",
-                    "Pressures": {
-                        "Pressure": []
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9483",
-                    "Name": "Vascular plant assemblage",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "N",
-                    "Category": "Vascular plants",
-                    "Subcategory": "Vascular plants",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2007-03-28",
-                    "LatestAssessedSCMcycle": "2",
-                    "FeatureType": "Species",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Maintenance activities ",
-                                "PressureRecordedAs": "Maintenance activities carried on site by an organisation"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9484",
-                    "Name": "Fungi assemblage",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "N",
-                    "Category": "Non-vascular plants",
-                    "Subcategory": "Fungi",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2014-10-01",
-                    "LatestAssessedSCMcycle": "3",
-                    "FeatureType": "Species",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Grazing - other",
-                                "PressureRecordedAs": "Grazing - appropriate level"
-                            },
-                            {
-                                "Description": "Under grazing",
-                                "PressureRecordedAs": "Grazing - under"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9485",
-                    "Name": "Lichen assemblage",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "N",
-                    "Category": "Non-vascular plants",
-                    "Subcategory": "Lichen",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2010-06-25",
-                    "LatestAssessedSCMcycle": "2",
-                    "FeatureType": "Species",
-                    "Pressures": {
-                        "Pressure": []
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9486",
-                    "Name": "Dragonfly assemblage",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "Y",
-                    "Category": "Invertebrates",
-                    "Subcategory": "Dragonflies",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2013-08-01",
-                    "LatestAssessedSCMcycle": "3",
-                    "FeatureType": "Species",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Forestry operations",
-                                "PressureRecordedAs": "Forestry operations"
-                            },
-                            {
-                                "Description": "Natural event",
-                                "PressureRecordedAs": "Natural event"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9487",
-                    "Name": "Invertebrate assemblage",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "N",
-                    "Category": "Invertebrates",
-                    "Subcategory": "Other invertebrates",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2013-08-01",
-                    "LatestAssessedSCMcycle": "3",
-                    "FeatureType": "Species",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Trampling",
-                                "PressureRecordedAs": "Trampling"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9488",
-                    "Name": "Breeding bird assemblage",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "Y",
-                    "Category": "Birds",
-                    "Subcategory": "Birds - assemblages of breeding birds",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2013-04-23",
-                    "LatestAssessedSCMcycle": "3",
-                    "FeatureType": "Species",
-                    "Pressures": {
-                        "Pressure": []
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9491",
-                    "Name": "Quaternary of Scotland",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "Y",
-                    "Category": "Earth sciences",
-                    "Subcategory": "Quaternary geology and geomorphology",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2015-03-19",
-                    "LatestAssessedSCMcycle": "3",
-                    "FeatureType": "Earth Sciences",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Climate Change",
-                                "PressureRecordedAs": "Climate change"
-                            },
-                            {
-                                "Description": "Natural event",
-                                "PressureRecordedAs": "Tree regeneration"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9492",
-                    "Name": "Fluvial Geomorphology of Scotland",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "Y",
-                    "Category": "Earth sciences",
-                    "Subcategory": "Geomorphology",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2015-03-17",
-                    "LatestAssessedSCMcycle": "3",
-                    "FeatureType": "Earth Sciences",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Dumping/ storage of materials",
-                                "PressureRecordedAs": "Dumping/spreading/storage of materials"
-                            },
-                            {
-                                "Description": "Extraction",
-                                "PressureRecordedAs": "Extraction - sand & gravel"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9493",
-                    "Name": "Crested tit (Lophophanes cristatus), breeding",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "N",
-                    "Category": "Birds",
-                    "Subcategory": "Birds - aggregations of breeding birds",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "1998-05-03",
-                    "LatestAssessedSCMcycle": "1",
-                    "FeatureType": "Species",
-                    "Pressures": {
-                        "Pressure": []
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "9494",
-                    "Name": "Scottish crossbill (Loxia scotica), breeding",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "N",
-                    "Category": "Birds",
-                    "Subcategory": "Birds - aggregations of breeding birds",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2012-03-28",
-                    "LatestAssessedSCMcycle": "2",
-                    "FeatureType": "Species",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Over grazing",
-                                "PressureRecordedAs": "Grazing - over"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Not Assessed"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Not Assessed"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Not Assessed"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Not Assessed"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Not Assessed"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Not Assessed"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "15023",
-                    "Name": "Beetle assemblage",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "N",
-                    "Category": "Invertebrates",
-                    "Subcategory": "Other invertebrates",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Maintained",
-                    "LatestAssessedVisitDate": "2002-11-17",
-                    "LatestAssessedSCMcycle": "1",
-                    "FeatureType": "Species",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Over grazing",
-                                "PressureRecordedAs": "Grazing - over"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Favourable"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "16486",
-                    "Name": "Capercaillie (Tetrao urogallus), breeding",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "Y",
-                    "Category": "Birds",
-                    "Subcategory": "Birds - aggregations of breeding birds",
-                    "SummaryCondition": "Favourable",
-                    "LatestAssessedCondition": "Favourable Declining",
-                    "LatestAssessedVisitDate": "2014-04-19",
-                    "LatestAssessedSCMcycle": "3",
-                    "FeatureType": "Species",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Under grazing",
-                                "PressureRecordedAs": "Grazing - under"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Not Assessed"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Not Assessed"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "Id": "16487",
-                    "Name": "Osprey (Pandion haliaetus), breeding",
-                    "ActionPlanFeature": "N",
-                    "WaterFeature": "Y",
-                    "Category": "Birds",
-                    "Subcategory": "Birds - aggregations of breeding birds",
-                    "SummaryCondition": "Recovering",
-                    "LatestAssessedCondition": "Unfavourable Declining",
-                    "LatestAssessedVisitDate": "2013-06-14",
-                    "LatestAssessedSCMcycle": "3",
-                    "FeatureType": "Species",
-                    "Pressures": {
-                        "Pressure": [
-                            {
-                                "Description": "Other",
-                                "PressureRecordedAs": "No on-site activities related to feature condition noted"
-                            }
-                        ]
-                    },
-                    "HistoryDetails": {
-                        "Year": [
-                            {
-                                "year": "2021",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2020",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2019",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2018",
-                                "AnnualSummaryCondition": "Recovering"
-                            },
-                            {
-                                "year": "2017",
-                                "AnnualSummaryCondition": "Unfavourable"
-                            },
-                            {
-                                "year": "2016",
-                                "AnnualSummaryCondition": "Unfavourable"
-                            },
-                            {
-                                "year": "2015",
-                                "AnnualSummaryCondition": "Unfavourable"
-                            },
-                            {
-                                "year": "2014",
-                                "AnnualSummaryCondition": "Unfavourable"
-                            },
-                            {
-                                "year": "2013",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2012",
-                                "AnnualSummaryCondition": "Favourable"
-                            },
-                            {
-                                "year": "2011",
-                                "AnnualSummaryCondition": "Not Assessed"
-                            },
-                            {
-                                "year": "2010",
-                                "AnnualSummaryCondition": "Not Assessed"
-                            }
-                        ]
-                    }
-                }
-            ]
-        }
-    ]
+	"refreshDateTime": "2023-02-10 04:17:34",
+	"Site": [
+		{
+			"Code": "9",
+			"SiteName": "Abernethy Forest",
+			"SiteDesignation": "SSSI",
+			"LocalAuthority": "Highland",
+			"SNHArea": "National Operations Central Highland",
+			"NationalPark": "Cairngorms",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Elgin",
+						"Prime": "S",
+						"Overlap": 1655.93,
+						"Percentage": 29
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Easterness",
+						"Prime": "P",
+						"Overlap": 4137.18,
+						"Percentage": 71
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Cairngorm/Speyside",
+						"Prime": "P",
+						"Overlap": 5793.12,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North East Scotland",
+						"Prime": "P",
+						"Overlap": 5793.12,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "9479",
+					"Name": "Native pinewood",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Woodland",
+					"Subcategory": "Coniferous woodland",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2008-09-30",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Game/ fisheries management",
+								"PressureRecordedAs": "Game or fisheries management"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9480",
+					"Name": "Subalpine dry heath",
+					"ActionPlanFeature": "Y",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Dwarf shrub heath (Upland)",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2004-09-27",
+					"LatestAssessedSCMcycle": "1",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Burning",
+								"PressureRecordedAs": "Burning"
+							},
+							{
+								"Description": "Under grazing",
+								"PressureRecordedAs": "Grazing - under"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Unfavourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9481",
+					"Name": "Basin fen",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Wetlands",
+					"Subcategory": "Fen, marsh and swamp (Wetland)",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2014-10-18",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9482",
+					"Name": "Raised bog",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Wetlands",
+					"Subcategory": "Bogs (Wetland)",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2014-08-12",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9483",
+					"Name": "Vascular plant assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2007-03-28",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Maintenance activities ",
+								"PressureRecordedAs": "Maintenance activities carried on site by an organisation"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9484",
+					"Name": "Fungi assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Non-vascular plants",
+					"Subcategory": "Fungi",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2014-10-01",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Grazing - other",
+								"PressureRecordedAs": "Grazing - appropriate level"
+							},
+							{
+								"Description": "Under grazing",
+								"PressureRecordedAs": "Grazing - under"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9485",
+					"Name": "Lichen assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Non-vascular plants",
+					"Subcategory": "Lichen",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2010-06-25",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9486",
+					"Name": "Dragonfly assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Invertebrates",
+					"Subcategory": "Dragonflies",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2013-08-01",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Forestry operations",
+								"PressureRecordedAs": "Forestry operations"
+							},
+							{
+								"Description": "Natural event",
+								"PressureRecordedAs": "Natural event"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9487",
+					"Name": "Invertebrate assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2013-08-01",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Trampling",
+								"PressureRecordedAs": "Trampling"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9488",
+					"Name": "Breeding bird assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - assemblages of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2013-04-23",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9491",
+					"Name": "Quaternary of Scotland",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Earth sciences",
+					"Subcategory": "Quaternary geology and geomorphology",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2015-03-19",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Earth Sciences",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Climate Change",
+								"PressureRecordedAs": "Climate change"
+							},
+							{
+								"Description": "Natural event",
+								"PressureRecordedAs": "Tree regeneration"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9492",
+					"Name": "Fluvial Geomorphology of Scotland",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Earth sciences",
+					"Subcategory": "Geomorphology",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2015-03-17",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Earth Sciences",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Dumping/ storage of materials",
+								"PressureRecordedAs": "Dumping/spreading/storage of materials"
+							},
+							{
+								"Description": "Extraction",
+								"PressureRecordedAs": "Extraction - sand & gravel"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9493",
+					"Name": "Crested tit (Lophophanes cristatus), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "1998-05-03",
+					"LatestAssessedSCMcycle": "1",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "9494",
+					"Name": "Scottish crossbill (Loxia scotica), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2012-03-28",
+					"LatestAssessedSCMcycle": "2",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Not Assessed"
+							}
+						]
+					}
+				},
+				{
+					"Id": "15023",
+					"Name": "Beetle assemblage",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2002-11-17",
+					"LatestAssessedSCMcycle": "1",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "16486",
+					"Name": "Capercaillie (Tetrao urogallus), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Declining",
+					"LatestAssessedVisitDate": "2014-04-19",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Under grazing",
+								"PressureRecordedAs": "Grazing - under"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Not Assessed"
+							}
+						]
+					}
+				},
+				{
+					"Id": "16487",
+					"Name": "Osprey (Pandion haliaetus), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Recovering",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2013-06-14",
+					"LatestAssessedSCMcycle": "3",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": [
+							{
+								"Description": "Other",
+								"PressureRecordedAs": "No on-site activities related to feature condition noted"
+							}
+						]
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2021",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2020",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Recovering"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Not Assessed"
+							}
+						]
+					}
+				}
+			]
+		}
+	]
 }
