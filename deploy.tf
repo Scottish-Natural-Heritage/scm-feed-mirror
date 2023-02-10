@@ -50,6 +50,9 @@ resource "aws_s3_bucket_website_configuration" "website" {
   index_document {
     suffix = "index.json"
   }
+  error_document {
+    key = "404.json"
+  }
 }
 
 # Allow GET requests from anywhere
