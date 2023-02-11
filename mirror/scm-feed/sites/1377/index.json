@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-02-10 04:17:34",
+	"refreshDateTime": "2023-02-11 04:17:41",
 	"Site": [
 		{
 			"Code": "1377",
@@ -35,7 +35,7 @@
 					"Subcategory": "Fen, marsh and swamp (Grassland)",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2017-09-05",
+					"LatestAssessedVisitDate": "2008-05-20",
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
