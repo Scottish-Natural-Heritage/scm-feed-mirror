@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-02-12 04:17:36",
+	"refreshDateTime": "2023-02-13 04:17:43",
 	"Site": [
 		{
 			"Code": "8543",
@@ -35,7 +35,7 @@
 					"Subcategory": "Birds - aggregations of non-breeding birds",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2016-02-04",
+					"LatestAssessedVisitDate": "2013-07-12",
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
