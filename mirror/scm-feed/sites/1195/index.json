@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-02-14 04:17:43",
+	"refreshDateTime": "2023-02-15 04:17:25",
 	"Site": [
 		{
 			"Code": "1195",
@@ -115,8 +115,8 @@
 					"Subcategory": "Montane habitats",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2006-07-25",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2022-07-13",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-02-14 04:17:43",
+	"refreshDateTime": "2023-02-15 04:17:25",
 	"Site": [
 		{
 			"Code": "508",
@@ -193,12 +193,8 @@
 					"Pressures": {
 						"Pressure": [
 							{
-								"Description": "Forestry operations",
-								"PressureRecordedAs": "Forestry operations"
-							},
-							{
-								"Description": "Water management",
-								"PressureRecordedAs": "Water management"
+								"Description": "Under grazing",
+								"PressureRecordedAs": "Grazing - under"
 							}
 						]
 					},
