@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-02-15 04:17:25",
+	"refreshDateTime": "2023-02-17 04:17:30",
 	"Site": [
 		{
 			"Code": "552",
@@ -39,18 +39,7 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
-								"keywords": "Bracken"
-							},
-							{
-								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Recreation/disturbance",
-								"keywords": "Dog walking, Walking, Wild camping"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
