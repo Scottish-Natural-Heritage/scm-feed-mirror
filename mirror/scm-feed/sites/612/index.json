@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-02-20 04:17:36",
+	"refreshDateTime": "2023-02-22 04:17:42",
 	"Site": [
 		{
 			"Code": "612",
@@ -49,8 +49,8 @@
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2010-06-30",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2022-05-20",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -61,6 +61,10 @@
 							{
 								"Description": "Invasive species",
 								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
 							}
 						]
 					},

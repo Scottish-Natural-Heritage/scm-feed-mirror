@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-02-20 04:17:36",
+	"refreshDateTime": "2023-02-22 04:17:42",
 	"Site": [
 		{
 			"Code": "458",
@@ -40,10 +40,10 @@
 					"WaterFeature": "N",
 					"Category": "Earth sciences",
 					"Subcategory": "Structural and metamorphic geology",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Declining",
-					"LatestAssessedVisitDate": "2017-02-28",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2022-11-28",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": [

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-02-20 04:17:36",
+	"refreshDateTime": "2023-02-22 04:17:42",
 	"Site": [
 		{
 			"Code": "814",
@@ -47,10 +47,10 @@
 					"WaterFeature": "Y",
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2000-10-17",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2022-06-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
