@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-02-28 04:18:16",
+	"refreshDateTime": "2023-03-01 04:18:13",
 	"Site": [
 		{
 			"Code": "190",
@@ -204,18 +204,13 @@
 					"WaterFeature": "N",
 					"Category": "Upland habitat",
 					"Subcategory": "Montane habitats",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
 					"LatestAssessedVisitDate": "2005-07-28",
 					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
