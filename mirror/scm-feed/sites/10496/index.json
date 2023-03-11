@@ -1,0 +1,33 @@
+{
+	"refreshDateTime": "2023-03-11 04:18:29",
+	"Site": [
+		{
+			"Code": "10496",
+			"SiteName": "Bargeny Hill",
+			"SiteDesignation": "SSSI",
+			"LocalAuthority": "East Dunbartonshire",
+			"SNHArea": "National Operations West Central",
+			"ProtectedOverlays": {
+				"Overlay": []
+			},
+			"SiteFeature": [
+				{
+					"Id": "16963",
+					"Name": "Lowland neutral grassland",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Lowland grassland",
+					"Subcategory": "Neutral grassland",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				}
+			]
+		}
+	]
+}
