@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-03-20 04:18:51",
+	"refreshDateTime": "2023-03-22 04:18:59",
 	"Site": [
 		{
 			"Code": "90",
@@ -409,12 +409,7 @@
 					"LatestAssessedSCMcycle": "1",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Other",
-								"PressureRecordedAs": "No on-site activities related to feature condition noted"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
