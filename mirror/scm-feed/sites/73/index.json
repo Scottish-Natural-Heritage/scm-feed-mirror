@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-03-23 04:19:03",
+	"refreshDateTime": "2023-03-24 04:19:07",
 	"Site": [
 		{
 			"Code": "73",
@@ -40,7 +40,7 @@
 					"WaterFeature": "N",
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
 					"LatestAssessedVisitDate": "2004-06-29",
 					"LatestAssessedSCMcycle": "1",
@@ -50,6 +50,10 @@
 							{
 								"Description": "Over grazing",
 								"PressureRecordedAs": "Grazing - over"
+							},
+							{
+								"Description": "Plant pests and diseases",
+								"PressureRecordedAs": "Plant Pests and Diseases"
 							}
 						]
 					},
