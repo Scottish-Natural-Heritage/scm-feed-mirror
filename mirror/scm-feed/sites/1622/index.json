@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-03-27 04:19:11",
+	"refreshDateTime": "2023-03-28 04:19:11",
 	"Site": [
 		{
 			"Code": "1622",
@@ -107,10 +107,10 @@
 					"WaterFeature": "N",
 					"Category": "Lowland grassland",
 					"Subcategory": "Calcareous grassland",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Recovered",
-					"LatestAssessedVisitDate": "2014-07-21",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2021-09-07",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
