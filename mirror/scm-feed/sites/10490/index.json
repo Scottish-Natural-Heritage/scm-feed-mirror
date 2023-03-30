@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-03-28 04:19:11",
+	"refreshDateTime": "2023-03-30 04:19:14",
 	"Site": [
 		{
 			"Code": "10490",
@@ -20,8 +20,8 @@
 					"Subcategory": "Birds - aggregations of non-breeding birds",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2007-02-18",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2020-03-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []
@@ -44,8 +44,8 @@
 					"Subcategory": "Birds - aggregations of non-breeding birds",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2007-02-18",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2020-03-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
@@ -73,8 +73,8 @@
 					"Subcategory": "Birds - aggregations of non-breeding birds",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2007-02-18",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2020-03-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
@@ -108,10 +108,10 @@
 					"WaterFeature": "N",
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of non-breeding birds",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2007-02-18",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2020-03-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []
@@ -132,7 +132,10 @@
 					"WaterFeature": "N",
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of non-breeding birds",
-					"SummaryCondition": "Not Assessed",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Declining",
+					"LatestAssessedVisitDate": "2020-03-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
@@ -204,8 +207,8 @@
 					"Subcategory": "Birds - aggregations of non-breeding birds",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "0207-02-18",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2020-03-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
@@ -243,10 +246,10 @@
 					"WaterFeature": "N",
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of non-breeding birds",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2007-02-18",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2020-03-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
@@ -272,10 +275,10 @@
 					"WaterFeature": "N",
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of non-breeding birds",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2007-02-18",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2020-03-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
@@ -303,8 +306,8 @@
 					"Subcategory": "Birds - aggregations of non-breeding birds",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2007-02-18",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2020-03-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-03-28 04:19:11",
+	"refreshDateTime": "2023-03-30 04:19:14",
 	"Site": [
 		{
 			"Code": "8216",
@@ -138,9 +138,9 @@
 					"Category": "Upland habitat",
 					"Subcategory": "Dwarf shrub heath (Upland)",
 					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2006-07-16",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2018-10-17",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -634,8 +634,8 @@
 					"Subcategory": "Montane habitats",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2006-07-16",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2018-10-17",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -875,8 +875,8 @@
 					"Subcategory": "Fen, marsh and swamp (Upland)",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2006-07-16",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2018-10-04",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -1020,8 +1020,8 @@
 					"Subcategory": "Bogs (Upland)",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2006-07-16",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2018-10-17",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
