@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-03-30 04:19:14",
+	"refreshDateTime": "2023-03-31 04:19:16",
 	"Site": [
 		{
 			"Code": "690",
@@ -49,16 +49,11 @@
 					"Subcategory": "Stratigraphy",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2002-02-21",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedVisitDate": "2022-02-11",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Other",
-								"PressureRecordedAs": "No on-site activities related to feature condition noted"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
@@ -122,8 +117,8 @@
 					"Subcategory": "Stratigraphy",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2007-02-04",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2022-03-29",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []
@@ -190,8 +185,8 @@
 					"Subcategory": "Stratigraphy",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2002-02-21",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedVisitDate": "2022-03-29",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []
@@ -256,18 +251,13 @@
 					"WaterFeature": "Y",
 					"Category": "Earth sciences",
 					"Subcategory": "Igneous petrology",
-					"SummaryCondition": "Recovering",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2002-02-21",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2022-02-11",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Dumping/ storage of materials",
-								"PressureRecordedAs": "Dumping/spreading/storage of materials"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
