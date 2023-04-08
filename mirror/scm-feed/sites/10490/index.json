@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-04-07 04:19:30",
+	"refreshDateTime": "2023-04-08 04:19:33",
 	"Site": [
 		{
 			"Code": "10490",
@@ -162,8 +162,9 @@
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of non-breeding birds",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Favourable Declining",
+					"LatestAssessedVisitDate": "2020-03-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [

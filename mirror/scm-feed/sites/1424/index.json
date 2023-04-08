@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-04-07 04:19:30",
+	"refreshDateTime": "2023-04-08 04:19:33",
 	"Site": [
 		{
 			"Code": "1424",
@@ -188,8 +188,8 @@
 					"Subcategory": "Bryophytes",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2010-06-03",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2022-05-16",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [

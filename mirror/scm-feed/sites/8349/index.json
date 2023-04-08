@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-04-07 04:19:30",
+	"refreshDateTime": "2023-04-08 04:19:33",
 	"Site": [
 		{
 			"Code": "8349",
@@ -40,10 +40,10 @@
 					"WaterFeature": "Y",
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2008-03-07",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2022-05-16",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -418,9 +418,9 @@
 					"Category": "Upland habitat",
 					"Subcategory": "Fen, marsh and swamp (Upland)",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2004-07-24",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedCondition": "Favourable Declining",
+					"LatestAssessedVisitDate": "2022-06-09",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -495,9 +495,9 @@
 					"Category": "Upland habitat",
 					"Subcategory": "Fen, marsh and swamp (Upland)",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2007-09-06",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Favourable Declining",
+					"LatestAssessedVisitDate": "2022-06-09",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
