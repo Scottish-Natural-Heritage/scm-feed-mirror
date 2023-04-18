@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-04-17 04:19:48",
+	"refreshDateTime": "2023-04-18 04:19:51",
 	"Site": [
 		{
 			"Code": "8274",
@@ -221,83 +221,6 @@
 							{
 								"Description": "Recreation/disturbance",
 								"PressureRecordedAs": "Recreation/disturbance"
-							}
-						]
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2021",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2020",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2019",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2018",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2017",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2016",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2015",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2014",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2013",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2012",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2011",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2010",
-								"AnnualSummaryCondition": "Favourable"
-							}
-						]
-					}
-				},
-				{
-					"Id": "13654",
-					"Name": "Otter (Lutra lutra)",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "Y",
-					"Category": "Mammals (except marine)",
-					"Subcategory": "Mammals",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Declining",
-					"LatestAssessedVisitDate": "2011-08-17",
-					"LatestAssessedSCMcycle": "3",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Other",
-								"PressureRecordedAs": "Other activity"
-							},
-							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
 							}
 						]
 					},
