@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-04-26 04:20:05",
+	"refreshDateTime": "2023-04-27 04:20:07",
 	"Site": [
 		{
 			"Code": "71",
@@ -33,10 +33,10 @@
 					"WaterFeature": "N",
 					"Category": "Earth sciences",
 					"Subcategory": "Quaternary geology and geomorphology",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2009-05-21",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2023-03-23",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": [
