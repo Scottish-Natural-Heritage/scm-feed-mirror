@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-05-02 04:20:18",
+	"refreshDateTime": "2023-05-03 04:20:22",
 	"Site": [
 		{
 			"Code": "1560",
@@ -110,18 +110,13 @@
 					"WaterFeature": "N",
 					"Category": "Earth sciences",
 					"Subcategory": "Igneous petrology",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
 					"LatestAssessedVisitDate": "2012-11-27",
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Natural event",
-								"PressureRecordedAs": "Natural event"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
@@ -192,11 +187,13 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Gorse"
 							},
 							{
 								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
+								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Rabbits, Sheep"
 							}
 						]
 					},

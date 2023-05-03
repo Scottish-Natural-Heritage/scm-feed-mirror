@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-05-02 04:20:18",
+	"refreshDateTime": "2023-05-03 04:20:22",
 	"Site": [
 		{
 			"Code": "126",
@@ -47,7 +47,7 @@
 					"WaterFeature": "Y",
 					"Category": "Coast",
 					"Subcategory": "Supralittoral sediment (Coast)",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
 					"LatestAssessedVisitDate": "2014-06-27",
 					"LatestAssessedSCMcycle": "3",
