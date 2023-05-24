@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-05-22 04:20:51",
+	"refreshDateTime": "2023-05-24 04:20:55",
 	"Site": [
 		{
 			"Code": "517",
@@ -40,10 +40,10 @@
 					"WaterFeature": "N",
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2012-08-21",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2022-05-23",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
