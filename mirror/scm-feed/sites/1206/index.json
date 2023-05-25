@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-05-24 04:20:55",
+	"refreshDateTime": "2023-05-25 04:20:59",
 	"Site": [
 		{
 			"Code": "1206",
@@ -39,7 +39,16 @@
 					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
-						"Pressure": []
+						"Pressure": [
+							{
+								"Description": "Forestry operations",
+								"PressureRecordedAs": "Forestry operations"
+							},
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence or changing extent of invasive species"
+							}
+						]
 					},
 					"HistoryDetails": {
 						"Year": [
