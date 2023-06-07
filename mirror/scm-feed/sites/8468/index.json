@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "8468",
@@ -8,43 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Ross",
-						"Prime": "P",
-						"Overlap": 4371.76,
-						"Percentage": 78
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Ross",
-						"Prime": "S",
-						"Overlap": 1241.86,
-						"Percentage": 22
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "North Ross",
-						"Prime": "P",
-						"Overlap": 5613.62,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "West Highland",
-						"Prime": "S",
-						"Overlap": 1276.87,
-						"Percentage": 23
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 4336.75,
-						"Percentage": 77
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "1366",
@@ -8,85 +8,7 @@
 			"LocalAuthority": "Scottish Borders",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Lanarkshire",
-						"Prime": "S",
-						"Overlap": 0.47,
-						"Percentage": 0
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Peebles",
-						"Prime": "S",
-						"Overlap": 354.8,
-						"Percentage": 14
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Selkirk",
-						"Prime": "P",
-						"Overlap": 801.59,
-						"Percentage": 32
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Cheviotland",
-						"Prime": "S",
-						"Overlap": 3.65,
-						"Percentage": 0
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Roxburgh",
-						"Prime": "S",
-						"Overlap": 780.16,
-						"Percentage": 31
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Berwickshire",
-						"Prime": "S",
-						"Overlap": 589.6,
-						"Percentage": 23
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Haddington",
-						"Prime": "S",
-						"Overlap": 3.38,
-						"Percentage": 0
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Forth and Tay",
-						"Prime": "P",
-						"Overlap": 29.33,
-						"Percentage": 1
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Borders",
-						"Prime": "S",
-						"Overlap": 416.72,
-						"Percentage": 16
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Eskdalemuir",
-						"Prime": "P",
-						"Overlap": 785.84,
-						"Percentage": 31
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tweed",
-						"Prime": "P",
-						"Overlap": 2533.19,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

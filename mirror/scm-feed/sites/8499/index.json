@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "8499",
@@ -8,64 +8,7 @@
 			"LocalAuthority": "East Lothian",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Fife",
-						"Prime": "S",
-						"Overlap": 1338.41,
-						"Percentage": 21
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Stirling",
-						"Prime": "S",
-						"Overlap": 1086.72,
-						"Percentage": 17
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Perth",
-						"Prime": "S",
-						"Overlap": 492.76,
-						"Percentage": 8
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Haddington",
-						"Prime": "P",
-						"Overlap": 1749.21,
-						"Percentage": 28
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Edinburgh",
-						"Prime": "S",
-						"Overlap": 546.41,
-						"Percentage": 9
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Linlithgow",
-						"Prime": "S",
-						"Overlap": 1104.43,
-						"Percentage": 17
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Forth and Tay",
-						"Prime": "P",
-						"Overlap": 6020.33,
-						"Percentage": 95
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 6317.27,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

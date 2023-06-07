@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "9171",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "North Lanarkshire",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Lanarkshire",
-						"Prime": "S",
-						"Overlap": 87.97,
-						"Percentage": 16
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Stirling",
-						"Prime": "P",
-						"Overlap": 471.2,
-						"Percentage": 84
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 545.51,
-						"Percentage": 98
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

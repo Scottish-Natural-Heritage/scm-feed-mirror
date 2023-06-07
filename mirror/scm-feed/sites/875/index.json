@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "875",
@@ -8,43 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Sutherland",
-						"Prime": "P",
-						"Overlap": 302.9,
-						"Percentage": 83
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Ross",
-						"Prime": "S",
-						"Overlap": 60.9,
-						"Percentage": 17
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "North Ross",
-						"Prime": "P",
-						"Overlap": 351.42,
-						"Percentage": 97
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "West Sutherland - Lochinver South",
-						"Prime": "S",
-						"Overlap": 12.37,
-						"Percentage": 3
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "West Highland",
-						"Prime": "P",
-						"Overlap": 363.8,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

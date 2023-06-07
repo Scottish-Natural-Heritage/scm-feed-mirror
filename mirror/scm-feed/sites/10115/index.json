@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "10115",
@@ -8,57 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Westerness",
-						"Prime": "P",
-						"Overlap": 41428.29,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "West Highlands",
-						"Prime": "P",
-						"Overlap": 0.11,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Moidart",
-						"Prime": "S",
-						"Overlap": 13250.83,
-						"Percentage": 32
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Morvern",
-						"Prime": "S",
-						"Overlap": 1620.91,
-						"Percentage": 4
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Loch Shiel",
-						"Prime": "P",
-						"Overlap": 24279.8,
-						"Percentage": 59
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "West Lochaber",
-						"Prime": "S",
-						"Overlap": 2276.02,
-						"Percentage": 5
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 40536.61,
-						"Percentage": 98
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

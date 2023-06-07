@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "718",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "Perth and Kinross",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Perth",
-						"Prime": "S",
-						"Overlap": 37.42,
-						"Percentage": 43
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Fife",
-						"Prime": "P",
-						"Overlap": 49.15,
-						"Percentage": 57
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 86.56,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

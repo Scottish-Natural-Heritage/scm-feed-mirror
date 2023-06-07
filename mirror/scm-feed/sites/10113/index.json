@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "10113",
@@ -9,92 +9,7 @@
 			"SNHArea": "National Operations West",
 			"NationalPark": "Loch Lomond and The Trossachs",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Perth",
-						"Prime": "S",
-						"Overlap": 4462.19,
-						"Percentage": 5
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Mid Perth",
-						"Prime": "S",
-						"Overlap": 555.4,
-						"Percentage": 1
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Main Argyll",
-						"Prime": "P",
-						"Overlap": 74951.35,
-						"Percentage": 92
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Dunbarton",
-						"Prime": "S",
-						"Overlap": 1403.95,
-						"Percentage": 2
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 1.77,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Blackmount",
-						"Prime": "P",
-						"Overlap": 59005.79,
-						"Percentage": 73
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "West Highlands",
-						"Prime": "S",
-						"Overlap": 0.64,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Mid West Association",
-						"Prime": "S",
-						"Overlap": 1.61,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Inveraray & Tyndrum",
-						"Prime": "S",
-						"Overlap": 21781.34,
-						"Percentage": 27
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tay",
-						"Prime": "S",
-						"Overlap": 4207.72,
-						"Percentage": 5
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Clyde",
-						"Prime": "S",
-						"Overlap": 5897.07,
-						"Percentage": 7
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 71268.1,
-						"Percentage": 88
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "477",
@@ -9,22 +9,7 @@
 			"SNHArea": "National Operations South",
 			"NationalPark": "Loch Lomond and The Trossachs",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Perth",
-						"Prime": "P",
-						"Overlap": 111.56,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 111.56,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "502",
@@ -8,22 +8,7 @@
 			"LocalAuthority": "Aberdeenshire",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Kincardine",
-						"Prime": "P",
-						"Overlap": 2.04,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tay",
-						"Prime": "P",
-						"Overlap": 2.04,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

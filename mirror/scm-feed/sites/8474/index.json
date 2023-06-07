@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "8474",
@@ -9,57 +9,7 @@
 			"SNHArea": "National Operations Central Highland",
 			"NationalPark": "Cairngorms",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Perth",
-						"Prime": "S",
-						"Overlap": 160.65,
-						"Percentage": 3
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Forfar",
-						"Prime": "P",
-						"Overlap": 4246.82,
-						"Percentage": 71
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "South Aberdeen",
-						"Prime": "S",
-						"Overlap": 1565.1,
-						"Percentage": 26
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Grampian - Glen Isla/Glen Shee",
-						"Prime": "P",
-						"Overlap": 4022.48,
-						"Percentage": 67
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Grampian - South Deeside & North Angus Glens ",
-						"Prime": "S",
-						"Overlap": 1950.08,
-						"Percentage": 33
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
-						"Prime": "S",
-						"Overlap": 1555.12,
-						"Percentage": 26
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tay",
-						"Prime": "P",
-						"Overlap": 4417.45,
-						"Percentage": 74
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

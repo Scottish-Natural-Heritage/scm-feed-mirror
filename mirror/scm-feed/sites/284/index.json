@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "284",
@@ -8,36 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Ross",
-						"Prime": "P",
-						"Overlap": 10.16,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "West Highlands",
-						"Prime": "P",
-						"Overlap": 2.13,
-						"Percentage": 21
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "West Ross",
-						"Prime": "P",
-						"Overlap": 6.89,
-						"Percentage": 68
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "West Highland",
-						"Prime": "P",
-						"Overlap": 10.16,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

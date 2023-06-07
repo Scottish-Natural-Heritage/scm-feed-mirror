@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "352",
@@ -8,22 +8,7 @@
 			"LocalAuthority": "Argyll and Bute",
 			"SNHArea": "National Operations West",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Clyde Isles",
-						"Prime": "P",
-						"Overlap": 190.04,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Clyde",
-						"Prime": "P",
-						"Overlap": 190.04,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

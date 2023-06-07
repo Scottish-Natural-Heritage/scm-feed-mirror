@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "419",
@@ -9,29 +9,7 @@
 			"SNHArea": "National Operations North",
 			"NationalPark": "Cairngorms",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "South Aberdeen",
-						"Prime": "P",
-						"Overlap": 185.84,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
-						"Prime": "P",
-						"Overlap": 185.84,
-						"Percentage": 100
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Grampian - Upper Deeside",
-						"Prime": "P",
-						"Overlap": 185.84,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "8672",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "Moray",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Easterness",
-						"Prime": "S",
-						"Overlap": 539.88,
-						"Percentage": 29
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Elgin",
-						"Prime": "P",
-						"Overlap": 1290.54,
-						"Percentage": 71
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 1830.42,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

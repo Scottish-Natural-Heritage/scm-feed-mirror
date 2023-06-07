@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "561",
@@ -8,36 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Caithness",
-						"Prime": "P",
-						"Overlap": 135.66,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Moray Firth",
-						"Prime": "P",
-						"Overlap": 54.37,
-						"Percentage": 40
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Northern",
-						"Prime": "P",
-						"Overlap": 27.46,
-						"Percentage": 20
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 135.66,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

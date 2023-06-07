@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "8243",
@@ -9,64 +9,7 @@
 			"SNHArea": "National Operations Central Highland",
 			"NationalPark": "Cairngorms",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Perth",
-						"Prime": "P",
-						"Overlap": 4451.75,
-						"Percentage": 47
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Mid Perth",
-						"Prime": "S",
-						"Overlap": 708.05,
-						"Percentage": 7
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Easterness",
-						"Prime": "S",
-						"Overlap": 4283.8,
-						"Percentage": 45
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Cairngorm/Speyside",
-						"Prime": "S",
-						"Overlap": 2246.53,
-						"Percentage": 24
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Loch Ericht",
-						"Prime": "P",
-						"Overlap": 4474.48,
-						"Percentage": 47
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Tayside",
-						"Prime": "S",
-						"Overlap": 2722.59,
-						"Percentage": 29
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
-						"Prime": "S",
-						"Overlap": 3236.2,
-						"Percentage": 34
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tay",
-						"Prime": "P",
-						"Overlap": 6207.4,
-						"Percentage": 66
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

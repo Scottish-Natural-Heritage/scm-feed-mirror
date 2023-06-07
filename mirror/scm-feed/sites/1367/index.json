@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "1367",
@@ -8,15 +8,7 @@
 			"LocalAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 			"SNHArea": "National Operations West",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "West Highland",
-						"Prime": "P",
-						"Overlap": 0.07,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

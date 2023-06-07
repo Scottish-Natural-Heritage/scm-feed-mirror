@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "1455",
@@ -8,36 +8,7 @@
 			"LocalAuthority": "Argyll and Bute",
 			"SNHArea": "National Operations West",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Mid Ebudes",
-						"Prime": "P",
-						"Overlap": 590.03,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 129.03,
-						"Percentage": 22
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Mull",
-						"Prime": "P",
-						"Overlap": 446.87,
-						"Percentage": 76
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 590.03,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

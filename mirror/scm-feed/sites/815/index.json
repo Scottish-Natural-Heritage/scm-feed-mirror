@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "815",
@@ -8,43 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Sutherland",
-						"Prime": "P",
-						"Overlap": 624.04,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "North Coast",
-						"Prime": "P",
-						"Overlap": 130.93,
-						"Percentage": 21
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "North West Sutherland",
-						"Prime": "P",
-						"Overlap": 499.07,
-						"Percentage": 80
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Northern",
-						"Prime": "S",
-						"Overlap": 1,
-						"Percentage": 0
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 624.04,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

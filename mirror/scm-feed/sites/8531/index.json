@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "8531",
@@ -9,36 +9,7 @@
 			"SNHArea": "National Operations South",
 			"NationalPark": "Loch Lomond and The Trossachs",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Stirling",
-						"Prime": "S",
-						"Overlap": 157.19,
-						"Percentage": 31
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Dunbarton",
-						"Prime": "P",
-						"Overlap": 352.47,
-						"Percentage": 69
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Loch Lomond Islands",
-						"Prime": "P",
-						"Overlap": 174.79,
-						"Percentage": 34
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Clyde",
-						"Prime": "P",
-						"Overlap": 509.65,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

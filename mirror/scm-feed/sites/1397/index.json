@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "1397",
@@ -8,36 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Caithness",
-						"Prime": "P",
-						"Overlap": 5668.27,
-						"Percentage": 91
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Sutherland",
-						"Prime": "S",
-						"Overlap": 490.11,
-						"Percentage": 8
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Northern",
-						"Prime": "P",
-						"Overlap": 6158.39,
-						"Percentage": 99
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 6158.38,
-						"Percentage": 99
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

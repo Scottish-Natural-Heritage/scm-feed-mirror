@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "39",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "Argyll and Bute",
 			"SNHArea": "National Operations West",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Main Argyll",
-						"Prime": "P",
-						"Overlap": 51.36,
-						"Percentage": 100
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Blackmount",
-						"Prime": "P",
-						"Overlap": 51.36,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 51.36,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

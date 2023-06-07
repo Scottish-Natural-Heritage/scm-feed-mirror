@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "8379",
@@ -8,57 +8,7 @@
 			"LocalAuthority": "Marine Scotland (inshore)",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Westerness",
-						"Prime": "P",
-						"Overlap": 4553.15,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "West Highlands",
-						"Prime": "P",
-						"Overlap": 4552.99,
-						"Percentage": 100
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Ardnamurchan",
-						"Prime": "S",
-						"Overlap": 0.88,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Moidart",
-						"Prime": "P",
-						"Overlap": 1.84,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "West Lochaber",
-						"Prime": "S",
-						"Overlap": 0.19,
-						"Percentage": 0
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
-						"Prime": "S",
-						"Overlap": 991.97,
-						"Percentage": 22
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "West Highland",
-						"Prime": "P",
-						"Overlap": 3561.18,
-						"Percentage": 78
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

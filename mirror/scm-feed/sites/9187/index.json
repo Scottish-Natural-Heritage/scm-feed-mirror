@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "9187",
@@ -8,57 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Easterness",
-						"Prime": "S",
-						"Overlap": 1026.18,
-						"Percentage": 35
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Westerness",
-						"Prime": "P",
-						"Overlap": 1153.81,
-						"Percentage": 39
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Ross",
-						"Prime": "S",
-						"Overlap": 787.53,
-						"Percentage": 27
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Glenelg",
-						"Prime": "P",
-						"Overlap": 1788.77,
-						"Percentage": 60
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Knoydart",
-						"Prime": "S",
-						"Overlap": 133.46,
-						"Percentage": 4
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "South Ross - Kintail & Affric",
-						"Prime": "S",
-						"Overlap": 259.94,
-						"Percentage": 9
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 2967.52,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "8161",
@@ -8,50 +8,7 @@
 			"LocalAuthority": "Dumfries and Galloway",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Lanarkshire",
-						"Prime": "S",
-						"Overlap": 2578.74,
-						"Percentage": 33
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Dumfrieshire",
-						"Prime": "P",
-						"Overlap": 5262.38,
-						"Percentage": 67
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Ayrshire",
-						"Prime": "S",
-						"Overlap": 1.46,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Central Dumfries and Galloway",
-						"Prime": "P",
-						"Overlap": 5273.54,
-						"Percentage": 67
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Solway",
-						"Prime": "P",
-						"Overlap": 5487.91,
-						"Percentage": 70
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Clyde",
-						"Prime": "S",
-						"Overlap": 2354.67,
-						"Percentage": 30
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

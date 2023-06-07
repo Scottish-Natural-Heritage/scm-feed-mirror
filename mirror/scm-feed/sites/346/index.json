@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "346",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "Renfrewshire",
 			"SNHArea": "National Operations West Central",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Ayrshire",
-						"Prime": "S",
-						"Overlap": 0.61,
-						"Percentage": 0
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Renfrewshire",
-						"Prime": "P",
-						"Overlap": 268.09,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Clyde",
-						"Prime": "P",
-						"Overlap": 268.71,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

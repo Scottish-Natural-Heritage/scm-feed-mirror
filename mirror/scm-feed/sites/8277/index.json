@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "8277",
@@ -8,50 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Sutherland",
-						"Prime": "S",
-						"Overlap": 175.34,
-						"Percentage": 1
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Ross",
-						"Prime": "P",
-						"Overlap": 11706.59,
-						"Percentage": 99
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "West Highlands",
-						"Prime": "P",
-						"Overlap": 32.15,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "North Ross",
-						"Prime": "S",
-						"Overlap": 0.23,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "West Sutherland - Lochinver South",
-						"Prime": "P",
-						"Overlap": 11806.74,
-						"Percentage": 99
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "West Highland",
-						"Prime": "P",
-						"Overlap": 11881.94,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-06 04:21:31",
+	"refreshDateTime": "2023-06-07 04:21:36",
 	"Site": [
 		{
 			"Code": "642",
@@ -8,22 +8,7 @@
 			"LocalAuthority": "Comhairle nan Eilean Siar (Western Isles)",
 			"SNHArea": "National Operations West",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Outer Hebrides",
-						"Prime": "P",
-						"Overlap": 5.47,
-						"Percentage": 9
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "West Highland",
-						"Prime": "P",
-						"Overlap": 58.32,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{
