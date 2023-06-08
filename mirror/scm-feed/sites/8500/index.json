@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-07 04:21:36",
+	"refreshDateTime": "2023-06-08 04:21:41",
 	"Site": [
 		{
 			"Code": "8500",
@@ -8,7 +8,50 @@
 			"LocalAuthority": "Fife",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Fife",
+						"Prime": "S",
+						"Overlap": 3843.2,
+						"Percentage": 39
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Haddington",
+						"Prime": "P",
+						"Overlap": 4751.65,
+						"Percentage": 49
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Edinburgh",
+						"Prime": "S",
+						"Overlap": 1005.9,
+						"Percentage": 10
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Linlithgow",
+						"Prime": "S",
+						"Overlap": 196.26,
+						"Percentage": 2
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Forth and Tay",
+						"Prime": "P",
+						"Overlap": 9723.18,
+						"Percentage": 99
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Forth",
+						"Prime": "P",
+						"Overlap": 9797.01,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

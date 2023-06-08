@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-07 04:21:36",
+	"refreshDateTime": "2023-06-08 04:21:41",
 	"Site": [
 		{
 			"Code": "1270",
@@ -8,7 +8,22 @@
 			"LocalAuthority": "East Lothian",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Haddington",
+						"Prime": "P",
+						"Overlap": 17.82,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Forth",
+						"Prime": "P",
+						"Overlap": 17.82,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

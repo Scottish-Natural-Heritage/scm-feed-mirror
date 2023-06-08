@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-07 04:21:36",
+	"refreshDateTime": "2023-06-08 04:21:41",
 	"Site": [
 		{
 			"Code": "1293",
@@ -8,7 +8,22 @@
 			"LocalAuthority": "Perth and Kinross",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Mid Perth",
+						"Prime": "P",
+						"Overlap": 60.84,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Tay",
+						"Prime": "P",
+						"Overlap": 60.84,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

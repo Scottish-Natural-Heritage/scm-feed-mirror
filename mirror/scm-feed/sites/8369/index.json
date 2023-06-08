@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-07 04:21:36",
+	"refreshDateTime": "2023-06-08 04:21:41",
 	"Site": [
 		{
 			"Code": "8369",
@@ -8,7 +8,92 @@
 			"LocalAuthority": "Scottish Borders",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Lanarkshire",
+						"Prime": "S",
+						"Overlap": 0.31,
+						"Percentage": 0
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Peebles",
+						"Prime": "S",
+						"Overlap": 544.16,
+						"Percentage": 16
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Cheviotland",
+						"Prime": "S",
+						"Overlap": 3.64,
+						"Percentage": 0
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Selkirk",
+						"Prime": "S",
+						"Overlap": 906.49,
+						"Percentage": 27
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Roxburgh",
+						"Prime": "P",
+						"Overlap": 1132.34,
+						"Percentage": 34
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Berwickshire",
+						"Prime": "S",
+						"Overlap": 737.79,
+						"Percentage": 22
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Haddington",
+						"Prime": "S",
+						"Overlap": 13.46,
+						"Percentage": 0
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Edinburgh",
+						"Prime": "S",
+						"Overlap": 41.41,
+						"Percentage": 1
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Forth and Tay",
+						"Prime": "P",
+						"Overlap": 29.33,
+						"Percentage": 1
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Borders",
+						"Prime": "S",
+						"Overlap": 625.94,
+						"Percentage": 19
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Eskdalemuir",
+						"Prime": "P",
+						"Overlap": 908.54,
+						"Percentage": 27
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Tweed",
+						"Prime": "P",
+						"Overlap": 3379.24,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{
