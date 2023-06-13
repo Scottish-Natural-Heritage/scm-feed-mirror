@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-12 04:21:51",
+	"refreshDateTime": "2023-06-13 04:21:54",
 	"Site": [
 		{
 			"Code": "1557",
@@ -34,9 +34,9 @@
 					"Category": "Earth sciences",
 					"Subcategory": "Quaternary geology and geomorphology",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Recovered",
-					"LatestAssessedVisitDate": "2008-04-01",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2023-03-22",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": [
