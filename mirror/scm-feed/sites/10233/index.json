@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-14 04:21:56",
+	"refreshDateTime": "2023-06-15 04:21:56",
 	"Site": [
 		{
 			"Code": "10233",
@@ -8,50 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Easterness",
-						"Prime": "P",
-						"Overlap": 27278.7,
-						"Percentage": 54
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Ross",
-						"Prime": "S",
-						"Overlap": 23140.64,
-						"Percentage": 46
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "South Ross - Kintail & Affric",
-						"Prime": "S",
-						"Overlap": 9700.14,
-						"Percentage": 19
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "South Ross - Strathconon",
-						"Prime": "P",
-						"Overlap": 22200.73,
-						"Percentage": 44
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "South Ross - Strathfarrar",
-						"Prime": "S",
-						"Overlap": 18518.48,
-						"Percentage": 37
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 50419.34,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

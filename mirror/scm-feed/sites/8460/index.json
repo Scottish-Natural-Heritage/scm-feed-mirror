@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-14 04:21:56",
+	"refreshDateTime": "2023-06-15 04:21:56",
 	"Site": [
 		{
 			"Code": "8460",
@@ -8,64 +8,7 @@
 			"LocalAuthority": "Aberdeenshire",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "South Aberdeen",
-						"Prime": "S",
-						"Overlap": 31.38,
-						"Percentage": 10
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "South Aberdeen",
-						"Prime": "S",
-						"Overlap": 31.38,
-						"Percentage": 10
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "North Aberdeen",
-						"Prime": "P",
-						"Overlap": 282.8,
-						"Percentage": 90
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "North Aberdeen",
-						"Prime": "P",
-						"Overlap": 282.8,
-						"Percentage": 90
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "North East",
-						"Prime": "P",
-						"Overlap": 202.18,
-						"Percentage": 64
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "North East",
-						"Prime": "P",
-						"Overlap": 202.18,
-						"Percentage": 64
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
-						"Prime": "P",
-						"Overlap": 314.17,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
-						"Prime": "P",
-						"Overlap": 314.17,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-14 04:21:56",
+	"refreshDateTime": "2023-06-15 04:21:56",
 	"Site": [
 		{
 			"Code": "8178",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "North Lanarkshire",
 			"SNHArea": "National Operations West Central",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Stirling",
-						"Prime": "P",
-						"Overlap": 33.82,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 28.27,
-						"Percentage": 84
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Clyde",
-						"Prime": "S",
-						"Overlap": 5.55,
-						"Percentage": 16
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

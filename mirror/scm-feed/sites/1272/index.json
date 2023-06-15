@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-14 04:21:56",
+	"refreshDateTime": "2023-06-15 04:21:56",
 	"Site": [
 		{
 			"Code": "1272",
@@ -8,43 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Westerness",
-						"Prime": "P",
-						"Overlap": 14375.21,
-						"Percentage": 99
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Easterness",
-						"Prime": "S",
-						"Overlap": 116.82,
-						"Percentage": 1
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Mid West Association",
-						"Prime": "S",
-						"Overlap": 3547.74,
-						"Percentage": 24
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Monadhliaths",
-						"Prime": "P",
-						"Overlap": 9686.02,
-						"Percentage": 67
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 14379.22,
-						"Percentage": 99
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

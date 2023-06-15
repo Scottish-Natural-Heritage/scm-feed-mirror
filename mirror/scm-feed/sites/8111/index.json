@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-14 04:21:56",
+	"refreshDateTime": "2023-06-15 04:21:56",
 	"Site": [
 		{
 			"Code": "8111",
@@ -8,57 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Mid Perth",
-						"Prime": "S",
-						"Overlap": 20.41,
-						"Percentage": 6
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Westerness",
-						"Prime": "P",
-						"Overlap": 293.29,
-						"Percentage": 83
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Main Argyll",
-						"Prime": "S",
-						"Overlap": 41.6,
-						"Percentage": 12
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Blackmount",
-						"Prime": "S",
-						"Overlap": 41.6,
-						"Percentage": 12
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Mid West Association",
-						"Prime": "P",
-						"Overlap": 313.7,
-						"Percentage": 88
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tay",
-						"Prime": "S",
-						"Overlap": 20.41,
-						"Percentage": 6
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 334.89,
-						"Percentage": 94
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

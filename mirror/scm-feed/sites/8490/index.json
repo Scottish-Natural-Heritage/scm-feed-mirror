@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-14 04:21:56",
+	"refreshDateTime": "2023-06-15 04:21:56",
 	"Site": [
 		{
 			"Code": "8490",
@@ -8,50 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Ross",
-						"Prime": "P",
-						"Overlap": 4452.59,
-						"Percentage": 68
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Sutherland",
-						"Prime": "S",
-						"Overlap": 3403.96,
-						"Percentage": 52
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Moray Firth",
-						"Prime": "P",
-						"Overlap": 5370.35,
-						"Percentage": 82
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Sutherland",
-						"Prime": "S",
-						"Overlap": 233.49,
-						"Percentage": 4
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "South Sutherland",
-						"Prime": "P",
-						"Overlap": 706.14,
-						"Percentage": 11
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 7856.54,
-						"Percentage": 121
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

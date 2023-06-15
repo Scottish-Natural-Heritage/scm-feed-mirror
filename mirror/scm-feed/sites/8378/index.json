@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-14 04:21:56",
+	"refreshDateTime": "2023-06-15 04:21:56",
 	"Site": [
 		{
 			"Code": "8378",
@@ -8,36 +8,7 @@
 			"LocalAuthority": "Dumfries and Galloway",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Dumfrieshire",
-						"Prime": "P",
-						"Overlap": 506.09,
-						"Percentage": 78
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Kirkudbrightshire",
-						"Prime": "S",
-						"Overlap": 144.23,
-						"Percentage": 22
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Dumfries and Galloway",
-						"Prime": "P",
-						"Overlap": 650.32,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Solway",
-						"Prime": "P",
-						"Overlap": 650.32,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

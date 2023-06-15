@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-14 04:21:56",
+	"refreshDateTime": "2023-06-15 04:21:56",
 	"Site": [
 		{
 			"Code": "8363",
@@ -8,71 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Ross",
-						"Prime": "S",
-						"Overlap": 418.65,
-						"Percentage": 44
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Sutherland",
-						"Prime": "P",
-						"Overlap": 535.58,
-						"Percentage": 56
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Moray Firth",
-						"Prime": "P",
-						"Overlap": 407.36,
-						"Percentage": 43
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "North Ross",
-						"Prime": "S",
-						"Overlap": 126.99,
-						"Percentage": 13
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Ross",
-						"Prime": "S",
-						"Overlap": 0.83,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "West Sutherland - East",
-						"Prime": "S",
-						"Overlap": 343.52,
-						"Percentage": 36
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "West Sutherland - North",
-						"Prime": "S",
-						"Overlap": 49.98,
-						"Percentage": 5
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "South Sutherland",
-						"Prime": "P",
-						"Overlap": 432.91,
-						"Percentage": 45
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 954.23,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

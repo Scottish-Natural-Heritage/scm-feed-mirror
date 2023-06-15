@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-14 04:21:56",
+	"refreshDateTime": "2023-06-15 04:21:56",
 	"Site": [
 		{
 			"Code": "8301",
@@ -8,36 +8,7 @@
 			"LocalAuthority": "Marine Scotland (inshore)",
 			"SNHArea": "National Operations West",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Outer Hebrides",
-						"Prime": "P",
-						"Overlap": 2321.01,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Outer Hebrides",
-						"Prime": "P",
-						"Overlap": 1890.85,
-						"Percentage": 81
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "North Uist",
-						"Prime": "P",
-						"Overlap": 306.22,
-						"Percentage": 13
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "West Highland",
-						"Prime": "P",
-						"Overlap": 2321.01,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

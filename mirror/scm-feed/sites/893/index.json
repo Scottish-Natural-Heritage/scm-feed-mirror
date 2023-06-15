@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-14 04:21:56",
+	"refreshDateTime": "2023-06-15 04:21:56",
 	"Site": [
 		{
 			"Code": "893",
@@ -8,36 +8,7 @@
 			"LocalAuthority": "North Ayrshire",
 			"SNHArea": "National Operations West Central",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Clyde Isles",
-						"Prime": "P",
-						"Overlap": 5.91,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Clyde",
-						"Prime": "P",
-						"Overlap": 2.75,
-						"Percentage": 47
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Arran",
-						"Prime": "P",
-						"Overlap": 2.92,
-						"Percentage": 49
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Clyde",
-						"Prime": "P",
-						"Overlap": 5.91,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

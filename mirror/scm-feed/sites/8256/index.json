@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-14 04:21:56",
+	"refreshDateTime": "2023-06-15 04:21:56",
 	"Site": [
 		{
 			"Code": "8256",
@@ -8,50 +8,7 @@
 			"LocalAuthority": "Marine Scotland (inshore)",
 			"SNHArea": "National Operations West",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Main Argyll",
-						"Prime": "S",
-						"Overlap": 5889.67,
-						"Percentage": 28
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "South Ebudes",
-						"Prime": "P",
-						"Overlap": 15097.42,
-						"Percentage": 72
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Mid Ebudes",
-						"Prime": "S",
-						"Overlap": 12.27,
-						"Percentage": 0
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 20973.36,
-						"Percentage": 100
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Jura",
-						"Prime": "P",
-						"Overlap": 20.55,
-						"Percentage": 0
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 20999.35,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{
