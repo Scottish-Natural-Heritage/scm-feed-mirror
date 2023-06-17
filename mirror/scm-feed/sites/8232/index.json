@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-15 04:21:56",
+	"refreshDateTime": "2023-06-17 04:22:02",
 	"Site": [
 		{
 			"Code": "8232",
@@ -8,7 +8,36 @@
 			"LocalAuthority": "West Lothian",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Lanarkshire",
+						"Prime": "S",
+						"Overlap": 0.36,
+						"Percentage": 1
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Peebles",
+						"Prime": "S",
+						"Overlap": 0,
+						"Percentage": 0
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Edinburgh",
+						"Prime": "P",
+						"Overlap": 37.05,
+						"Percentage": 99
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 37.42,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

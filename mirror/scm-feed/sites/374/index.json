@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-15 04:21:56",
+	"refreshDateTime": "2023-06-17 04:22:02",
 	"Site": [
 		{
 			"Code": "374",
@@ -8,7 +8,29 @@
 			"LocalAuthority": "West Lothian",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Lanarkshire",
+						"Prime": "S",
+						"Overlap": 24.74,
+						"Percentage": 41
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Edinburgh",
+						"Prime": "P",
+						"Overlap": 35.84,
+						"Percentage": 59
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Forth",
+						"Prime": "P",
+						"Overlap": 60.58,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

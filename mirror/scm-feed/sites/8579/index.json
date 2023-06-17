@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-15 04:21:56",
+	"refreshDateTime": "2023-06-17 04:22:02",
 	"Site": [
 		{
 			"Code": "8579",
@@ -8,7 +8,29 @@
 			"LocalAuthority": "Scottish Borders",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Berwickshire",
+						"Prime": "P",
+						"Overlap": 1736.75,
+						"Percentage": 100
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Forth and Tay",
+						"Prime": "P",
+						"Overlap": 1554.47,
+						"Percentage": 90
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Forth",
+						"Prime": "P",
+						"Overlap": 1736.75,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

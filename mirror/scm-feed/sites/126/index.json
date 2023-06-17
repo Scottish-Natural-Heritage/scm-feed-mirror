@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-15 04:21:56",
+	"refreshDateTime": "2023-06-17 04:22:02",
 	"Site": [
 		{
 			"Code": "126",
@@ -8,7 +8,36 @@
 			"LocalAuthority": "South Ayrshire",
 			"SNHArea": "National Operations West Central",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Ayrshire",
+						"Prime": "P",
+						"Overlap": 31.07,
+						"Percentage": 100
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 12.39,
+						"Percentage": 40
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "West Dumfries and Galloway",
+						"Prime": "P",
+						"Overlap": 18.87,
+						"Percentage": 61
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 31.07,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

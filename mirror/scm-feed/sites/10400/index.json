@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-15 04:21:56",
+	"refreshDateTime": "2023-06-17 04:22:02",
 	"Site": [
 		{
 			"Code": "10400",
@@ -8,7 +8,43 @@
 			"LocalAuthority": "Scottish Borders",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Peebles",
+						"Prime": "P",
+						"Overlap": 153.84,
+						"Percentage": 94
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Edinburgh",
+						"Prime": "S",
+						"Overlap": 9.11,
+						"Percentage": 6
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Borders",
+						"Prime": "P",
+						"Overlap": 7.51,
+						"Percentage": 5
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Forth",
+						"Prime": "P",
+						"Overlap": 119.99,
+						"Percentage": 74
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Tweed",
+						"Prime": "S",
+						"Overlap": 42.96,
+						"Percentage": 26
+					}
+				]
 			},
 			"SiteFeature": [
 				{

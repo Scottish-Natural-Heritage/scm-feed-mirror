@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-15 04:21:56",
+	"refreshDateTime": "2023-06-17 04:22:02",
 	"Site": [
 		{
 			"Code": "8532",
@@ -8,7 +8,36 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "West Ross",
+						"Prime": "P",
+						"Overlap": 3182.01,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Gairloch Conservation Group",
+						"Prime": "P",
+						"Overlap": 1973.43,
+						"Percentage": 62
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "West Ross",
+						"Prime": "S",
+						"Overlap": 1208.58,
+						"Percentage": 38
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "West Highland",
+						"Prime": "P",
+						"Overlap": 3182.01,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

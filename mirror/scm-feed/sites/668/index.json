@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-15 04:21:56",
+	"refreshDateTime": "2023-06-17 04:22:02",
 	"Site": [
 		{
 			"Code": "668",
@@ -9,7 +9,43 @@
 			"SNHArea": "National Operations West",
 			"NationalPark": "Loch Lomond and The Trossachs",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "West Perth",
+						"Prime": "S",
+						"Overlap": 0.01,
+						"Percentage": 0
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Main Argyll",
+						"Prime": "S",
+						"Overlap": 0,
+						"Percentage": 0
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Dunbarton",
+						"Prime": "P",
+						"Overlap": 907.43,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Inveraray & Tyndrum",
+						"Prime": "P",
+						"Overlap": 907.44,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 900.69,
+						"Percentage": 99
+					}
+				]
 			},
 			"SiteFeature": [
 				{

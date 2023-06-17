@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-15 04:21:56",
+	"refreshDateTime": "2023-06-17 04:22:02",
 	"Site": [
 		{
 			"Code": "8217",
@@ -9,7 +9,57 @@
 			"SNHArea": "National Operations Central Highland",
 			"NationalPark": "Cairngorms",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "South Aberdeen",
+						"Prime": "S",
+						"Overlap": 18382.95,
+						"Percentage": 32
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Banff",
+						"Prime": "S",
+						"Overlap": 9485.62,
+						"Percentage": 16
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Elgin",
+						"Prime": "S",
+						"Overlap": 1655.93,
+						"Percentage": 3
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Easterness",
+						"Prime": "P",
+						"Overlap": 28189.94,
+						"Percentage": 49
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Cairngorm/Speyside",
+						"Prime": "P",
+						"Overlap": 31975.32,
+						"Percentage": 55
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "East Grampian - Upper Deeside",
+						"Prime": "S",
+						"Overlap": 25739.12,
+						"Percentage": 45
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North East Scotland",
+						"Prime": "P",
+						"Overlap": 57714.44,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-15 04:21:56",
+	"refreshDateTime": "2023-06-17 04:22:02",
 	"Site": [
 		{
 			"Code": "8317",
@@ -8,7 +8,50 @@
 			"LocalAuthority": "Dumfries and Galloway",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Peebles",
+						"Prime": "S",
+						"Overlap": 29.4,
+						"Percentage": 1
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Dumfrieshire",
+						"Prime": "P",
+						"Overlap": 2851.79,
+						"Percentage": 99
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Selkirk",
+						"Prime": "S",
+						"Overlap": 0.53,
+						"Percentage": 0
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Borders",
+						"Prime": "P",
+						"Overlap": 2597.55,
+						"Percentage": 90
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Eskdalemuir",
+						"Prime": "S",
+						"Overlap": 284.17,
+						"Percentage": 10
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Solway",
+						"Prime": "P",
+						"Overlap": 2843.22,
+						"Percentage": 99
+					}
+				]
 			},
 			"SiteFeature": [
 				{

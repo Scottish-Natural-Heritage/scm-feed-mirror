@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-15 04:21:56",
+	"refreshDateTime": "2023-06-17 04:22:02",
 	"Site": [
 		{
 			"Code": "8166",
@@ -8,7 +8,29 @@
 			"LocalAuthority": "East Ayrshire",
 			"SNHArea": "National Operations West Central",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Lanarkshire",
+						"Prime": "S",
+						"Overlap": 1865.69,
+						"Percentage": 10
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Ayrshire",
+						"Prime": "P",
+						"Overlap": 16796.86,
+						"Percentage": 88
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 18474.74,
+						"Percentage": 96
+					}
+				]
 			},
 			"SiteFeature": [
 				{
