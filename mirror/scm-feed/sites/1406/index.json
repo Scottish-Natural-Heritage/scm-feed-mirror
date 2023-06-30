@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-06-19 04:22:10",
+	"refreshDateTime": "2023-06-29 16:38:09",
 	"Site": [
 		{
 			"Code": "1406",
@@ -107,12 +107,7 @@
 					"LatestAssessedSCMcycle": "1",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
