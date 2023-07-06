@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-07-04 16:38:17",
+	"refreshDateTime": "2023-07-05 16:38:16",
 	"Site": [
 		{
 			"Code": "1584",
@@ -54,6 +54,14 @@
 							{
 								"Description": "Over grazing",
 								"PressureRecordedAs": "Grazing - over"
+							},
+							{
+								"Description": "Plant pests and diseases",
+								"PressureRecordedAs": "Plant Pests and Diseases"
+							},
+							{
+								"Description": "Water management",
+								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
 							}
 						]
 					},
