@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-07-09 16:39:18",
+	"refreshDateTime": "2023-07-10 16:38:28",
 	"Site": [
 		{
 			"Code": "1487",
@@ -47,10 +47,6 @@
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
-							{
-								"Description": "Other",
-								"PressureRecordedAs": "Other activity"
-							},
 							{
 								"Description": "Trampling",
 								"PressureRecordedAs": "Trampling"
