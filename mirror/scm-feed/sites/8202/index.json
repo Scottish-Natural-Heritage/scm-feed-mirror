@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-07-11 16:38:29",
+	"refreshDateTime": "2023-07-12 16:38:30",
 	"Site": [
 		{
 			"Code": "8202",
@@ -40,10 +40,10 @@
 					"WaterFeature": "Y",
 					"Category": "Upland habitat",
 					"Subcategory": "Calcareous grassland (Upland)",
-					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2010-09-30",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2014-06-04",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

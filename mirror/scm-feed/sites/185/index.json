@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-07-11 16:38:29",
+	"refreshDateTime": "2023-07-12 16:38:30",
 	"Site": [
 		{
 			"Code": "185",
@@ -268,9 +268,9 @@
 					"Category": "Upland habitat",
 					"Subcategory": "Montane habitats",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2004-09-29",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2016-07-01",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
