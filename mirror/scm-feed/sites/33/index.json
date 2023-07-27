@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-07-25 16:38:51",
+	"refreshDateTime": "2023-07-26 16:38:56",
 	"Site": [
 		{
 			"Code": "33",
@@ -40,10 +40,10 @@
 					"WaterFeature": "N",
 					"Category": "Woodland",
 					"Subcategory": "Coniferous woodland",
-					"SummaryCondition": "Recovering",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2009-05-25",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Recovered",
+					"LatestAssessedVisitDate": "2023-05-19",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
