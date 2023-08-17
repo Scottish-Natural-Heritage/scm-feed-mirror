@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-15 16:39:47",
+	"refreshDateTime": "2023-08-16 16:40:12",
 	"Site": [
 		{
 			"Code": "1419",
@@ -47,10 +47,10 @@
 					"WaterFeature": "Y",
 					"Category": "Coast",
 					"Subcategory": "Supralittoral sediment (Coast)",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2013-07-16",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2022-07-26",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -124,10 +124,10 @@
 					"WaterFeature": "Y",
 					"Category": "Coast",
 					"Subcategory": "Supralittoral sediment (Coast)",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2013-07-16",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2022-06-29",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
