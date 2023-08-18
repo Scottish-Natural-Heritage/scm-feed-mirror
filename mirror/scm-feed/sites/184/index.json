@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-16 16:40:12",
+	"refreshDateTime": "2023-08-17 16:39:57",
 	"Site": [
 		{
 			"Code": "184",
@@ -202,8 +202,8 @@
 					"Subcategory": "Bogs (Upland)",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2019-05-21",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2023-06-22",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
