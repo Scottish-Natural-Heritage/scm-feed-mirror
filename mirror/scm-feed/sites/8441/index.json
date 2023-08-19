@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-17 16:39:57",
+	"refreshDateTime": "2023-08-18 16:40:10",
 	"Site": [
 		{
 			"Code": "8441",
@@ -21,14 +21,14 @@
 						"Ref": "Forfar",
 						"Prime": "P",
 						"Overlap": 216.81,
-						"Percentage": 116
+						"Percentage": 100
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",
 						"Ref": "Tay",
 						"Prime": "P",
 						"Overlap": 216.81,
-						"Percentage": 116
+						"Percentage": 100
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",
