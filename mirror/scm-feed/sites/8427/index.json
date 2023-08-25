@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-23 16:40:18",
+	"refreshDateTime": "2023-08-24 16:40:30",
 	"Site": [
 		{
 			"Code": "8427",
@@ -12,20 +12,6 @@
 					{
 						"Type": "VICE_COUNTIES",
 						"Ref": "Berwickshire",
-						"Prime": "P",
-						"Overlap": 247.6,
-						"Percentage": 101
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Berwickshire",
-						"Prime": "P",
-						"Overlap": 247.6,
-						"Percentage": 101
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tweed",
 						"Prime": "P",
 						"Overlap": 247.6,
 						"Percentage": 101

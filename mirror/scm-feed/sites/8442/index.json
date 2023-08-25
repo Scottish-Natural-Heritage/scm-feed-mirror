@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-23 16:40:18",
+	"refreshDateTime": "2023-08-24 16:40:30",
 	"Site": [
 		{
 			"Code": "8442",
@@ -12,20 +12,6 @@
 					{
 						"Type": "VICE_COUNTIES",
 						"Ref": "South Aberdeen",
-						"Prime": "P",
-						"Overlap": 120.9,
-						"Percentage": 99
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "South Aberdeen",
-						"Prime": "P",
-						"Overlap": 120.9,
-						"Percentage": 99
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
 						"Prime": "P",
 						"Overlap": 120.9,
 						"Percentage": 99

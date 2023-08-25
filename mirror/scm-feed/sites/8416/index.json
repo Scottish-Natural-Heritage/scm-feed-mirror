@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-23 16:40:18",
+	"refreshDateTime": "2023-08-24 16:40:30",
 	"Site": [
 		{
 			"Code": "8416",
@@ -17,29 +17,8 @@
 						"Percentage": 100
 					},
 					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Westerness",
-						"Prime": "P",
-						"Overlap": 568.28,
-						"Percentage": 100
-					},
-					{
 						"Type": "DEER_MANAGEMENT_GROUP",
 						"Ref": "East Loch Shiel",
-						"Prime": "P",
-						"Overlap": 568.28,
-						"Percentage": 100
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Loch Shiel",
-						"Prime": "P",
-						"Overlap": 568.28,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
 						"Prime": "P",
 						"Overlap": 568.28,
 						"Percentage": 100

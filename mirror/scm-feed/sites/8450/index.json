@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-23 16:40:18",
+	"refreshDateTime": "2023-08-24 16:40:30",
 	"Site": [
 		{
 			"Code": "8450",
@@ -18,30 +18,9 @@
 					},
 					{
 						"Type": "VICE_COUNTIES",
-						"Ref": "Mid Perth",
-						"Prime": "P",
-						"Overlap": 1518.84,
-						"Percentage": 100
-					},
-					{
-						"Type": "VICE_COUNTIES",
 						"Ref": "Main Argyll",
 						"Prime": "S",
 						"Overlap": 0.59,
-						"Percentage": 0
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Main Argyll",
-						"Prime": "S",
-						"Overlap": 0.59,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Blackmount",
-						"Prime": "S",
-						"Overlap": 0.33,
 						"Percentage": 0
 					},
 					{
@@ -57,20 +36,6 @@
 						"Prime": "P",
 						"Overlap": 0.55,
 						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Breadalbane",
-						"Prime": "P",
-						"Overlap": 0.55,
-						"Percentage": 0
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tay",
-						"Prime": "P",
-						"Overlap": 1519.43,
-						"Percentage": 100
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",
