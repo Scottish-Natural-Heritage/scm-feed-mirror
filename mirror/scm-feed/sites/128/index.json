@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-24 16:40:30",
+	"refreshDateTime": "2023-08-25 16:40:18",
 	"Site": [
 		{
 			"Code": "128",
@@ -113,10 +113,10 @@
 					"WaterFeature": "Y",
 					"Category": "Earth sciences",
 					"Subcategory": "Stratigraphy",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2012-07-11",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2022-09-16",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": [
