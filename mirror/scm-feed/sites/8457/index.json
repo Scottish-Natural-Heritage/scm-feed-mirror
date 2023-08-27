@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-25 16:40:18",
+	"refreshDateTime": "2023-08-26 16:40:28",
 	"Site": [
 		{
 			"Code": "8457",
@@ -17,6 +17,20 @@
 						"Percentage": 100
 					},
 					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Outer Hebrides",
+						"Prime": "P",
+						"Overlap": 5019.05,
+						"Percentage": 100
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Outer Hebrides",
+						"Prime": "P",
+						"Overlap": 318.96,
+						"Percentage": 6
+					},
+					{
 						"Type": "SCOTTISH_MARINE_REGIONS",
 						"Ref": "Outer Hebrides",
 						"Prime": "P",
@@ -29,6 +43,20 @@
 						"Prime": "P",
 						"Overlap": 4695.85,
 						"Percentage": 93
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "South Uist",
+						"Prime": "P",
+						"Overlap": 4695.85,
+						"Percentage": 93
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "West Highland",
+						"Prime": "P",
+						"Overlap": 5019.05,
+						"Percentage": 100
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",

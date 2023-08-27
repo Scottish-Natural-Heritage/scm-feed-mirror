@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-25 16:40:18",
+	"refreshDateTime": "2023-08-26 16:40:28",
 	"Site": [
 		{
 			"Code": "8458",
@@ -18,9 +18,30 @@
 					},
 					{
 						"Type": "VICE_COUNTIES",
+						"Ref": "Cumberland",
+						"Prime": "P",
+						"Overlap": 21853.25,
+						"Percentage": 70
+					},
+					{
+						"Type": "VICE_COUNTIES",
 						"Ref": "Dumfrieshire",
 						"Prime": "S",
 						"Overlap": 11014.52,
+						"Percentage": 35
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Dumfrieshire",
+						"Prime": "S",
+						"Overlap": 11014.52,
+						"Percentage": 35
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Kirkudbrightshire",
+						"Prime": "S",
+						"Overlap": 10768.96,
 						"Percentage": 35
 					},
 					{
@@ -38,11 +59,32 @@
 						"Percentage": 76
 					},
 					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Solway",
+						"Prime": "P",
+						"Overlap": 23588.9,
+						"Percentage": 76
+					},
+					{
 						"Type": "DEER_MANAGEMENT_GROUP",
 						"Ref": "East Dumfries and Galloway",
 						"Prime": "P",
 						"Overlap": 1343.91,
 						"Percentage": 4
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "East Dumfries and Galloway",
+						"Prime": "P",
+						"Overlap": 1343.91,
+						"Percentage": 4
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Solway",
+						"Prime": "P",
+						"Overlap": 42278.15,
+						"Percentage": 136
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",

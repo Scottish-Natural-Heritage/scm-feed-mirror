@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-25 16:40:18",
+	"refreshDateTime": "2023-08-26 16:40:28",
 	"Site": [
 		{
 			"Code": "8438",
@@ -17,6 +17,20 @@
 						"Percentage": 100
 					},
 					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "West Ross",
+						"Prime": "P",
+						"Overlap": 3173.67,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Gairloch Conservation Group",
+						"Prime": "P",
+						"Overlap": 1968.18,
+						"Percentage": 62
+					},
+					{
 						"Type": "DEER_MANAGEMENT_GROUP",
 						"Ref": "Gairloch Conservation Group",
 						"Prime": "P",
@@ -29,6 +43,20 @@
 						"Prime": "S",
 						"Overlap": 1205.49,
 						"Percentage": 38
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "West Ross",
+						"Prime": "S",
+						"Overlap": 1205.49,
+						"Percentage": 38
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "West Highland",
+						"Prime": "P",
+						"Overlap": 3173.67,
+						"Percentage": 100
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",
