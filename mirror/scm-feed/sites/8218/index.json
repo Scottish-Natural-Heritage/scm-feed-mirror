@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-08-27 16:40:32",
+	"refreshDateTime": "2023-08-28 16:40:14",
 	"Site": [
 		{
 			"Code": "8218",
@@ -14,7 +14,7 @@
 						"Ref": "East Sutherland",
 						"Prime": "S",
 						"Overlap": 29822.19,
-						"Percentage": 21
+						"Percentage": 20
 					},
 					{
 						"Type": "VICE_COUNTIES",
@@ -28,14 +28,14 @@
 						"Ref": "West Sutherland",
 						"Prime": "P",
 						"Overlap": 64725.97,
-						"Percentage": 45
+						"Percentage": 44
 					},
 					{
 						"Type": "DEER_MANAGEMENT_GROUP",
 						"Ref": "North West Sutherland",
 						"Prime": "S",
 						"Overlap": 39860.66,
-						"Percentage": 28
+						"Percentage": 27
 					},
 					{
 						"Type": "DEER_MANAGEMENT_GROUP",
@@ -56,14 +56,14 @@
 						"Ref": "Northern",
 						"Prime": "P",
 						"Overlap": 75873.15,
-						"Percentage": 53
+						"Percentage": 52
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",
 						"Ref": "North Highland",
 						"Prime": "P",
 						"Overlap": 143568.71,
-						"Percentage": 100
+						"Percentage": 98
 					}
 				]
 			},
