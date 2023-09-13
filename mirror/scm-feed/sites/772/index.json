@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-09-07 16:40:40",
+	"refreshDateTime": "2023-09-12 14:22:16",
 	"Site": [
 		{
 			"Code": "772",
@@ -54,10 +54,10 @@
 					"WaterFeature": "Y",
 					"Category": "Earth sciences",
 					"Subcategory": "Stratigraphy",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2001-10-11",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2023-01-30",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": [
