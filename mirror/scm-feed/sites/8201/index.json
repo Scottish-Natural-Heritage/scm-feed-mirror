@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-09-14 14:22:21",
+	"refreshDateTime": "2023-09-15 14:22:23",
 	"Site": [
 		{
 			"Code": "8201",
@@ -571,13 +571,7 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Trampling",
-								"PressureRecordedAs": "Trampling",
-								"keywords": "Deer, Sheep"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
@@ -645,13 +639,7 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Trampling",
-								"PressureRecordedAs": "Trampling",
-								"keywords": "Deer, Sheep"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
