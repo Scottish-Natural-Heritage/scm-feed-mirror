@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-09-20 14:22:31",
+	"refreshDateTime": "2023-09-21 14:22:32",
 	"Site": [
 		{
 			"Code": "876",
@@ -33,79 +33,6 @@
 				]
 			},
 			"SiteFeature": [
-				{
-					"Id": "11268",
-					"Name": "Subalpine calcareous grassland",
-					"ActionPlanFeature": "Y",
-					"WaterFeature": "N",
-					"Category": "Upland habitat",
-					"Subcategory": "Calcareous grassland (Upland)",
-					"SummaryCondition": "Recovering",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2002-07-11",
-					"LatestAssessedSCMcycle": "1",
-					"FeatureType": "Habitats",
-					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
-							}
-						]
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2021",
-								"AnnualSummaryCondition": "Recovering"
-							},
-							{
-								"year": "2020",
-								"AnnualSummaryCondition": "Recovering"
-							},
-							{
-								"year": "2019",
-								"AnnualSummaryCondition": "Recovering"
-							},
-							{
-								"year": "2018",
-								"AnnualSummaryCondition": "Recovering"
-							},
-							{
-								"year": "2017",
-								"AnnualSummaryCondition": "Recovering"
-							},
-							{
-								"year": "2016",
-								"AnnualSummaryCondition": "Recovering"
-							},
-							{
-								"year": "2015",
-								"AnnualSummaryCondition": "Recovering"
-							},
-							{
-								"year": "2014",
-								"AnnualSummaryCondition": "Recovering"
-							},
-							{
-								"year": "2013",
-								"AnnualSummaryCondition": "Recovering"
-							},
-							{
-								"year": "2012",
-								"AnnualSummaryCondition": "Recovering"
-							},
-							{
-								"year": "2011",
-								"AnnualSummaryCondition": "Recovering"
-							},
-							{
-								"year": "2010",
-								"AnnualSummaryCondition": "Recovering"
-							}
-						]
-					}
-				},
 				{
 					"Id": "11269",
 					"Name": "Subalpine wet heath",
@@ -393,6 +320,22 @@
 								"AnnualSummaryCondition": "Recovering"
 							}
 						]
+					}
+				},
+				{
+					"Id": "17534",
+					"Name": "Calaminarian grassland and serpentine heath",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Inland rock",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
 					}
 				}
 			]
