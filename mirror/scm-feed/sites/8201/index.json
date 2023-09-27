@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-09-25 14:22:45",
+	"refreshDateTime": "2023-09-26 14:22:47",
 	"Site": [
 		{
 			"Code": "8201",
@@ -497,11 +497,8 @@
 						"Pressure": [
 							{
 								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
-							},
-							{
-								"Description": "Trampling",
-								"PressureRecordedAs": "Trampling"
+								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Deer, Sheep"
 							}
 						]
 					},
