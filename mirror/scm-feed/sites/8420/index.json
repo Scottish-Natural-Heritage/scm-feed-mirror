@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-10-02 14:23:01",
+	"refreshDateTime": "2023-10-03 14:23:00",
 	"Site": [
 		{
 			"Code": "8420",
@@ -437,6 +437,10 @@
 							{
 								"Description": "Over grazing",
 								"PressureRecordedAs": "Grazing - over"
+							},
+							{
+								"Description": "Plant pests and diseases",
+								"PressureRecordedAs": "Plant Pests and Diseases"
 							}
 						]
 					},
