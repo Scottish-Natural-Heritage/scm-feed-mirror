@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-10-09 14:23:14",
+	"refreshDateTime": "2023-10-10 14:23:28",
 	"Site": [
 		{
 			"Code": "1266",
@@ -43,6 +43,10 @@
 					},
 					"HistoryDetails": {
 						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Favourable"
+							},
 							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Favourable"

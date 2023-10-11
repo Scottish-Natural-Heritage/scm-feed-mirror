@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-10-09 14:23:14",
+	"refreshDateTime": "2023-10-10 14:23:28",
 	"Site": [
 		{
 			"Code": "1550",
@@ -71,6 +71,10 @@
 					},
 					"HistoryDetails": {
 						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
 							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Unfavourable"
@@ -153,6 +157,10 @@
 					"HistoryDetails": {
 						"Year": [
 							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
+							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Unfavourable"
 							},
@@ -220,6 +228,10 @@
 					},
 					"HistoryDetails": {
 						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Favourable"
+							},
 							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Favourable"
@@ -294,6 +306,10 @@
 					"HistoryDetails": {
 						"Year": [
 							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Favourable"
 							},
@@ -366,6 +382,10 @@
 					},
 					"HistoryDetails": {
 						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Favourable"
+							},
 							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Favourable"
@@ -440,6 +460,10 @@
 					"HistoryDetails": {
 						"Year": [
 							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Favourable"
 							},
@@ -504,6 +528,10 @@
 					},
 					"HistoryDetails": {
 						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
 							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Not Assessed"
@@ -578,6 +606,10 @@
 					"HistoryDetails": {
 						"Year": [
 							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Favourable"
 							},
@@ -650,6 +682,10 @@
 					},
 					"HistoryDetails": {
 						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "To Be Denotified"
+							},
 							{
 								"year": "2021",
 								"AnnualSummaryCondition": "To Be Denotified"
@@ -725,6 +761,10 @@
 					"HistoryDetails": {
 						"Year": [
 							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Favourable"
 							},
@@ -792,6 +832,10 @@
 					},
 					"HistoryDetails": {
 						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Favourable"
+							},
 							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Favourable"

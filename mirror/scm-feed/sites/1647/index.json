@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-10-09 14:23:14",
+	"refreshDateTime": "2023-10-10 14:23:28",
 	"Site": [
 		{
 			"Code": "1647",
@@ -50,6 +50,10 @@
 					},
 					"HistoryDetails": {
 						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Favourable"
+							},
 							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Favourable"
@@ -117,7 +121,7 @@
 						"Pressure": [
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
 							},
 							{
 								"Description": "Water quality",
@@ -127,6 +131,10 @@
 					},
 					"HistoryDetails": {
 						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
 							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Unfavourable"
@@ -196,6 +204,10 @@
 					"HistoryDetails": {
 						"Year": [
 							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Favourable"
+							},
+							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Favourable"
 							},
@@ -263,6 +275,10 @@
 					},
 					"HistoryDetails": {
 						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Favourable"
+							},
 							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Favourable"
@@ -344,6 +360,10 @@
 					},
 					"HistoryDetails": {
 						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Unfavourable"
+							},
 							{
 								"year": "2021",
 								"AnnualSummaryCondition": "Unfavourable"

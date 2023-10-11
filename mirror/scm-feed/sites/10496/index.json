@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-10-09 14:23:14",
+	"refreshDateTime": "2023-10-10 14:23:28",
 	"Site": [
 		{
 			"Code": "10496",
@@ -24,7 +24,12 @@
 						"Pressure": []
 					},
 					"HistoryDetails": {
-						"Year": []
+						"Year": [
+							{
+								"year": "2023",
+								"AnnualSummaryCondition": "Not Assessed"
+							}
+						]
 					}
 				}
 			]
