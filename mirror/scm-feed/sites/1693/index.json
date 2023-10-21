@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-10-19 14:23:44",
+	"refreshDateTime": "2023-10-20 14:23:47",
 	"Site": [
 		{
 			"Code": "1693",
@@ -212,7 +212,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
 							},
 							{
 								"Description": "Water quality",
@@ -302,11 +302,11 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
 							},
 							{
 								"Description": "Water quality",
-								"PressureRecordedAs": "Water quality"
+								"PressureRecordedAs": "Pollution - sewage"
 							}
 						]
 					},

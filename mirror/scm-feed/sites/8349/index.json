@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-10-19 14:23:44",
+	"refreshDateTime": "2023-10-20 14:23:47",
 	"Site": [
 		{
 			"Code": "8349",
@@ -49,7 +49,8 @@
 						"Pressure": [
 							{
 								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
+								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Deer"
 							},
 							{
 								"Description": "Under grazing",
@@ -450,7 +451,8 @@
 							},
 							{
 								"Description": "Trampling",
-								"PressureRecordedAs": "Trampling"
+								"PressureRecordedAs": "Trampling",
+								"keywords": "Cattle"
 							}
 						]
 					},

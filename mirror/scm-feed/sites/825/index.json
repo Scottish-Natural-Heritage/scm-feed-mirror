@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-10-19 14:23:44",
+	"refreshDateTime": "2023-10-20 14:23:47",
 	"Site": [
 		{
 			"Code": "825",
@@ -40,7 +40,10 @@
 					"WaterFeature": "N",
 					"Category": "Marine (including marine mammals)",
 					"Subcategory": "Littoral sediment (Marine)",
-					"SummaryCondition": "Not Assessed",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2014-01-01",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []

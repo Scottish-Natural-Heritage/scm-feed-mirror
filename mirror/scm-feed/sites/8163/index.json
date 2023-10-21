@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-10-19 14:23:44",
+	"refreshDateTime": "2023-10-20 14:23:47",
 	"Site": [
 		{
 			"Code": "8163",
@@ -84,7 +84,7 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
 							},
 							{
 								"Description": "Other",
@@ -261,7 +261,7 @@
 							},
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
 							},
 							{
 								"Description": "No proactive management",
@@ -346,8 +346,8 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
-								"keywords": "Nettles, Thistles"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
+								"keywords": "Sea buckhorn"
 							},
 							{
 								"Description": "Recreation/disturbance",
@@ -687,7 +687,7 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
+								"PressureRecordedAs": "Presence or changing extent of invasive species"
 							},
 							{
 								"Description": "Over grazing",
