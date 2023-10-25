@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-10-23 14:24:01",
+	"refreshDateTime": "2023-10-24 14:24:05",
 	"Site": [
 		{
 			"Code": "1383",
@@ -40,13 +40,22 @@
 					"WaterFeature": "N",
 					"Category": "Earth sciences",
 					"Subcategory": "Stratigraphy",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2000-05-09",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2023-06-01",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
-						"Pressure": []
+						"Pressure": [
+							{
+								"Description": "Forestry operations",
+								"PressureRecordedAs": "Forestry operations"
+							},
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence or changing extent of invasive species"
+							}
+						]
 					},
 					"HistoryDetails": {
 						"Year": [
