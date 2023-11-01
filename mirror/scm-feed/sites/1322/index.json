@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-10-30 14:24:15",
+	"refreshDateTime": "2023-10-31 14:24:45",
 	"Site": [
 		{
 			"Code": "1322",
@@ -43,11 +43,6 @@
 							{
 								"Description": "Invasive species",
 								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
-							},
-							{
-								"Description": "Under grazing",
-								"PressureRecordedAs": "Grazing - under",
-								"keywords": "Cattle, Deer"
 							}
 						]
 					},
