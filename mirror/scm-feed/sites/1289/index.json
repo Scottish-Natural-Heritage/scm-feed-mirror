@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-11-15 14:24:44",
+	"refreshDateTime": "2023-11-16 14:24:34",
 	"Site": [
 		{
 			"Code": "1289",
@@ -351,8 +351,8 @@
 					"Subcategory": "Acid grassland (Upland)",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2008-07-13",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2023-06-27",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
