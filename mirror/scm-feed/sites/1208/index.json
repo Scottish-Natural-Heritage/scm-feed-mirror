@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-11-26 14:25:05",
+	"refreshDateTime": "2023-11-27 14:25:02",
 	"Site": [
 		{
 			"Code": "1208",
@@ -117,10 +117,10 @@
 					"WaterFeature": "N",
 					"Category": "Vascular plants",
 					"Subcategory": "Vascular plants",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2004-07-28",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2022-08-15",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
