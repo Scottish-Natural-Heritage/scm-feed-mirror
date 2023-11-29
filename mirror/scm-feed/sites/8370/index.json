@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-11-27 14:25:02",
+	"refreshDateTime": "2023-11-28 14:25:05",
 	"Site": [
 		{
 			"Code": "8370",
@@ -350,12 +350,8 @@
 								"PressureRecordedAs": "Natural event"
 							},
 							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
-							},
-							{
-								"Description": "Trampling",
-								"PressureRecordedAs": "Trampling"
+								"Description": "No proactive management",
+								"PressureRecordedAs": "Non intervention"
 							}
 						]
 					},
