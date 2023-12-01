@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-11-29 14:25:14",
+	"refreshDateTime": "2023-11-30 14:25:11",
 	"Site": [
 		{
 			"Code": "937",
@@ -128,7 +128,8 @@
 							},
 							{
 								"Description": "Under grazing",
-								"PressureRecordedAs": "Grazing - under"
+								"PressureRecordedAs": "Grazing - under",
+								"keywords": "Cattle"
 							}
 						]
 					},

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-11-29 14:25:14",
+	"refreshDateTime": "2023-11-30 14:25:11",
 	"Site": [
 		{
 			"Code": "191",
@@ -226,8 +226,8 @@
 					"Subcategory": "Structural and metamorphic geology",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2002-05-16",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedVisitDate": "2022-06-09",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []
@@ -296,10 +296,10 @@
 					"WaterFeature": "Y",
 					"Category": "Earth sciences",
 					"Subcategory": "Igneous petrology",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2002-05-17",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2022-06-10",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": [
