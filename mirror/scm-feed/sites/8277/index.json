@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-12-04 14:25:23",
+	"refreshDateTime": "2023-12-05 14:25:27",
 	"Site": [
 		{
 			"Code": "8277",
@@ -145,6 +145,14 @@
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+							},
+							{
+								"Description": "Natural event",
+								"PressureRecordedAs": "Tree regeneration"
+							},
 							{
 								"Description": "Over grazing",
 								"PressureRecordedAs": "Grazing - over"
