@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-12-05 14:25:27",
+	"refreshDateTime": "2023-12-06 14:25:27",
 	"Site": [
 		{
 			"Code": "8277",
@@ -378,13 +378,7 @@
 					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over",
-								"keywords": "Deer"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
