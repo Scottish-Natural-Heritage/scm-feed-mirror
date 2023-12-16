@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-12-14 14:26:09",
+	"refreshDateTime": "2023-12-15 14:26:04",
 	"Site": [
 		{
 			"Code": "1120",
@@ -40,10 +40,10 @@
 					"WaterFeature": "Y",
 					"Category": "Coast",
 					"Subcategory": "Supralittoral sediment (Coast)",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2009-06-09",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2021-07-15",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
