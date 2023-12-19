@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-12-17 14:26:16",
+	"refreshDateTime": "2023-12-18 14:26:10",
 	"Site": [
 		{
 			"Code": "1231",
@@ -206,8 +206,8 @@
 					"Subcategory": "Mosaic",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2017-07-10",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2022-09-06",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
