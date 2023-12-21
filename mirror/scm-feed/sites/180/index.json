@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-12-19 14:26:07",
+	"refreshDateTime": "2023-12-20 14:26:17",
 	"Site": [
 		{
 			"Code": "180",
@@ -361,12 +361,7 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Proactive on-site management",
-								"PressureRecordedAs": "Proactive on-site management"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
@@ -438,12 +433,7 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Air pollution",
-								"PressureRecordedAs": "Pollution - air-based sources (inc. greenhouse gases)"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
@@ -515,13 +505,7 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Grazing - other",
-								"PressureRecordedAs": "Grazing - appropriate level",
-								"keywords": "Deer, Sheep"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
@@ -593,12 +577,7 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
