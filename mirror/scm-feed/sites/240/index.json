@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-12-20 14:26:17",
+	"refreshDateTime": "2023-12-21 14:26:10",
 	"Site": [
 		{
 			"Code": "240",
@@ -40,7 +40,7 @@
 					"WaterFeature": "Y",
 					"Category": "Wetlands",
 					"Subcategory": "Fen, marsh and swamp (Wetland)",
-					"SummaryCondition": "Unfavourable",
+					"SummaryCondition": "Recovering",
 					"LatestAssessedCondition": "Unfavourable Declining",
 					"LatestAssessedVisitDate": "2008-09-19",
 					"LatestAssessedSCMcycle": "2",
@@ -54,10 +54,6 @@
 							{
 								"Description": "Natural event",
 								"PressureRecordedAs": "Natural event"
-							},
-							{
-								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- flow regulation"
 							}
 						]
 					},

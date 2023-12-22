@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2023-12-20 14:26:17",
+	"refreshDateTime": "2023-12-21 14:26:10",
 	"Site": [
 		{
 			"Code": "1289",
@@ -273,8 +273,8 @@
 					"Subcategory": "Inland rock",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2002-07-17",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedVisitDate": "2023-06-27",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
