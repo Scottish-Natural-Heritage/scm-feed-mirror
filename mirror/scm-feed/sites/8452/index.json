@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-01-04 14:26:38",
+	"refreshDateTime": "2024-01-05 14:27:00",
 	"Site": [
 		{
 			"Code": "8452",
@@ -304,7 +304,16 @@
 					"SummaryCondition": "Not Assessed",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": []
+						"Pressure": [
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
+							},
+							{
+								"Description": "Plant pests and diseases",
+								"PressureRecordedAs": "Plant Pests and Diseases"
+							}
+						]
 					},
 					"HistoryDetails": {
 						"Year": [
