@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-01-07 14:27:00",
+	"refreshDateTime": "2024-01-08 14:26:42",
 	"Site": [
 		{
 			"Code": "817",
@@ -446,7 +446,20 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": []
+						"Pressure": [
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+							},
+							{
+								"Description": "Recreation/disturbance",
+								"PressureRecordedAs": "Tourism & recreation"
+							},
+							{
+								"Description": "Trampling",
+								"PressureRecordedAs": "Trampling"
+							}
+						]
 					},
 					"HistoryDetails": {
 						"Year": [
