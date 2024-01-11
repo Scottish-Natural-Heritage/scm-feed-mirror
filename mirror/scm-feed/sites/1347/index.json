@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-01-09 14:26:46",
+	"refreshDateTime": "2024-01-10 14:26:48",
 	"Site": [
 		{
 			"Code": "1347",
@@ -209,8 +209,16 @@
 					"Pressures": {
 						"Pressure": [
 							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+							},
+							{
 								"Description": "Over grazing",
 								"PressureRecordedAs": "Grazing - over"
+							},
+							{
+								"Description": "Trampling",
+								"PressureRecordedAs": "Trampling"
 							}
 						]
 					},
