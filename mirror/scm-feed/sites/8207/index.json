@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-01-12 14:26:54",
+	"refreshDateTime": "2024-01-13 14:27:02",
 	"Site": [
 		{
 			"Code": "8207",
@@ -108,6 +108,120 @@
 							{
 								"year": "2010",
 								"AnnualSummaryCondition": "Favourable"
+							}
+						]
+					}
+				},
+				{
+					"Id": "13404",
+					"Name": "Shallow inlets and bays",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Marine (including marine mammals)",
+					"Subcategory": "Littoral sediment (Marine)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Not Assessed"
+							}
+						]
+					}
+				},
+				{
+					"Id": "13405",
+					"Name": "Intertidal mudflats and sandflats",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "Y",
+					"Category": "Marine (including marine mammals)",
+					"Subcategory": "Littoral sediment (Marine)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": [
+							{
+								"year": "2019",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2018",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2017",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2016",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2015",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2014",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2013",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2012",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2011",
+								"AnnualSummaryCondition": "Not Assessed"
+							},
+							{
+								"year": "2010",
+								"AnnualSummaryCondition": "Not Assessed"
 							}
 						]
 					}
