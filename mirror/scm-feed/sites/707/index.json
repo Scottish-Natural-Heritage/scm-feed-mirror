@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-01-15 14:27:02",
+	"refreshDateTime": "2024-01-16 14:27:02",
 	"Site": [
 		{
 			"Code": "707",
@@ -48,7 +48,7 @@
 					"WaterFeature": "Y",
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
 					"LatestAssessedVisitDate": "2002-04-30",
 					"LatestAssessedSCMcycle": "1",
