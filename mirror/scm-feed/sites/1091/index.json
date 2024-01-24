@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-01-22 14:27:15",
+	"refreshDateTime": "2024-01-23 14:27:19",
 	"Site": [
 		{
 			"Code": "1091",
@@ -231,6 +231,14 @@
 							{
 								"Description": "Burning",
 								"PressureRecordedAs": "Burning"
+							},
+							{
+								"Description": "Natural event",
+								"PressureRecordedAs": "Tree regeneration"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
 							},
 							{
 								"Description": "Water management",
