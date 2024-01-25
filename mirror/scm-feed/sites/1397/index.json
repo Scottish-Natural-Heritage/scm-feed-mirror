@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-01-23 14:27:19",
+	"refreshDateTime": "2024-01-24 14:27:23",
 	"Site": [
 		{
 			"Code": "1397",
@@ -378,10 +378,6 @@
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
-							{
-								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Recreation/disturbance"
-							},
 							{
 								"Description": "Water management",
 								"PressureRecordedAs": "Water management"
