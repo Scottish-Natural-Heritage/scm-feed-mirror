@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-03 14:27:50",
+	"refreshDateTime": "2024-02-04 14:27:46",
 	"Site": [
 		{
 			"Code": "1443",
@@ -444,12 +444,7 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- morphological alteration"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
