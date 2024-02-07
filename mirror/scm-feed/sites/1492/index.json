@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-04 14:27:46",
+	"refreshDateTime": "2024-02-06 14:27:42",
 	"Site": [
 		{
 			"Code": "1492",
@@ -514,9 +514,9 @@
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of breeding birds",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Recovered",
-					"LatestAssessedVisitDate": "2015-06-30",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2023-06-16",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
