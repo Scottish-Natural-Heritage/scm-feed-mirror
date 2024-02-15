@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-06 14:27:42",
+	"refreshDateTime": "2024-02-14 14:28:06",
 	"Site": [
 		{
 			"Code": "896",
@@ -46,7 +46,12 @@
 					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": []
+						"Pressure": [
+							{
+								"Description": "Under grazing",
+								"PressureRecordedAs": "Grazing - under"
+							}
+						]
 					},
 					"HistoryDetails": {
 						"Year": [

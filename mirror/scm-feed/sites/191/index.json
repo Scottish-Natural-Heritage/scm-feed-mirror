@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-06 14:27:42",
+	"refreshDateTime": "2024-02-14 14:28:06",
 	"Site": [
 		{
 			"Code": "191",
@@ -296,7 +296,7 @@
 					"WaterFeature": "Y",
 					"Category": "Earth sciences",
 					"Subcategory": "Igneous petrology",
-					"SummaryCondition": "Unfavourable",
+					"SummaryCondition": "Recovering",
 					"LatestAssessedCondition": "Unfavourable No change",
 					"LatestAssessedVisitDate": "2022-06-10",
 					"LatestAssessedSCMcycle": "4",

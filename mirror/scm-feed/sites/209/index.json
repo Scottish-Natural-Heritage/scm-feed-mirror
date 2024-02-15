@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-06 14:27:42",
+	"refreshDateTime": "2024-02-14 14:28:06",
 	"Site": [
 		{
 			"Code": "209",
@@ -39,12 +39,7 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Natural event",
-								"PressureRecordedAs": "Natural event"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
