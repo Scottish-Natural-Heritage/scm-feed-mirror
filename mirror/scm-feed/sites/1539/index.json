@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-14 14:28:06",
+	"refreshDateTime": "2024-02-15 14:28:05",
 	"Site": [
 		{
 			"Code": "1539",
@@ -261,10 +261,10 @@
 					"WaterFeature": "Y",
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of breeding birds",
-					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2013-05-24",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Recovered",
+					"LatestAssessedVisitDate": "2021-07-10",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []
