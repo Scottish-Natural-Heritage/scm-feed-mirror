@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-15 14:28:05",
+	"refreshDateTime": "2024-02-20 15:44:21",
 	"Site": [
 		{
 			"Code": "8204",
@@ -736,8 +736,8 @@
 					"Subcategory": "Inland rock",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2009-07-11",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2023-09-06",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -1196,10 +1196,10 @@
 					"WaterFeature": "Y",
 					"Category": "Upland habitat",
 					"Subcategory": "Bogs (Upland)",
-					"SummaryCondition": "Recovering",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2013-05-19",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Recovered",
+					"LatestAssessedVisitDate": "2023-11-25",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
