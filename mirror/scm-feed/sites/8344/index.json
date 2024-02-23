@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-21 15:44:20",
+	"refreshDateTime": "2024-02-22 15:44:21",
 	"Site": [
 		{
 			"Code": "8344",
@@ -124,10 +124,10 @@
 					"WaterFeature": "Y",
 					"Category": "Coast",
 					"Subcategory": "Supralittoral sediment (Coast)",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2013-06-16",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2022-07-26",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

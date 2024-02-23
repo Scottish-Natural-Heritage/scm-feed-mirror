@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-21 15:44:20",
+	"refreshDateTime": "2024-02-22 15:44:21",
 	"Site": [
 		{
 			"Code": "836",
@@ -128,10 +128,10 @@
 					"WaterFeature": "Y",
 					"Category": "Upland habitat",
 					"Subcategory": "Bogs (Upland)",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2021-05-20",
-					"LatestAssessedSCMcycle": "4",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2006-06-07",
+					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
