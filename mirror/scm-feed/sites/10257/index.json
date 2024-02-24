@@ -1,0 +1,33 @@
+{
+	"refreshDateTime": "2024-02-23 15:44:24",
+	"Site": [
+		{
+			"Code": "10257",
+			"SiteName": "East Rockall Bank",
+			"SiteDesignation": "SAC",
+			"LocalAuthority": "UK Offshore waters (Scotland)",
+			"SNHArea": "JNCC",
+			"ProtectedOverlays": {
+				"Overlay": []
+			},
+			"SiteFeature": [
+				{
+					"Id": "16800",
+					"Name": "Offshore Reefs",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Marine (including marine mammals)",
+					"Subcategory": "Offshore sublittoral rock (Marine)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,33 @@
+{
+	"refreshDateTime": "2024-02-23 15:44:24",
+	"Site": [
+		{
+			"Code": "8674",
+			"SiteName": "Scanner Pockmark",
+			"SiteDesignation": "SAC",
+			"LocalAuthority": "UK Offshore waters (Scotland)",
+			"SNHArea": "JNCC",
+			"ProtectedOverlays": {
+				"Overlay": []
+			},
+			"SiteFeature": [
+				{
+					"Id": "16736",
+					"Name": "Submarine structures made by leaking gases",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Marine (including marine mammals)",
+					"Subcategory": "Offshore structure (Marine)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				}
+			]
+		}
+	]
+}
