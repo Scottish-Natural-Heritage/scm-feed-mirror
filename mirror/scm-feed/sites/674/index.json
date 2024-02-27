@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-25 15:44:29",
+	"refreshDateTime": "2024-02-26 15:44:29",
 	"Site": [
 		{
 			"Code": "674",
@@ -118,9 +118,9 @@
 					"Category": "Earth sciences",
 					"Subcategory": "Structural and metamorphic geology",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Recovered",
-					"LatestAssessedVisitDate": "2017-08-07",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2022-11-16",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []
@@ -189,10 +189,10 @@
 					"WaterFeature": "Y",
 					"Category": "Earth sciences",
 					"Subcategory": "Igneous petrology",
-					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2001-10-18",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2022-11-16",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []
@@ -489,8 +489,8 @@
 					"Subcategory": "Stratigraphy",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2017-06-14",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2022-11-16",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []

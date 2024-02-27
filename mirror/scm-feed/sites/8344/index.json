@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-25 15:44:29",
+	"refreshDateTime": "2024-02-26 15:44:29",
 	"Site": [
 		{
 			"Code": "8344",
@@ -57,6 +57,10 @@
 							{
 								"Description": "Over grazing",
 								"PressureRecordedAs": "Grazing - over"
+							},
+							{
+								"Description": "Under grazing",
+								"PressureRecordedAs": "Grazing - under"
 							}
 						]
 					},
@@ -137,7 +141,7 @@
 							},
 							{
 								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Recreation/disturbance"
+								"PressureRecordedAs": "Tourism & recreation"
 							}
 						]
 					},
