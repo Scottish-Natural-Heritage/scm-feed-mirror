@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-27 15:44:30",
+	"refreshDateTime": "2024-02-28 15:44:32",
 	"Site": [
 		{
 			"Code": "900",
@@ -129,7 +129,7 @@
 						"Pressure": [
 							{
 								"Description": "Game/ fisheries management",
-								"PressureRecordedAs": "Fishing - recreational"
+								"PressureRecordedAs": "Aquaculture - finfish"
 							},
 							{
 								"Description": "Water management",
