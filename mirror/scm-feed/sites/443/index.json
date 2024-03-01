@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-02-28 15:44:32",
+	"refreshDateTime": "2024-02-29 15:44:34",
 	"Site": [
 		{
 			"Code": "443",
@@ -42,8 +42,7 @@
 						"Pressure": [
 							{
 								"Description": "Natural event",
-								"PressureRecordedAs": "Tree regeneration",
-								"keywords": "Birch, Sitka Spruce, Willow"
+								"PressureRecordedAs": "Natural event"
 							}
 						]
 					},
