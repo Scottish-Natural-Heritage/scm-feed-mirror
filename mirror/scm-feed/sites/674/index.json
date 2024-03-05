@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-03 15:44:43",
+	"refreshDateTime": "2024-03-04 15:44:42",
 	"Site": [
 		{
 			"Code": "674",
@@ -417,8 +417,8 @@
 					"Subcategory": "Palaeontology",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2017-06-14",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2022-11-15",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []

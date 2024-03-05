@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-03 15:44:43",
+	"refreshDateTime": "2024-03-04 15:44:42",
 	"Site": [
 		{
 			"Code": "1094",
@@ -34,9 +34,9 @@
 					"Category": "Freshwater habitats",
 					"Subcategory": "Standing open water and canals",
 					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2010-07-03",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2017-07-17",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
