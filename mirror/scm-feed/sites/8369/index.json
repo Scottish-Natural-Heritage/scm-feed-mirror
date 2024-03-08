@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-06 15:44:44",
+	"refreshDateTime": "2024-03-07 15:44:53",
 	"Site": [
 		{
 			"Code": "8369",
@@ -278,7 +278,7 @@
 						"Pressure": [
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- flow regulation"
 							}
 						]
 					},
@@ -355,7 +355,7 @@
 						"Pressure": [
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
+								"PressureRecordedAs": "Water management"
 							},
 							{
 								"Description": "Water quality",

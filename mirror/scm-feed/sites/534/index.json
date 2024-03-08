@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-06 15:44:44",
+	"refreshDateTime": "2024-03-07 15:44:53",
 	"Site": [
 		{
 			"Code": "534",
@@ -114,15 +114,11 @@
 					"Subcategory": "Birds - aggregations of breeding birds",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2015-06-30",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2023-06-14",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
-							{
-								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Recreation/disturbance"
-							},
 							{
 								"Description": "Trampling",
 								"PressureRecordedAs": "Trampling"

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-06 15:44:44",
+	"refreshDateTime": "2024-03-07 15:44:53",
 	"Site": [
 		{
 			"Code": "1552",
@@ -58,7 +58,7 @@
 							},
 							{
 								"Description": "Water quality",
-								"PressureRecordedAs": "Pollution - land-based sources"
+								"PressureRecordedAs": "Water quality"
 							}
 						]
 					},
