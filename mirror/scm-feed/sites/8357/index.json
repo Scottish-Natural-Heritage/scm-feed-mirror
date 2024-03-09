@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-07 15:44:53",
+	"refreshDateTime": "2024-03-08 15:44:53",
 	"Site": [
 		{
 			"Code": "8357",
@@ -98,7 +98,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- abstraction"
 							}
 						]
 					},
@@ -183,7 +183,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- morphological alteration"
+								"PressureRecordedAs": "Water Dependant Pressure- abstraction"
 							},
 							{
 								"Description": "Water quality",

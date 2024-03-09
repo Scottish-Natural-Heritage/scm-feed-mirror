@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-07 15:44:53",
+	"refreshDateTime": "2024-03-08 15:44:53",
 	"Site": [
 		{
 			"Code": "1283",
@@ -33,18 +33,13 @@
 					"WaterFeature": "N",
 					"Category": "Lowland grassland",
 					"Subcategory": "Calcareous grassland",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
 					"LatestAssessedVisitDate": "2007-06-19",
 					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Recreation/disturbance"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [

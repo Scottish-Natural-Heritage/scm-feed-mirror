@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-07 15:44:53",
+	"refreshDateTime": "2024-03-08 15:44:53",
 	"Site": [
 		{
 			"Code": "182",
@@ -48,12 +48,8 @@
 					"Pressures": {
 						"Pressure": [
 							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
-							},
-							{
-								"Description": "Trampling",
-								"PressureRecordedAs": "Trampling"
+								"Description": "Climate Change",
+								"PressureRecordedAs": "Climate change"
 							},
 							{
 								"Description": "Under grazing",

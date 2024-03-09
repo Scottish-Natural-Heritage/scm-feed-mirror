@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-07 15:44:53",
+	"refreshDateTime": "2024-03-08 15:44:53",
 	"Site": [
 		{
 			"Code": "1388",
@@ -49,7 +49,7 @@
 						"Pressure": [
 							{
 								"Description": "Game/ fisheries management",
-								"PressureRecordedAs": "Fishing - recreational"
+								"PressureRecordedAs": "Game or fisheries management"
 							}
 						]
 					},

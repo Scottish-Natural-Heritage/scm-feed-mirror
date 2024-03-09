@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-07 15:44:53",
+	"refreshDateTime": "2024-03-08 15:44:53",
 	"Site": [
 		{
 			"Code": "31",
@@ -118,7 +118,7 @@
 					"WaterFeature": "N",
 					"Category": "Upland habitat",
 					"Subcategory": "Inland rock",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
 					"LatestAssessedVisitDate": "2002-07-10",
 					"LatestAssessedSCMcycle": "1",
@@ -126,12 +126,8 @@
 					"Pressures": {
 						"Pressure": [
 							{
-								"Description": "Agricultural operations",
-								"PressureRecordedAs": "Agricultural operations"
-							},
-							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
+								"Description": "Under grazing",
+								"PressureRecordedAs": "Grazing - under"
 							}
 						]
 					},
