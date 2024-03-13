@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-11 15:44:59",
+	"refreshDateTime": "2024-03-12 15:45:11",
 	"Site": [
 		{
 			"Code": "572",
@@ -50,6 +50,10 @@
 							{
 								"Description": "Invasive species",
 								"PressureRecordedAs": "Presence or changing extent of invasive species"
+							},
+							{
+								"Description": "Under grazing",
+								"PressureRecordedAs": "Grazing - under"
 							}
 						]
 					},
@@ -123,7 +127,12 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
-						"Pressure": []
+						"Pressure": [
+							{
+								"Description": "Development",
+								"PressureRecordedAs": "Development with planning permission"
+							}
+						]
 					},
 					"HistoryDetails": {
 						"Year": [

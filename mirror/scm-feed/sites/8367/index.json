@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-11 15:44:59",
+	"refreshDateTime": "2024-03-12 15:45:11",
 	"Site": [
 		{
 			"Code": "8367",
@@ -68,7 +68,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- flow regulation"
 							},
 							{
 								"Description": "Water quality",
@@ -153,7 +153,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- abstraction"
+								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
 							},
 							{
 								"Description": "Water quality",
@@ -238,7 +238,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- morphological alteration"
+								"PressureRecordedAs": "Water Dependant Pressure- flow regulation"
 							},
 							{
 								"Description": "Water quality",

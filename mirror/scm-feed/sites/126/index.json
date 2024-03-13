@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-11 15:44:59",
+	"refreshDateTime": "2024-03-12 15:45:11",
 	"Site": [
 		{
 			"Code": "126",
@@ -72,8 +72,8 @@
 							},
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
-								"keywords": "Nettles, Other (add species to the pressure comment), Thistles"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
+								"keywords": "Japanese Knotweed"
 							},
 							{
 								"Description": "Over grazing",
