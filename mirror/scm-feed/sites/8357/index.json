@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-13 15:45:05",
+	"refreshDateTime": "2024-03-14 15:45:08",
 	"Site": [
 		{
 			"Code": "8357",
@@ -70,9 +70,9 @@
 					"Category": "Invertebrates",
 					"Subcategory": "Other invertebrates",
 					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2003-08-07",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2014-07-24",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
@@ -98,7 +98,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- abstraction"
 							}
 						]
 					},
@@ -183,7 +183,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- morphological alteration"
+								"PressureRecordedAs": "Water Dependant Pressure- abstraction"
 							},
 							{
 								"Description": "Water quality",
