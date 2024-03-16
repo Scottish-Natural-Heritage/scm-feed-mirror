@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-14 15:45:08",
+	"refreshDateTime": "2024-03-15 15:45:08",
 	"Site": [
 		{
 			"Code": "182",
@@ -41,9 +41,9 @@
 					"Category": "Vascular plants",
 					"Subcategory": "Vascular plants",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Recovered",
-					"LatestAssessedVisitDate": "2012-07-19",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedCondition": "Favourable Declining",
+					"LatestAssessedVisitDate": "2022-08-03",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [

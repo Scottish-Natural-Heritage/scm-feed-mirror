@@ -1,11 +1,11 @@
 {
-	"refreshDateTime": "2024-03-14 15:45:08",
+	"refreshDateTime": "2024-03-15 15:45:08",
 	"Site": [
 		{
 			"Code": "1233",
 			"SiteName": "North Esk Valley",
 			"SiteDesignation": "SSSI",
-			"LocalAuthority": "Midlothian",
+			"LocalAuthority": "Scottish Borders",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
 				"Overlay": [
