@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-18 15:45:15",
+	"refreshDateTime": "2024-03-19 15:45:20",
 	"Site": [
 		{
 			"Code": "1234",
@@ -623,8 +623,8 @@
 					"Subcategory": "Birds - aggregations of breeding birds",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2007-06-12",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2021-06-17",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []

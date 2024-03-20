@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-18 15:45:15",
+	"refreshDateTime": "2024-03-19 15:45:20",
 	"Site": [
 		{
 			"Code": "1",
@@ -195,14 +195,14 @@
 					"Subcategory": "Birds - aggregations of breeding birds",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2015-06-30",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2023-06-13",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
 							{
-								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Recreation/disturbance"
+								"Description": "Game/ fisheries management",
+								"PressureRecordedAs": "Game or fisheries management"
 							},
 							{
 								"Description": "Water management",

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-18 15:45:15",
+	"refreshDateTime": "2024-03-19 15:45:20",
 	"Site": [
 		{
 			"Code": "1630",
@@ -33,7 +33,7 @@
 					"WaterFeature": "N",
 					"Category": "Lowland grassland",
 					"Subcategory": "Acid grassland",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
 					"LatestAssessedVisitDate": "2014-07-09",
 					"LatestAssessedSCMcycle": "3",

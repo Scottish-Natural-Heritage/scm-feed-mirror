@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-18 15:45:15",
+	"refreshDateTime": "2024-03-19 15:45:20",
 	"Site": [
 		{
 			"Code": "296",
@@ -48,9 +48,9 @@
 					"Category": "Coast",
 					"Subcategory": "Supralittoral sediment (Coast)",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2016-06-15",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedCondition": "Favourable Recovered",
+					"LatestAssessedVisitDate": "2021-06-29",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
