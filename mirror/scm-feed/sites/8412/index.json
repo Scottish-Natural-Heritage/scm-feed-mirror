@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-19 15:45:20",
+	"refreshDateTime": "2024-03-20 15:45:18",
 	"Site": [
 		{
 			"Code": "8412",
@@ -304,18 +304,18 @@
 					"Subcategory": "Birds - aggregations of breeding birds",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2015-06-30",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2023-06-28",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
 							{
-								"Description": "Forestry operations",
-								"PressureRecordedAs": "Forestry operations"
+								"Description": "Burning",
+								"PressureRecordedAs": "Burning"
 							},
 							{
-								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Recreation/disturbance"
+								"Description": "Forestry operations",
+								"PressureRecordedAs": "Forestry operations"
 							},
 							{
 								"Description": "Water management",

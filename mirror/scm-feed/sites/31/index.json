@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-19 15:45:20",
+	"refreshDateTime": "2024-03-20 15:45:18",
 	"Site": [
 		{
 			"Code": "31",
@@ -46,13 +46,7 @@
 					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
-								"keywords": "Bracken"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
@@ -203,12 +197,9 @@
 					"Pressures": {
 						"Pressure": [
 							{
-								"Description": "Agricultural operations",
-								"PressureRecordedAs": "Agricultural operations"
-							},
-							{
 								"Description": "Grazing - other",
-								"PressureRecordedAs": "Grazing - appropriate level"
+								"PressureRecordedAs": "Grazing - appropriate level",
+								"keywords": "Sheep"
 							}
 						]
 					},
