@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-20 15:45:18",
+	"refreshDateTime": "2024-03-21 15:45:22",
 	"Site": [
 		{
 			"Code": "1404",
@@ -56,8 +56,7 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
-								"keywords": "Other (add species to the pressure comment)"
+								"PressureRecordedAs": "Presence or changing extent of invasive species"
 							}
 						]
 					},

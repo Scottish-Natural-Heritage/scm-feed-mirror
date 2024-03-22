@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-20 15:45:18",
+	"refreshDateTime": "2024-03-21 15:45:22",
 	"Site": [
 		{
 			"Code": "165",
@@ -61,7 +61,7 @@
 					"WaterFeature": "N",
 					"Category": "Vascular plants",
 					"Subcategory": "Vascular plants",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
 					"LatestAssessedVisitDate": "2013-08-15",
 					"LatestAssessedSCMcycle": "3",
@@ -297,7 +297,7 @@
 					"WaterFeature": "N",
 					"Category": "Upland habitat",
 					"Subcategory": "Mosaic",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
 					"LatestAssessedVisitDate": "2009-08-13",
 					"LatestAssessedSCMcycle": "2",

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-20 15:45:18",
+	"refreshDateTime": "2024-03-21 15:45:22",
 	"Site": [
 		{
 			"Code": "8243",
@@ -84,8 +84,8 @@
 					"Pressures": {
 						"Pressure": [
 							{
-								"Description": "Under grazing",
-								"PressureRecordedAs": "Grazing - under"
+								"Description": "Grazing - other",
+								"PressureRecordedAs": "Grazing - appropriate level"
 							}
 						]
 					},
@@ -167,6 +167,10 @@
 							{
 								"Description": "Game/ fisheries management",
 								"PressureRecordedAs": "Game or fisheries management"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
 							}
 						]
 					},
@@ -398,12 +402,7 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
@@ -475,7 +474,12 @@
 					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": []
+						"Pressure": [
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over"
+							}
+						]
 					},
 					"HistoryDetails": {
 						"Year": [
