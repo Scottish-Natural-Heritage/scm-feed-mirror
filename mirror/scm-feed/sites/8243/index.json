@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-21 15:45:22",
+	"refreshDateTime": "2024-03-22 15:45:25",
 	"Site": [
 		{
 			"Code": "8243",
@@ -633,11 +633,6 @@
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
-							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over",
-								"keywords": "Sheep"
-							},
 							{
 								"Description": "Trampling",
 								"PressureRecordedAs": "Trampling"

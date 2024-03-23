@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-21 15:45:22",
+	"refreshDateTime": "2024-03-22 15:45:25",
 	"Site": [
 		{
 			"Code": "10487",
@@ -343,7 +343,10 @@
 					"WaterFeature": "N",
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of non-breeding birds",
-					"SummaryCondition": "Not Assessed",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2006-02-20",
+					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []
@@ -618,7 +621,10 @@
 					"WaterFeature": "N",
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of non-breeding birds",
-					"SummaryCondition": "Not Assessed",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2006-02-20",
+					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []
