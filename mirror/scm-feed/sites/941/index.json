@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "941",
@@ -33,10 +33,10 @@
 					"WaterFeature": "Y",
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2000-08-21",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2019-07-02",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

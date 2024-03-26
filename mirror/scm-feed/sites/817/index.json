@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "817",
@@ -63,8 +63,8 @@
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2005-02-28",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedVisitDate": "2023-06-17",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -140,8 +140,8 @@
 					"Subcategory": "Bogs (Upland)",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2013-07-21",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2023-07-25",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -444,10 +444,10 @@
 					"WaterFeature": "N",
 					"Category": "Upland habitat",
 					"Subcategory": "Mosaic",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2013-07-21",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2023-07-25",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -602,9 +602,9 @@
 					"Category": "Vascular plants",
 					"Subcategory": "Vascular plants",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Recovered",
-					"LatestAssessedVisitDate": "2007-07-09",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2023-07-22",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []

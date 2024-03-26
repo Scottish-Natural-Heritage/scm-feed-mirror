@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "9",
@@ -49,9 +49,9 @@
 					"Category": "Woodland",
 					"Subcategory": "Coniferous woodland",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2008-09-30",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2023-03-24",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

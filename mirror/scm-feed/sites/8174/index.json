@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "8174",
@@ -692,8 +692,8 @@
 					"Subcategory": "Butterflies",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2014-07-23",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2023-06-01",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
@@ -1156,8 +1156,8 @@
 					"Subcategory": "Dragonflies",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2013-08-06",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2023-06-15",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [

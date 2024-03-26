@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "192",
@@ -207,8 +207,8 @@
 					"Subcategory": "Vascular plants",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2013-10-15",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2023-09-30",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
@@ -656,10 +656,10 @@
 					"WaterFeature": "N",
 					"Category": "Upland habitat",
 					"Subcategory": "Mosaic",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2013-05-19",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2023-11-25",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

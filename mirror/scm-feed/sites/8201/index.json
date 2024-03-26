@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "8201",
@@ -56,9 +56,9 @@
 					"Category": "Upland habitat",
 					"Subcategory": "Calcareous grassland (Upland)",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2010-09-17",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Favourable Recovered",
+					"LatestAssessedVisitDate": "2021-07-21",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []
@@ -129,8 +129,8 @@
 					"Subcategory": "Inland rock",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2004-09-02",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedVisitDate": "2021-07-21",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []
@@ -200,9 +200,9 @@
 					"Category": "Upland habitat",
 					"Subcategory": "Inland rock",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2014-07-01",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedCondition": "Favourable Recovered",
+					"LatestAssessedVisitDate": "2021-07-21",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []
@@ -273,8 +273,8 @@
 					"Subcategory": "Inland rock",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2014-07-01",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2021-07-21",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []
@@ -343,10 +343,10 @@
 					"WaterFeature": "N",
 					"Category": "Upland habitat",
 					"Subcategory": "Montane habitats",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2010-09-17",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2021-07-21",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -421,9 +421,9 @@
 					"Category": "Upland habitat",
 					"Subcategory": "Montane habitats",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Recovered",
-					"LatestAssessedVisitDate": "2014-07-15",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2020-08-26",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []
@@ -492,10 +492,10 @@
 					"WaterFeature": "Y",
 					"Category": "Upland habitat",
 					"Subcategory": "Montane habitats",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2010-09-17",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2021-07-21",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -571,9 +571,9 @@
 					"Category": "Upland habitat",
 					"Subcategory": "Fen, marsh and swamp (Upland)",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2014-07-01",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedCondition": "Favourable Recovered",
+					"LatestAssessedVisitDate": "2021-07-21",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []
@@ -643,9 +643,9 @@
 					"Category": "Upland habitat",
 					"Subcategory": "Fen, marsh and swamp (Upland)",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2014-07-10",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedCondition": "Favourable Recovered",
+					"LatestAssessedVisitDate": "2021-07-21",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []

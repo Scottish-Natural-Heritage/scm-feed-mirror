@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "73",
@@ -42,8 +42,8 @@
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2004-06-29",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedVisitDate": "2022-06-01",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -121,10 +121,10 @@
 					"WaterFeature": "N",
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2007-11-07",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2022-06-01",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

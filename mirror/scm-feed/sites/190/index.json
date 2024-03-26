@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "190",
@@ -212,10 +212,10 @@
 					"WaterFeature": "N",
 					"Category": "Upland habitat",
 					"Subcategory": "Montane habitats",
-					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2005-07-28",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Recovered",
+					"LatestAssessedVisitDate": "2021-07-24",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []

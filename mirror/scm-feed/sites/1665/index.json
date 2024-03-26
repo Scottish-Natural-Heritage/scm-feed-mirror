@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "1665",
@@ -354,8 +354,8 @@
 					"Subcategory": "Coniferous woodland",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2008-06-16",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2023-04-08",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

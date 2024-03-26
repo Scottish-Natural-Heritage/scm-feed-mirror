@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "153",
@@ -42,8 +42,8 @@
 					"Subcategory": "Supralittoral sediment (Coast)",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2016-07-28",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2021-11-16",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -119,9 +119,9 @@
 					"Category": "Coast",
 					"Subcategory": "Supralittoral sediment (Coast)",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Recovered",
-					"LatestAssessedVisitDate": "2016-07-28",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2021-06-03",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []
@@ -192,8 +192,8 @@
 					"Subcategory": "Littoral sediment (Coast)",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Declining",
-					"LatestAssessedVisitDate": "2015-09-02",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2021-11-16",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "467",
@@ -194,10 +194,10 @@
 					"WaterFeature": "Y",
 					"Category": "Coast",
 					"Subcategory": "Littoral sediment (Coast)",
-					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2001-08-11",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Declining",
+					"LatestAssessedVisitDate": "2022-09-29",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

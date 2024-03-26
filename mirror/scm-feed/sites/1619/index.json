@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "1619",
@@ -33,10 +33,10 @@
 					"WaterFeature": "Y",
 					"Category": "Wetlands",
 					"Subcategory": "Fen, marsh and swamp (Wetland)",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2013-09-25",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2021-06-04",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "1584",
@@ -42,8 +42,8 @@
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2010-09-02",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2022-05-05",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

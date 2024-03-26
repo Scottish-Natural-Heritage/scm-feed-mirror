@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-24 15:45:37",
+	"refreshDateTime": "2024-03-25 15:45:25",
 	"Site": [
 		{
 			"Code": "8198",
@@ -61,10 +61,10 @@
 					"WaterFeature": "N",
 					"Category": "Woodland",
 					"Subcategory": "Coniferous woodland",
-					"SummaryCondition": "Recovering",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2010-09-27",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2023-06-15",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
