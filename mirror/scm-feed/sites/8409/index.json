@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-25 15:45:25",
+	"refreshDateTime": "2024-03-26 15:45:32",
 	"Site": [
 		{
 			"Code": "8409",
@@ -41,9 +41,9 @@
 					"Category": "Marine (including marine mammals)",
 					"Subcategory": "Mammals (Marine)",
 					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2009-08-18",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2019-08-15",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []

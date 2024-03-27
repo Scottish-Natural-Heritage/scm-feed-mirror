@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-25 15:45:25",
+	"refreshDateTime": "2024-03-26 15:45:32",
 	"Site": [
 		{
 			"Code": "225",
@@ -43,8 +43,8 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
-								"keywords": "Rhododendron"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Birch, Scots pine"
 							},
 							{
 								"Description": "Water management",

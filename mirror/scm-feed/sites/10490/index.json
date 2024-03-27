@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-25 15:45:25",
+	"refreshDateTime": "2024-03-26 15:45:32",
 	"Site": [
 		{
 			"Code": "10490",
@@ -206,7 +206,7 @@
 							},
 							{
 								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Tourism & recreation"
+								"PressureRecordedAs": "Recreation/disturbance"
 							}
 						]
 					},
@@ -251,7 +251,7 @@
 							},
 							{
 								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Recreation/disturbance"
+								"PressureRecordedAs": "Tourism & recreation"
 							}
 						]
 					},

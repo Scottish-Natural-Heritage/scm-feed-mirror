@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-25 15:45:25",
+	"refreshDateTime": "2024-03-26 15:45:32",
 	"Site": [
 		{
 			"Code": "147",
@@ -34,9 +34,9 @@
 					"Category": "Earth sciences",
 					"Subcategory": "Palaeontology",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2013-11-12",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedCondition": "Partially destroyed",
+					"LatestAssessedVisitDate": "2023-03-22",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": [
