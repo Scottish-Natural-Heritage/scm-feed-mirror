@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-26 15:45:32",
+	"refreshDateTime": "2024-03-27 15:45:28",
 	"Site": [
 		{
 			"Code": "1204",
@@ -281,8 +281,8 @@
 					"Subcategory": "Mammals (Marine)",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2009-08-18",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2019-08-12",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []

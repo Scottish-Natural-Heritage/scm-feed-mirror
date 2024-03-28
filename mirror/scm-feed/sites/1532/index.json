@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-26 15:45:32",
+	"refreshDateTime": "2024-03-27 15:45:28",
 	"Site": [
 		{
 			"Code": "1532",
@@ -50,7 +50,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- abstraction"
 							}
 						]
 					},

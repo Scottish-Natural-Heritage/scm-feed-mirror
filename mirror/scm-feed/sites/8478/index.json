@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-26 15:45:32",
+	"refreshDateTime": "2024-03-27 15:45:28",
 	"Site": [
 		{
 			"Code": "8478",
@@ -200,12 +200,7 @@
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Other",
-								"PressureRecordedAs": "No on-site activities related to feature condition noted"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [

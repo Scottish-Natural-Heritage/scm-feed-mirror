@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-26 15:45:32",
+	"refreshDateTime": "2024-03-27 15:45:28",
 	"Site": [
 		{
 			"Code": "8505",
@@ -112,10 +112,10 @@
 					"WaterFeature": "Y",
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of breeding birds",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "1999-06-18",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2015-06-03",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
@@ -191,8 +191,8 @@
 					"Subcategory": "Birds - aggregations of breeding birds",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "1999-06-11",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedVisitDate": "2018-06-19",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []
@@ -262,9 +262,9 @@
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of breeding birds",
 					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "1999-06-18",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2018-06-19",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
