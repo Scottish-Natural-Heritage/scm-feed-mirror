@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-03-28 15:45:37",
+	"refreshDateTime": "2024-03-29 15:45:39",
 	"Site": [
 		{
 			"Code": "240",
@@ -40,7 +40,7 @@
 					"WaterFeature": "Y",
 					"Category": "Wetlands",
 					"Subcategory": "Fen, marsh and swamp (Wetland)",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
 					"LatestAssessedVisitDate": "2008-09-19",
 					"LatestAssessedSCMcycle": "2",
@@ -49,11 +49,8 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
-							},
-							{
-								"Description": "Natural event",
-								"PressureRecordedAs": "Natural event"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Common reed, Phalaris arundinacea – Reed canary grass"
 							}
 						]
 					},
