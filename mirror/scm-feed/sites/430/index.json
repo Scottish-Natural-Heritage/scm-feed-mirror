@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-04-02 15:45:36",
+	"refreshDateTime": "2024-04-03 15:45:46",
 	"Site": [
 		{
 			"Code": "430",
@@ -126,7 +126,7 @@
 					"WaterFeature": "Y",
 					"Category": "Upland habitat",
 					"Subcategory": "Fen, marsh and swamp (Upland)",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
 					"LatestAssessedVisitDate": "2013-09-11",
 					"LatestAssessedSCMcycle": "3",
@@ -276,7 +276,7 @@
 					"WaterFeature": "Y",
 					"Category": "Vascular plants",
 					"Subcategory": "Vascular plants",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
 					"LatestAssessedVisitDate": "2006-10-24",
 					"LatestAssessedSCMcycle": "2",
