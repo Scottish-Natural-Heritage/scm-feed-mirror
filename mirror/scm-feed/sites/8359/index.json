@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-04-07 15:45:57",
+	"refreshDateTime": "2024-04-08 15:45:50",
 	"Site": [
 		{
 			"Code": "8359",
@@ -47,10 +47,10 @@
 					"WaterFeature": "Y",
 					"Category": "Invertebrates",
 					"Subcategory": "Other invertebrates",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2002-09-23",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2021-07-21",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
