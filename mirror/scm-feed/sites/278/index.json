@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-04-18 15:46:14",
+	"refreshDateTime": "2024-04-19 15:46:16",
 	"Site": [
 		{
 			"Code": "278",
@@ -193,8 +193,8 @@
 					"Subcategory": "Structural and metamorphic geology",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2007-07-04",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2024-02-19",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []
