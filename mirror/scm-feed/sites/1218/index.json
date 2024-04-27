@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-04-25 15:46:28",
+	"refreshDateTime": "2024-04-26 15:46:28",
 	"Site": [
 		{
 			"Code": "1218",
@@ -39,7 +39,23 @@
 					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": []
+						"Pressure": [
+							{
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
+								"keywords": "Beech"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Deer"
+							},
+							{
+								"Description": "Plant pests and diseases",
+								"PressureRecordedAs": "Plant Pests and Diseases",
+								"keywords": "Chalara fraxinea"
+							}
+						]
 					},
 					"HistoryDetails": {
 						"Year": [

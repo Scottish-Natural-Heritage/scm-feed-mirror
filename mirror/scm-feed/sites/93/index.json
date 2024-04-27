@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-04-25 15:46:28",
+	"refreshDateTime": "2024-04-26 15:46:28",
 	"Site": [
 		{
 			"Code": "93",
@@ -39,12 +39,7 @@
 					"LatestAssessedSCMcycle": "1",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Water quality",
-								"PressureRecordedAs": "Water quality"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
