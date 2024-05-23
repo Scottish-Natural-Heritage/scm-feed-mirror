@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-05-21 15:47:35",
+	"refreshDateTime": "2024-05-22 15:47:28",
 	"Site": [
 		{
 			"Code": "8284",
@@ -40,7 +40,7 @@
 					"WaterFeature": "Y",
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
 					"LatestAssessedVisitDate": "2008-05-20",
 					"LatestAssessedSCMcycle": "2",
@@ -49,7 +49,13 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
+								"keywords": "Beech, Giant hogweed - Heracleum mantegazzianum, Japanese Knotweed, Rhododendron, Sitka Spruce"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Deer"
 							}
 						]
 					},
