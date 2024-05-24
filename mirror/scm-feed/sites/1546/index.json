@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-05-22 15:47:28",
+	"refreshDateTime": "2024-05-23 15:47:34",
 	"Site": [
 		{
 			"Code": "1546",
@@ -40,10 +40,10 @@
 					"WaterFeature": "Y",
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2003-05-28",
-					"LatestAssessedSCMcycle": "1",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2021-04-28",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -57,7 +57,8 @@
 							},
 							{
 								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
+								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Deer, Sheep"
 							}
 						]
 					},
