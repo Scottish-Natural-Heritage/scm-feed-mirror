@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-05-26 15:47:43",
+	"refreshDateTime": "2024-05-27 15:47:47",
 	"Site": [
 		{
 			"Code": "1059",
@@ -47,13 +47,7 @@
 					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
-								"keywords": "Sitka Spruce, Sycamore"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
