@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-06-05 15:48:13",
+	"refreshDateTime": "2024-06-06 15:48:17",
 	"Site": [
 		{
 			"Code": "677",
@@ -44,6 +44,11 @@
 							{
 								"Description": "Over grazing",
 								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Deer"
+							},
+							{
+								"Description": "Trampling",
+								"PressureRecordedAs": "Trampling",
 								"keywords": "Deer"
 							}
 						]
