@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-06-10 15:48:23",
+	"refreshDateTime": "2024-06-11 15:48:21",
 	"Site": [
 		{
 			"Code": "346",
@@ -52,8 +52,16 @@
 								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
 							},
 							{
+								"Description": "Natural event",
+								"PressureRecordedAs": "Natural event"
+							},
+							{
+								"Description": "Recreation/disturbance",
+								"PressureRecordedAs": "Recreation/disturbance"
+							},
+							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
 							}
 						]
 					},
