@@ -1,11 +1,11 @@
 {
-	"refreshDateTime": "2024-06-14 15:48:28",
+	"refreshDateTime": "2024-06-15 15:48:33",
 	"Site": [
 		{
 			"Code": "8379",
 			"SiteName": "Sound of Arisaig (Loch Ailort to Loch Ceann Traigh)",
 			"SiteDesignation": "SAC",
-			"LocalAuthority": "Marine Scotland (inshore)",
+			"LocalAuthority": "Scottish Government (Marine Directorate)",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
 				"Overlay": [
