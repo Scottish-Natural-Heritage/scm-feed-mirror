@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-06-18 15:48:41",
+	"refreshDateTime": "2024-06-19 15:48:41",
 	"Site": [
 		{
 			"Code": "374",
@@ -40,7 +40,7 @@
 					"WaterFeature": "Y",
 					"Category": "Wetlands",
 					"Subcategory": "Fen, marsh and swamp (Wetland)",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
 					"LatestAssessedVisitDate": "2013-10-02",
 					"LatestAssessedSCMcycle": "3",
@@ -48,8 +48,8 @@
 					"Pressures": {
 						"Pressure": [
 							{
-								"Description": "Water management",
-								"PressureRecordedAs": "Water management"
+								"Description": "Invasive species",
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
 							}
 						]
 					},
