@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-07-17 15:49:47",
+	"refreshDateTime": "2024-07-18 15:49:46",
 	"Site": [
 		{
 			"Code": "31",
@@ -191,8 +191,8 @@
 					"Subcategory": "Dwarf shrub heath (Upland)",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2015-05-12",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2023-06-30",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
