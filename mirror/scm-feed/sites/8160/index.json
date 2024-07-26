@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-07-24 15:50:05",
+	"refreshDateTime": "2024-07-25 15:50:03",
 	"Site": [
 		{
 			"Code": "8160",
@@ -42,8 +42,8 @@
 					"Subcategory": "Amphibians",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2009-05-14",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2017-06-19",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [

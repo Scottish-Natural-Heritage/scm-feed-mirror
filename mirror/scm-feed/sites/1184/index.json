@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-07-24 15:50:05",
+	"refreshDateTime": "2024-07-25 15:50:03",
 	"Site": [
 		{
 			"Code": "1184",
@@ -255,9 +255,9 @@
 					"Category": "Earth sciences",
 					"Subcategory": "Quaternary geology and geomorphology",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2002-04-18",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedCondition": "Favourable Declining",
+					"LatestAssessedVisitDate": "2021-07-29",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": [
