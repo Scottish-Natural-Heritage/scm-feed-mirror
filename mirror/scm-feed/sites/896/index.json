@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-04 15:50:27",
+	"refreshDateTime": "2024-08-05 15:50:25",
 	"Site": [
 		{
 			"Code": "896",
@@ -40,10 +40,10 @@
 					"WaterFeature": "Y",
 					"Category": "Lowland grassland",
 					"Subcategory": "Fen, marsh and swamp (Grassland)",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2008-08-22",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2019-07-18",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
