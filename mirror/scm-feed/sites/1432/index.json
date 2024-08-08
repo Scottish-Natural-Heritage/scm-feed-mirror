@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-06 15:50:25",
+	"refreshDateTime": "2024-08-07 15:50:28",
 	"Site": [
 		{
 			"Code": "1432",
@@ -42,8 +42,8 @@
 					"Subcategory": "Stratigraphy",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2006-10-10",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2021-05-10",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []
@@ -114,8 +114,8 @@
 					"Subcategory": "Structural and metamorphic geology",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2014-12-22",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2021-05-10",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []
