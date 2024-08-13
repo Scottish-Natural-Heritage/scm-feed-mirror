@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-11 15:50:36",
+	"refreshDateTime": "2024-08-12 15:50:37",
 	"Site": [
 		{
 			"Code": "306",
@@ -42,7 +42,8 @@
 						"Pressure": [
 							{
 								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Tourism & recreation"
+								"PressureRecordedAs": "Recreation/disturbance",
+								"keywords": "Dog walking"
 							}
 						]
 					},

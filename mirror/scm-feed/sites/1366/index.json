@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-11 15:50:36",
+	"refreshDateTime": "2024-08-12 15:50:37",
 	"Site": [
 		{
 			"Code": "1366",
@@ -105,7 +105,7 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
+								"PressureRecordedAs": "Presence or changing extent of invasive species"
 							},
 							{
 								"Description": "Water management",
@@ -365,7 +365,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- abstraction"
+								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
 							}
 						]
 					},
@@ -442,7 +442,7 @@
 						"Pressure": [
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- morphological alteration"
 							},
 							{
 								"Description": "Water quality",
@@ -523,7 +523,7 @@
 						"Pressure": [
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water management"
+								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
 							},
 							{
 								"Description": "Water quality",

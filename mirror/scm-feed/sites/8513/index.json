@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-11 15:50:36",
+	"refreshDateTime": "2024-08-12 15:50:37",
 	"Site": [
 		{
 			"Code": "8513",
@@ -258,8 +258,8 @@
 					"Subcategory": "Birds - aggregations of breeding birds",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2019-07-08",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2023-06-01",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []
@@ -330,8 +330,8 @@
 					"Subcategory": "Birds - aggregations of breeding birds",
 					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2019-07-08",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2023-06-01",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []
