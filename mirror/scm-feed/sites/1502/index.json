@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-12 15:50:37",
+	"refreshDateTime": "2024-08-13 15:50:36",
 	"Site": [
 		{
 			"Code": "1502",
@@ -41,10 +41,10 @@
 					"WaterFeature": "Y",
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Declining",
-					"LatestAssessedVisitDate": "2014-06-06",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2024-04-26",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

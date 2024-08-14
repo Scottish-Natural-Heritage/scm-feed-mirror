@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-12 15:50:37",
+	"refreshDateTime": "2024-08-13 15:50:36",
 	"Site": [
 		{
 			"Code": "566",
@@ -33,13 +33,17 @@
 					"WaterFeature": "N",
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable No change",
 					"LatestAssessedVisitDate": "2001-07-17",
 					"LatestAssessedSCMcycle": "1",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
+							{
+								"Description": "Development",
+								"PressureRecordedAs": "Development with planning permission"
+							},
 							{
 								"Description": "Extraction",
 								"PressureRecordedAs": "Mineral extraction"

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-12 15:50:37",
+	"refreshDateTime": "2024-08-13 15:50:36",
 	"Site": [
 		{
 			"Code": "1234",
@@ -112,8 +112,8 @@
 					"WaterFeature": "Y",
 					"Category": "Marine (including marine mammals)",
 					"Subcategory": "Mammals (Marine)",
-					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable Declining",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
 					"LatestAssessedVisitDate": "2019-08-15",
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",

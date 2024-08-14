@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-12 15:50:37",
+	"refreshDateTime": "2024-08-13 15:50:36",
 	"Site": [
 		{
 			"Code": "8340",
@@ -258,9 +258,9 @@
 					"WaterFeature": "Y",
 					"Category": "Marine (including marine mammals)",
 					"Subcategory": "Mammals (Marine)",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2014-11-21",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2019-10-31",
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {

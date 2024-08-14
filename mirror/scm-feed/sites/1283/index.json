@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-12 15:50:37",
+	"refreshDateTime": "2024-08-13 15:50:36",
 	"Site": [
 		{
 			"Code": "1283",
@@ -118,12 +118,9 @@
 								"keywords": "Gorse, Other (add species to the pressure comment)"
 							},
 							{
-								"Description": "Other",
-								"PressureRecordedAs": "Other activity"
-							},
-							{
 								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Fossil Collection"
+								"PressureRecordedAs": "Fossil Collection",
+								"keywords": "Fossil collection"
 							}
 						]
 					},
