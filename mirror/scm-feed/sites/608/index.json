@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-13 15:50:36",
+	"refreshDateTime": "2024-08-14 15:50:39",
 	"Site": [
 		{
 			"Code": "608",
@@ -42,8 +42,8 @@
 					"Subcategory": "Bogs (Wetland)",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2013-09-13",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2024-04-16",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

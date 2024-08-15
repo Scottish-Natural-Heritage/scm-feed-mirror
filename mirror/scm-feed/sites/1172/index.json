@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-13 15:50:36",
+	"refreshDateTime": "2024-08-14 15:50:39",
 	"Site": [
 		{
 			"Code": "1172",
@@ -431,9 +431,9 @@
 					"Category": "Upland habitat",
 					"Subcategory": "Mosaic",
 					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2005-09-11",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2013-08-08",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

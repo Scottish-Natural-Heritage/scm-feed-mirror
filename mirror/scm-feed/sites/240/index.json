@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-13 15:50:36",
+	"refreshDateTime": "2024-08-14 15:50:39",
 	"Site": [
 		{
 			"Code": "240",
@@ -40,10 +40,10 @@
 					"WaterFeature": "Y",
 					"Category": "Wetlands",
 					"Subcategory": "Fen, marsh and swamp (Wetland)",
-					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2008-09-19",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2023-07-19",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

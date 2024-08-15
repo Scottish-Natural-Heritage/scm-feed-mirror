@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-13 15:50:36",
+	"refreshDateTime": "2024-08-14 15:50:39",
 	"Site": [
 		{
 			"Code": "1276",
@@ -127,8 +127,8 @@
 					"Subcategory": "Stratigraphy",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2014-12-22",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2024-03-22",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []
@@ -199,8 +199,8 @@
 					"Subcategory": "Palaeontology",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2008-03-13",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2024-03-22",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Earth Sciences",
 					"Pressures": {
 						"Pressure": []

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-13 15:50:36",
+	"refreshDateTime": "2024-08-14 15:50:39",
 	"Site": [
 		{
 			"Code": "529",
@@ -40,10 +40,10 @@
 					"WaterFeature": "N",
 					"Category": "Lowland grassland",
 					"Subcategory": "Neutral grassland",
-					"SummaryCondition": "Recovering",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2010-08-17",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Unfavourable Recovering",
+					"LatestAssessedVisitDate": "2017-07-19",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-13 15:50:36",
+	"refreshDateTime": "2024-08-14 15:50:39",
 	"Site": [
 		{
 			"Code": "8398",
@@ -42,7 +42,7 @@
 					"Subcategory": "Mammals (Marine)",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2014-11-21",
+					"LatestAssessedVisitDate": "2019-10-31",
 					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {

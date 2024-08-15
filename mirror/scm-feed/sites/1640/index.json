@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-13 15:50:36",
+	"refreshDateTime": "2024-08-14 15:50:39",
 	"Site": [
 		{
 			"Code": "1640",
@@ -266,7 +266,10 @@
 					"WaterFeature": "N",
 					"Category": "Lowland grassland",
 					"Subcategory": "Calcareous grassland",
-					"SummaryCondition": "Not Assessed",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Maintained",
+					"LatestAssessedVisitDate": "2016-06-22",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
