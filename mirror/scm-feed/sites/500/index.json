@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-14 15:50:39",
+	"refreshDateTime": "2024-08-15 15:50:42",
 	"Site": [
 		{
 			"Code": "500",
@@ -348,9 +348,9 @@
 					"Category": "Non-vascular plants",
 					"Subcategory": "Lichen",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2011-08-31",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Favourable Declining",
+					"LatestAssessedVisitDate": "2018-06-08",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []

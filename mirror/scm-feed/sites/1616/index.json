@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-14 15:50:39",
+	"refreshDateTime": "2024-08-15 15:50:42",
 	"Site": [
 		{
 			"Code": "1616",
@@ -33,10 +33,10 @@
 					"WaterFeature": "Y",
 					"Category": "Wetlands",
 					"Subcategory": "Bogs (Wetland)",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2013-08-16",
-					"LatestAssessedSCMcycle": "3",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable No change",
+					"LatestAssessedVisitDate": "2020-10-30",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -44,6 +44,10 @@
 								"Description": "Invasive species",
 								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
 								"keywords": "Birch, Scots pine"
+							},
+							{
+								"Description": "Water management",
+								"PressureRecordedAs": "Water management"
 							}
 						]
 					},

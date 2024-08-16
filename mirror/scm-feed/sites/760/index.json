@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-14 15:50:39",
+	"refreshDateTime": "2024-08-15 15:50:42",
 	"Site": [
 		{
 			"Code": "760",
@@ -34,9 +34,9 @@
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
 					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2009-03-30",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2023-04-05",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
@@ -44,6 +44,11 @@
 								"Description": "Invasive species",
 								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
 								"keywords": "Beech, Rhododendron"
+							},
+							{
+								"Description": "Over grazing",
+								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Deer"
 							},
 							{
 								"Description": "Plant pests and diseases",
@@ -118,8 +123,8 @@
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2005-04-04",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2023-12-05",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-14 15:50:39",
+	"refreshDateTime": "2024-08-15 15:50:42",
 	"Site": [
 		{
 			"Code": "8364",
@@ -56,9 +56,9 @@
 					"Category": "Invertebrates",
 					"Subcategory": "Other invertebrates",
 					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2009-09-13",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2013-08-29",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [

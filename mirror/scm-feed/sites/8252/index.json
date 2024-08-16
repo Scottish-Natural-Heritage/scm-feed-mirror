@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-14 15:50:39",
+	"refreshDateTime": "2024-08-15 15:50:42",
 	"Site": [
 		{
 			"Code": "8252",
@@ -47,25 +47,7 @@
 					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Species",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Agricultural operations",
-								"PressureRecordedAs": "Agricultural operations"
-							},
-							{
-								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
-								"keywords": "Giant hogweed - Heracleum mantegazzianum, Himalayan balsam, Japanese Knotweed"
-							},
-							{
-								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
-							},
-							{
-								"Description": "Water quality",
-								"PressureRecordedAs": "Pollution - sewage"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
@@ -137,25 +119,7 @@
 					"LatestAssessedSCMcycle": "2",
 					"FeatureType": "Species",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Agricultural operations",
-								"PressureRecordedAs": "Agricultural operations"
-							},
-							{
-								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
-								"keywords": "Giant hogweed - Heracleum mantegazzianum, Himalayan balsam, Japanese Knotweed"
-							},
-							{
-								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
-							},
-							{
-								"Description": "Water quality",
-								"PressureRecordedAs": "Water quality"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
