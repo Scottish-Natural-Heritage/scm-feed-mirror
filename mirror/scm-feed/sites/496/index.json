@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-15 15:50:42",
+	"refreshDateTime": "2024-08-16 15:50:44",
 	"Site": [
 		{
 			"Code": "496",
@@ -33,17 +33,17 @@
 					"WaterFeature": "Y",
 					"Category": "Wetlands",
 					"Subcategory": "Fen, marsh and swamp (Wetland)",
-					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2009-08-25",
-					"LatestAssessedSCMcycle": "2",
+					"SummaryCondition": "Favourable",
+					"LatestAssessedCondition": "Favourable Declining",
+					"LatestAssessedVisitDate": "2021-05-19",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
-								"keywords": "Conifers, Rhododendron"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Birch"
 							},
 							{
 								"Description": "Over grazing",

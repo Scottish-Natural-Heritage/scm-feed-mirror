@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-15 15:50:42",
+	"refreshDateTime": "2024-08-16 15:50:44",
 	"Site": [
 		{
 			"Code": "646",
@@ -108,8 +108,8 @@
 					"Subcategory": "Acid grassland",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Declining",
-					"LatestAssessedVisitDate": "2018-08-31",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedVisitDate": "2021-08-31",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

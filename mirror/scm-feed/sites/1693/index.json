@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-15 15:50:42",
+	"refreshDateTime": "2024-08-16 15:50:44",
 	"Site": [
 		{
 			"Code": "1693",
@@ -196,8 +196,8 @@
 					"Subcategory": "Fish",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2010-10-29",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2012-10-10",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []
@@ -268,8 +268,8 @@
 					"Subcategory": "Fish",
 					"SummaryCondition": "Favourable",
 					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2010-10-29",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedVisitDate": "2012-10-10",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []

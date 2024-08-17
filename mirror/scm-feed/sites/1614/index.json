@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-15 15:50:42",
+	"refreshDateTime": "2024-08-16 15:50:44",
 	"Site": [
 		{
 			"Code": "1614",
@@ -106,9 +106,9 @@
 					"Category": "Lowland grassland",
 					"Subcategory": "Neutral grassland",
 					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Unfavourable Recovering",
-					"LatestAssessedVisitDate": "2007-07-18",
-					"LatestAssessedSCMcycle": "2",
+					"LatestAssessedCondition": "Partially destroyed",
+					"LatestAssessedVisitDate": "2020-08-15",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [

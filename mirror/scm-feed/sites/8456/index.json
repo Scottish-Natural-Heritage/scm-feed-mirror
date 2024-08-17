@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-15 15:50:42",
+	"refreshDateTime": "2024-08-16 15:50:44",
 	"Site": [
 		{
 			"Code": "8456",
@@ -219,7 +219,10 @@
 					"WaterFeature": "N",
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of breeding birds",
-					"SummaryCondition": "Not Assessed",
+					"SummaryCondition": "Unfavourable",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2018-11-13",
+					"LatestAssessedSCMcycle": "3",
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [

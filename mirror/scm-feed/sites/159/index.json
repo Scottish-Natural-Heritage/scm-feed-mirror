@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-15 15:50:42",
+	"refreshDateTime": "2024-08-16 15:50:44",
 	"Site": [
 		{
 			"Code": "159",
@@ -371,8 +371,7 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
-								"keywords": "Japanese Knotweed"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
 							}
 						]
 					},

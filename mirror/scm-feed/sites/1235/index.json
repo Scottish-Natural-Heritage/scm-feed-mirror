@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-15 15:50:42",
+	"refreshDateTime": "2024-08-16 15:50:44",
 	"Site": [
 		{
 			"Code": "1235",
@@ -34,16 +34,16 @@
 					"Category": "Lowland heath",
 					"Subcategory": "Dwarf shrub heath",
 					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2012-09-13",
-					"LatestAssessedSCMcycle": "3",
+					"LatestAssessedCondition": "Unfavourable Declining",
+					"LatestAssessedVisitDate": "2021-09-03",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
 							{
 								"Description": "Invasive species",
 								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
-								"keywords": "Bracken"
+								"keywords": "Gorse"
 							},
 							{
 								"Description": "No proactive management",

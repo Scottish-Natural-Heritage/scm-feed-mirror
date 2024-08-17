@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2024-08-15 15:50:42",
+	"refreshDateTime": "2024-08-16 15:50:44",
 	"Site": [
 		{
 			"Code": "108",
@@ -41,9 +41,9 @@
 					"Category": "Woodland",
 					"Subcategory": "Broad-leaved, mixed and yew woodland",
 					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2004-08-27",
-					"LatestAssessedSCMcycle": "1",
+					"LatestAssessedCondition": "Partially destroyed",
+					"LatestAssessedVisitDate": "2019-09-17",
+					"LatestAssessedSCMcycle": "4",
 					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": [
