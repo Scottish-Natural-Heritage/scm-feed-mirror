@@ -1,0 +1,94 @@
+{
+	"refreshDateTime": "2024-12-14 15:54:59",
+	"Site": [
+		{
+			"Code": "8602",
+			"SiteName": "Sound of Barra",
+			"SiteDesignation": "SAC",
+			"LocalAuthority": "Scottish Government (Marine Directorate)",
+			"SNHArea": "National Operations West",
+			"ProtectedOverlays": {
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Outer Hebrides",
+						"Prime": "P",
+						"Overlap": 12507.47,
+						"Percentage": 100
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Outer Hebrides",
+						"Prime": "P",
+						"Overlap": 12452.95,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "South Uist",
+						"Prime": "P",
+						"Overlap": 7.35,
+						"Percentage": 0
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "West Highland",
+						"Prime": "P",
+						"Overlap": 12507.47,
+						"Percentage": 100
+					}
+				]
+			},
+			"SiteFeature": [
+				{
+					"Id": "14879",
+					"Name": "Subtidal sandbanks",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Marine (including marine mammals)",
+					"Subcategory": "Inshore sublittoral sediment (Marine)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "14880",
+					"Name": "Harbour seal (Phoca vitulina)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Marine (including marine mammals)",
+					"Subcategory": "Mammals (Marine)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "16438",
+					"Name": "Reefs",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Marine (including marine mammals)",
+					"Subcategory": "Inshore sublittoral rock (Marine)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				}
+			]
+		}
+	]
+}
