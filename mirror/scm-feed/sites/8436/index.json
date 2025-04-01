@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-03-30 15:58:25",
+	"refreshDateTime": "2025-03-31 15:58:28",
 	"Site": [
 		{
 			"Code": "8436",
@@ -12,20 +12,6 @@
 					{
 						"Type": "VICE_COUNTIES",
 						"Ref": "Fife",
-						"Prime": "P",
-						"Overlap": 1611.8,
-						"Percentage": 100
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Fife",
-						"Prime": "P",
-						"Overlap": 1611.8,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
 						"Prime": "P",
 						"Overlap": 1611.8,
 						"Percentage": 100

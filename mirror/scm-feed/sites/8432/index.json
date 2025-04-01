@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-03-30 15:58:25",
+	"refreshDateTime": "2025-03-31 15:58:28",
 	"Site": [
 		{
 			"Code": "8432",
@@ -17,20 +17,6 @@
 						"Percentage": 100
 					},
 					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Outer Hebrides",
-						"Prime": "P",
-						"Overlap": 58984.24,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Outer Hebrides",
-						"Prime": "P",
-						"Overlap": 3.18,
-						"Percentage": 0
-					},
-					{
 						"Type": "SCOTTISH_MARINE_REGIONS",
 						"Ref": "Outer Hebrides",
 						"Prime": "P",
@@ -43,20 +29,6 @@
 						"Prime": "P",
 						"Overlap": 13327.89,
 						"Percentage": 23
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Harris & Lewis",
-						"Prime": "P",
-						"Overlap": 13327.89,
-						"Percentage": 23
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "West Highland",
-						"Prime": "P",
-						"Overlap": 58984.24,
-						"Percentage": 100
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",

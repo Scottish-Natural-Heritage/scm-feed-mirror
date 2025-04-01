@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-03-30 15:58:25",
+	"refreshDateTime": "2025-03-31 15:58:28",
 	"Site": [
 		{
 			"Code": "8421",
@@ -17,32 +17,11 @@
 						"Percentage": 100
 					},
 					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Orkney",
-						"Prime": "P",
-						"Overlap": 1514.88,
-						"Percentage": 100
-					},
-					{
 						"Type": "SCOTTISH_MARINE_REGIONS",
 						"Ref": "Orkney Islands",
 						"Prime": "P",
 						"Overlap": 1267.11,
 						"Percentage": 84
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Orkney Islands",
-						"Prime": "P",
-						"Overlap": 1267.11,
-						"Percentage": 84
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Orkney and Shetland",
-						"Prime": "P",
-						"Overlap": 1514.88,
-						"Percentage": 100
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",

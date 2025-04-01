@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-03-30 15:58:25",
+	"refreshDateTime": "2025-03-31 15:58:28",
 	"Site": [
 		{
 			"Code": "8459",
@@ -12,20 +12,6 @@
 					{
 						"Type": "VICE_COUNTIES",
 						"Ref": "Peebles",
-						"Prime": "P",
-						"Overlap": 49.77,
-						"Percentage": 100
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Peebles",
-						"Prime": "P",
-						"Overlap": 49.77,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tweed",
 						"Prime": "P",
 						"Overlap": 49.77,
 						"Percentage": 100

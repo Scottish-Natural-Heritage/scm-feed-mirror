@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-03-30 15:58:25",
+	"refreshDateTime": "2025-03-31 15:58:28",
 	"Site": [
 		{
 			"Code": "8455",
@@ -17,32 +17,11 @@
 						"Percentage": 100
 					},
 					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Mid Ebudes",
-						"Prime": "P",
-						"Overlap": 1938.59,
-						"Percentage": 100
-					},
-					{
 						"Type": "SCOTTISH_MARINE_REGIONS",
 						"Ref": "Argyll",
 						"Prime": "P",
 						"Overlap": 669.05,
 						"Percentage": 34
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 669.05,
-						"Percentage": 34
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 1938.59,
-						"Percentage": 100
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",

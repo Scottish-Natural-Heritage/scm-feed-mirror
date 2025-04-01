@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-03-30 15:58:25",
+	"refreshDateTime": "2025-03-31 15:58:28",
 	"Site": [
 		{
 			"Code": "8423",
@@ -18,20 +18,6 @@
 					},
 					{
 						"Type": "VICE_COUNTIES",
-						"Ref": "Haddington",
-						"Prime": "S",
-						"Overlap": 0.96,
-						"Percentage": 0
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Edinburgh",
-						"Prime": "P",
-						"Overlap": 317.08,
-						"Percentage": 100
-					},
-					{
-						"Type": "VICE_COUNTIES",
 						"Ref": "Edinburgh",
 						"Prime": "P",
 						"Overlap": 317.08,
@@ -43,20 +29,6 @@
 						"Prime": "P",
 						"Overlap": 250.92,
 						"Percentage": 79
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 250.92,
-						"Percentage": 79
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tweed",
-						"Prime": "S",
-						"Overlap": 67.12,
-						"Percentage": 21
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",

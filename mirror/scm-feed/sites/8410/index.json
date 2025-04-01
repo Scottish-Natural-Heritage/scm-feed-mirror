@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-03-30 15:58:25",
+	"refreshDateTime": "2025-03-31 15:58:28",
 	"Site": [
 		{
 			"Code": "8410",
@@ -17,32 +17,11 @@
 						"Percentage": 100
 					},
 					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "South Ebudes",
-						"Prime": "P",
-						"Overlap": 331.16,
-						"Percentage": 100
-					},
-					{
 						"Type": "SCOTTISH_MARINE_REGIONS",
 						"Ref": "Argyll",
 						"Prime": "P",
 						"Overlap": 248.48,
 						"Percentage": 75
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 248.48,
-						"Percentage": 75
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
-						"Prime": "P",
-						"Overlap": 331.16,
-						"Percentage": 100
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",
