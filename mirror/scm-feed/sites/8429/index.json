@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-03-31 15:58:28",
+	"refreshDateTime": "2025-04-01 15:58:28",
 	"Site": [
 		{
 			"Code": "8429",
@@ -18,6 +18,20 @@
 					},
 					{
 						"Type": "VICE_COUNTIES",
+						"Ref": "Renfrewshire",
+						"Prime": "S",
+						"Overlap": 723.41,
+						"Percentage": 40
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Dunbarton",
+						"Prime": "P",
+						"Overlap": 1101.51,
+						"Percentage": 60
+					},
+					{
+						"Type": "VICE_COUNTIES",
 						"Ref": "Dunbarton",
 						"Prime": "P",
 						"Overlap": 1101.51,
@@ -29,6 +43,20 @@
 						"Prime": "P",
 						"Overlap": 1729.35,
 						"Percentage": 95
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 1729.35,
+						"Percentage": 95
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 1824.92,
+						"Percentage": 100
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",

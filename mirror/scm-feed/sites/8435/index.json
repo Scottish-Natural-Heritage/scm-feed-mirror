@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-03-31 15:58:28",
+	"refreshDateTime": "2025-04-01 15:58:28",
 	"Site": [
 		{
 			"Code": "8435",
@@ -17,8 +17,29 @@
 						"Percentage": 100
 					},
 					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Kirkudbrightshire",
+						"Prime": "P",
+						"Overlap": 769.11,
+						"Percentage": 100
+					},
+					{
 						"Type": "DEER_MANAGEMENT_GROUP",
 						"Ref": "Central Dumfries and Galloway",
+						"Prime": "P",
+						"Overlap": 769.11,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Central Dumfries and Galloway",
+						"Prime": "P",
+						"Overlap": 769.11,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Solway",
 						"Prime": "P",
 						"Overlap": 769.11,
 						"Percentage": 100

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-03-31 15:58:28",
+	"refreshDateTime": "2025-04-01 15:58:28",
 	"Site": [
 		{
 			"Code": "8439",
@@ -17,6 +17,20 @@
 						"Percentage": 100
 					},
 					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Wigtownshire",
+						"Prime": "P",
+						"Overlap": 2111.39,
+						"Percentage": 100
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Solway",
+						"Prime": "P",
+						"Overlap": 1135.67,
+						"Percentage": 54
+					},
+					{
 						"Type": "SCOTTISH_MARINE_REGIONS",
 						"Ref": "Solway",
 						"Prime": "P",
@@ -29,6 +43,20 @@
 						"Prime": "P",
 						"Overlap": 975.4,
 						"Percentage": 46
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "West Dumfries and Galloway",
+						"Prime": "P",
+						"Overlap": 975.4,
+						"Percentage": 46
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Solway",
+						"Prime": "P",
+						"Overlap": 2111.39,
+						"Percentage": 100
 					},
 					{
 						"Type": "SEPA_SUB_BASIN_DISTRICTS",
