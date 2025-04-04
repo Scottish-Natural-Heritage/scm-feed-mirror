@@ -1,0 +1,33 @@
+{
+	"refreshDateTime": "2025-04-03 15:58:26",
+	"Site": [
+		{
+			"Code": "10255",
+			"SiteName": "Hatton Bank",
+			"SiteDesignation": "SAC",
+			"LocalAuthority": "UK Offshore waters (Scotland)",
+			"SNHArea": "JNCC",
+			"ProtectedOverlays": {
+				"Overlay": []
+			},
+			"SiteFeature": [
+				{
+					"Id": "16798",
+					"Name": "Reefs",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Marine (including marine mammals)",
+					"Subcategory": "Offshore sublittoral rock (Marine)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				}
+			]
+		}
+	]
+}
