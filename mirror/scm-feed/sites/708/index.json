@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-05-15 15:59:44",
+	"refreshDateTime": "2025-05-16 15:59:45",
 	"Site": [
 		{
 			"Code": "708",
@@ -113,7 +113,7 @@
 					"WaterFeature": "N",
 					"Category": "Lowland heath",
 					"Subcategory": "Dwarf shrub heath",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
 					"LatestAssessedVisitDate": "2014-06-02",
 					"LatestAssessedSCMcycle": "3",
@@ -195,7 +195,7 @@
 					"WaterFeature": "Y",
 					"Category": "Wetlands",
 					"Subcategory": "Fen, marsh and swamp (Wetland)",
-					"SummaryCondition": "Recovering",
+					"SummaryCondition": "Unfavourable",
 					"LatestAssessedCondition": "Unfavourable Declining",
 					"LatestAssessedVisitDate": "2004-09-02",
 					"LatestAssessedSCMcycle": "1",
