@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "236",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "Perth and Kinross",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Mid Perth",
-						"Prime": "P",
-						"Overlap": 8.58,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tay",
-						"Prime": "S",
-						"Overlap": 2.04,
-						"Percentage": 24
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 6.55,
-						"Percentage": 76
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

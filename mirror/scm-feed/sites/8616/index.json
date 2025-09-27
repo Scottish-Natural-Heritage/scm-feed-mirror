@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "8616",
@@ -8,50 +8,7 @@
 			"LocalAuthority": "East Ayrshire",
 			"SNHArea": "National Operations West Central",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Lanarkshire",
-						"Prime": "S",
-						"Overlap": 4455.77,
-						"Percentage": 17
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Dumfrieshire",
-						"Prime": "S",
-						"Overlap": 5262.08,
-						"Percentage": 20
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Ayrshire",
-						"Prime": "P",
-						"Overlap": 16627.9,
-						"Percentage": 62
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Central Dumfries and Galloway",
-						"Prime": "P",
-						"Overlap": 5273.49,
-						"Percentage": 20
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Clyde",
-						"Prime": "P",
-						"Overlap": 20669.99,
-						"Percentage": 77
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Solway",
-						"Prime": "S",
-						"Overlap": 5675.77,
-						"Percentage": 21
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

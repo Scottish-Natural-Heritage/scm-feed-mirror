@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "1192",
@@ -8,22 +8,7 @@
 			"LocalAuthority": "Fife",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Fife",
-						"Prime": "P",
-						"Overlap": 52.69,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tay",
-						"Prime": "P",
-						"Overlap": 52.69,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

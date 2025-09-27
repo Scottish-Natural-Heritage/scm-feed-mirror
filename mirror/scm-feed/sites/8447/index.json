@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "8447",
@@ -8,92 +8,7 @@
 			"LocalAuthority": "Moray",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Banff",
-						"Prime": "S",
-						"Overlap": 143.66,
-						"Percentage": 6
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Banff",
-						"Prime": "S",
-						"Overlap": 143.66,
-						"Percentage": 6
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Elgin",
-						"Prime": "P",
-						"Overlap": 1655.11,
-						"Percentage": 71
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Elgin",
-						"Prime": "P",
-						"Overlap": 1655.11,
-						"Percentage": 71
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Easterness",
-						"Prime": "S",
-						"Overlap": 613.5,
-						"Percentage": 26
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Easterness",
-						"Prime": "S",
-						"Overlap": 613.5,
-						"Percentage": 26
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Moray Firth",
-						"Prime": "P",
-						"Overlap": 1642.14,
-						"Percentage": 71
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Moray Firth",
-						"Prime": "P",
-						"Overlap": 1642.14,
-						"Percentage": 71
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
-						"Prime": "S",
-						"Overlap": 323.31,
-						"Percentage": 14
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
-						"Prime": "S",
-						"Overlap": 323.31,
-						"Percentage": 14
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 2088.96,
-						"Percentage": 90
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 2088.96,
-						"Percentage": 90
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "10234",
@@ -9,106 +9,7 @@
 			"SNHArea": "National Operations North",
 			"NationalPark": "Cairngorms",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Perth",
-						"Prime": "S",
-						"Overlap": 39852.77,
-						"Percentage": 21
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Forfar",
-						"Prime": "S",
-						"Overlap": 30255.76,
-						"Percentage": 16
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Easterness",
-						"Prime": "S",
-						"Overlap": 25241.46,
-						"Percentage": 13
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "South Aberdeen",
-						"Prime": "P",
-						"Overlap": 74154.48,
-						"Percentage": 40
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Banff",
-						"Prime": "S",
-						"Overlap": 12310.33,
-						"Percentage": 7
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Elgin",
-						"Prime": "S",
-						"Overlap": 5686.13,
-						"Percentage": 3
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Cairngorm/Speyside",
-						"Prime": "S",
-						"Overlap": 31577.25,
-						"Percentage": 17
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Grampian - Birse Parish",
-						"Prime": "S",
-						"Overlap": 1296.47,
-						"Percentage": 1
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Grampian - Glen Isla/Glen Shee",
-						"Prime": "S",
-						"Overlap": 8327.18,
-						"Percentage": 4
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Grampian - South Deeside & North Angus Glens ",
-						"Prime": "S",
-						"Overlap": 51157.45,
-						"Percentage": 27
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Grampian - Upper Deeside",
-						"Prime": "P",
-						"Overlap": 52132.13,
-						"Percentage": 28
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Tayside",
-						"Prime": "S",
-						"Overlap": 37574.51,
-						"Percentage": 20
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
-						"Prime": "P",
-						"Overlap": 117280.38,
-						"Percentage": 63
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tay",
-						"Prime": "S",
-						"Overlap": 70220.57,
-						"Percentage": 37
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

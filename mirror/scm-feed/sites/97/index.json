@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "97",
@@ -8,36 +8,7 @@
 			"LocalAuthority": "Dumfries and Galloway",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Kirkudbrightshire",
-						"Prime": "P",
-						"Overlap": 176.69,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Solway",
-						"Prime": "P",
-						"Overlap": 159.67,
-						"Percentage": 90
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Central Dumfries and Galloway",
-						"Prime": "P",
-						"Overlap": 19.22,
-						"Percentage": 11
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Solway",
-						"Prime": "P",
-						"Overlap": 176.69,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

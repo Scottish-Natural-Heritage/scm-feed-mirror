@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "1699",
@@ -9,64 +9,7 @@
 			"SNHArea": "National Operations Central Highland",
 			"NationalPark": "Cairngorms",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Banff",
-						"Prime": "S",
-						"Overlap": 339.91,
-						"Percentage": 17
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Elgin",
-						"Prime": "P",
-						"Overlap": 935.14,
-						"Percentage": 48
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Easterness",
-						"Prime": "S",
-						"Overlap": 684.87,
-						"Percentage": 35
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Moray Firth",
-						"Prime": "P",
-						"Overlap": 37.64,
-						"Percentage": 2
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Cairngorm/Speyside",
-						"Prime": "S",
-						"Overlap": 0.51,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Mid West Association",
-						"Prime": "S",
-						"Overlap": 0.13,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Monadhliaths",
-						"Prime": "P",
-						"Overlap": 308.41,
-						"Percentage": 16
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
-						"Prime": "P",
-						"Overlap": 1959.91,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "8309",
@@ -8,64 +8,7 @@
 			"LocalAuthority": "Scottish Government (Marine Directorate)",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Westerness",
-						"Prime": "S",
-						"Overlap": 82.88,
-						"Percentage": 3
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "North Ebudes",
-						"Prime": "S",
-						"Overlap": 529.73,
-						"Percentage": 22
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Ross",
-						"Prime": "P",
-						"Overlap": 1762.68,
-						"Percentage": 74
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "West Highlands",
-						"Prime": "P",
-						"Overlap": 2353.73,
-						"Percentage": 99
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Glenelg",
-						"Prime": "S",
-						"Overlap": 11.65,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "South Ross - Lochalsh",
-						"Prime": "P",
-						"Overlap": 172.18,
-						"Percentage": 7
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "South Skye ",
-						"Prime": "S",
-						"Overlap": 5.59,
-						"Percentage": 0
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "West Highland",
-						"Prime": "P",
-						"Overlap": 2375.29,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

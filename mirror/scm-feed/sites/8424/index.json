@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "8424",
@@ -8,120 +8,7 @@
 			"LocalAuthority": "East Lothian",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Fife",
-						"Prime": "S",
-						"Overlap": 1326.36,
-						"Percentage": 21
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Fife",
-						"Prime": "S",
-						"Overlap": 1326.36,
-						"Percentage": 21
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Stirling",
-						"Prime": "S",
-						"Overlap": 1086.46,
-						"Percentage": 17
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Stirling",
-						"Prime": "S",
-						"Overlap": 1086.46,
-						"Percentage": 17
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Perth",
-						"Prime": "S",
-						"Overlap": 492.9,
-						"Percentage": 8
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Perth",
-						"Prime": "S",
-						"Overlap": 492.9,
-						"Percentage": 8
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Haddington",
-						"Prime": "P",
-						"Overlap": 1757.68,
-						"Percentage": 28
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Haddington",
-						"Prime": "P",
-						"Overlap": 1757.68,
-						"Percentage": 28
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Edinburgh",
-						"Prime": "S",
-						"Overlap": 545.46,
-						"Percentage": 9
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Edinburgh",
-						"Prime": "S",
-						"Overlap": 545.46,
-						"Percentage": 9
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Linlithgow",
-						"Prime": "S",
-						"Overlap": 1104.81,
-						"Percentage": 17
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Linlithgow",
-						"Prime": "S",
-						"Overlap": 1104.81,
-						"Percentage": 17
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Forth and Tay",
-						"Prime": "P",
-						"Overlap": 6027.61,
-						"Percentage": 95
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Forth and Tay",
-						"Prime": "P",
-						"Overlap": 6027.61,
-						"Percentage": 95
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 6312.98,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 6312.98,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

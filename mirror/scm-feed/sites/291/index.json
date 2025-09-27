@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "291",
@@ -9,50 +9,7 @@
 			"SNHArea": "National Operations Central Highland",
 			"NationalPark": "Cairngorms",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Perth",
-						"Prime": "P",
-						"Overlap": 11.78,
-						"Percentage": 52
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "South Aberdeen",
-						"Prime": "S",
-						"Overlap": 11.06,
-						"Percentage": 48
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
-						"Prime": "S",
-						"Overlap": 11.31,
-						"Percentage": 50
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Grampian - Upper Deeside",
-						"Prime": "S",
-						"Overlap": 11.23,
-						"Percentage": 49
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Tayside",
-						"Prime": "P",
-						"Overlap": 11.62,
-						"Percentage": 51
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tay",
-						"Prime": "P",
-						"Overlap": 11.54,
-						"Percentage": 51
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "191",
@@ -8,64 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Ross",
-						"Prime": "S",
-						"Overlap": 1523.94,
-						"Percentage": 17
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Sutherland",
-						"Prime": "S",
-						"Overlap": 3322.19,
-						"Percentage": 38
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Sutherland",
-						"Prime": "P",
-						"Overlap": 3987.53,
-						"Percentage": 45
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "West Sutherland - East",
-						"Prime": "P",
-						"Overlap": 7649.82,
-						"Percentage": 87
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "West Sutherland - Lochinver South",
-						"Prime": "S",
-						"Overlap": 0.18,
-						"Percentage": 0
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "West Sutherland - North",
-						"Prime": "S",
-						"Overlap": 1183.65,
-						"Percentage": 13
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 4639.77,
-						"Percentage": 53
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "West Highland",
-						"Prime": "S",
-						"Overlap": 4193.89,
-						"Percentage": 47
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

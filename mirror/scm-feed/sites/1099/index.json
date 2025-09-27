@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "1099",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "North Lanarkshire",
 			"SNHArea": "National Operations West Central",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Lanarkshire",
-						"Prime": "P",
-						"Overlap": 37.61,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 31.36,
-						"Percentage": 83
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Clyde",
-						"Prime": "S",
-						"Overlap": 6.25,
-						"Percentage": 17
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

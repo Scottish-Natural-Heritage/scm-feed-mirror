@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "8423",
@@ -8,64 +8,7 @@
 			"LocalAuthority": "Midlothian",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Haddington",
-						"Prime": "S",
-						"Overlap": 0.96,
-						"Percentage": 0
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Haddington",
-						"Prime": "S",
-						"Overlap": 0.96,
-						"Percentage": 0
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Edinburgh",
-						"Prime": "P",
-						"Overlap": 317.08,
-						"Percentage": 100
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Edinburgh",
-						"Prime": "P",
-						"Overlap": 317.08,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 250.92,
-						"Percentage": 79
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 250.92,
-						"Percentage": 79
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tweed",
-						"Prime": "S",
-						"Overlap": 67.12,
-						"Percentage": 21
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Tweed",
-						"Prime": "S",
-						"Overlap": 67.12,
-						"Percentage": 21
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

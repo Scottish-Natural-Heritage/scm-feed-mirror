@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "828",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "East Lothian",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Haddington",
-						"Prime": "P",
-						"Overlap": 1.9,
-						"Percentage": 85
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Edinburgh",
-						"Prime": "S",
-						"Overlap": 0.33,
-						"Percentage": 15
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Forth",
-						"Prime": "P",
-						"Overlap": 2.23,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

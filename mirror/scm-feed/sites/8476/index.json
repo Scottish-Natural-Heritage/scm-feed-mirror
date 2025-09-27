@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "8476",
@@ -8,64 +8,7 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "East Sutherland",
-						"Prime": "S",
-						"Overlap": 29926.46,
-						"Percentage": 20
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Caithness",
-						"Prime": "S",
-						"Overlap": 49017.64,
-						"Percentage": 33
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "West Sutherland",
-						"Prime": "P",
-						"Overlap": 66369.21,
-						"Percentage": 45
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "North West Sutherland",
-						"Prime": "S",
-						"Overlap": 41458.41,
-						"Percentage": 28
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "East Sutherland",
-						"Prime": "S",
-						"Overlap": 11338.61,
-						"Percentage": 8
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "West Sutherland - East",
-						"Prime": "S",
-						"Overlap": 7121.3,
-						"Percentage": 5
-					},
-					{
-						"Type": "DEER_MANAGEMENT_GROUP",
-						"Ref": "Northern",
-						"Prime": "P",
-						"Overlap": 76017.29,
-						"Percentage": 51
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North Highland",
-						"Prime": "P",
-						"Overlap": 145313.31,
-						"Percentage": 98
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

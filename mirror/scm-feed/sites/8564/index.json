@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "8564",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "Shetland Islands",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Zetland",
-						"Prime": "P",
-						"Overlap": 569.6,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Shetland Isles",
-						"Prime": "P",
-						"Overlap": 19.54,
-						"Percentage": 3
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Orkney and Shetland",
-						"Prime": "P",
-						"Overlap": 569.6,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

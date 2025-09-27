@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "537",
@@ -8,36 +8,7 @@
 			"LocalAuthority": "North Ayrshire",
 			"SNHArea": "National Operations West Central",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Clyde Isles",
-						"Prime": "P",
-						"Overlap": 74.01,
-						"Percentage": 100
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Clyde",
-						"Prime": "P",
-						"Overlap": 23.1,
-						"Percentage": 31
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Argyll",
-						"Prime": "S",
-						"Overlap": 15.93,
-						"Percentage": 22
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Clyde",
-						"Prime": "P",
-						"Overlap": 58.08,
-						"Percentage": 78
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

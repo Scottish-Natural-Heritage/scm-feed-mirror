@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "1706",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "Moray",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "North Aberdeen",
-						"Prime": "S",
-						"Overlap": 24.98,
-						"Percentage": 30
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Banff",
-						"Prime": "P",
-						"Overlap": 58.74,
-						"Percentage": 70
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "North East Scotland",
-						"Prime": "P",
-						"Overlap": 83.72,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

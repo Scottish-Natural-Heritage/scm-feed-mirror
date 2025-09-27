@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "105",
@@ -8,29 +8,7 @@
 			"LocalAuthority": "Orkney Islands",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Orkney Islands",
-						"Prime": "P",
-						"Overlap": 18.99,
-						"Percentage": 18
-					},
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Orkney",
-						"Prime": "P",
-						"Overlap": 103.09,
-						"Percentage": 100
-					},
-					{
-						"Type": "SEPA_SUB_BASIN_DISTRICTS",
-						"Ref": "Orkney and Shetland",
-						"Prime": "P",
-						"Overlap": 103.09,
-						"Percentage": 100
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{

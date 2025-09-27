@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-25 16:04:14",
+	"refreshDateTime": "2025-09-26 16:04:16",
 	"Site": [
 		{
 			"Code": "1184",
@@ -8,22 +8,7 @@
 			"LocalAuthority": "Angus",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": [
-					{
-						"Type": "VICE_COUNTIES",
-						"Ref": "Forfar",
-						"Prime": "P",
-						"Overlap": 950.65,
-						"Percentage": 0
-					},
-					{
-						"Type": "SCOTTISH_MARINE_REGIONS",
-						"Ref": "Forth and Tay",
-						"Prime": "P",
-						"Overlap": 776.2,
-						"Percentage": 0
-					}
-				]
+				"Overlay": []
 			},
 			"SiteFeature": [
 				{
