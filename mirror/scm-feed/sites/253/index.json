@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "253",
@@ -8,7 +8,22 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "East Ross",
+						"Prime": "P",
+						"Overlap": 67.11,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North Highland",
+						"Prime": "P",
+						"Overlap": 67.11,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

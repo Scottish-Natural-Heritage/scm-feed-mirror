@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "8503",
@@ -9,7 +9,36 @@
 			"SNHArea": "National Operations Central Highland",
 			"NationalPark": "Cairngorms",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "East Perth",
+						"Prime": "P",
+						"Overlap": 19347.7,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "East Grampian - Glen Isla/Glen Shee",
+						"Prime": "S",
+						"Overlap": 0.23,
+						"Percentage": 0
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Tayside",
+						"Prime": "P",
+						"Overlap": 7768.23,
+						"Percentage": 40
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Tay",
+						"Prime": "P",
+						"Overlap": 19347.7,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

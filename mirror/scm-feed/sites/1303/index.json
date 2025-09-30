@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "1303",
@@ -8,7 +8,36 @@
 			"LocalAuthority": "Dumfries and Galloway",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Wigtownshire",
+						"Prime": "P",
+						"Overlap": 4.16,
+						"Percentage": 100
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Solway",
+						"Prime": "P",
+						"Overlap": 1.28,
+						"Percentage": 31
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "West Dumfries and Galloway",
+						"Prime": "P",
+						"Overlap": 3.1,
+						"Percentage": 75
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Solway",
+						"Prime": "P",
+						"Overlap": 4.16,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

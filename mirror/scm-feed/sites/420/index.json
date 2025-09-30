@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "420",
@@ -8,7 +8,22 @@
 			"LocalAuthority": "Clackmannanshire",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "West Perth",
+						"Prime": "P",
+						"Overlap": 177.12,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Forth",
+						"Prime": "P",
+						"Overlap": 177.12,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

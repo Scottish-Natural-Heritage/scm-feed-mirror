@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "903",
@@ -8,7 +8,36 @@
 			"LocalAuthority": "East Lothian",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Berwickshire",
+						"Prime": "S",
+						"Overlap": 0.07,
+						"Percentage": 0
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Haddington",
+						"Prime": "P",
+						"Overlap": 954.44,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Forth",
+						"Prime": "P",
+						"Overlap": 673.39,
+						"Percentage": 71
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Tweed",
+						"Prime": "S",
+						"Overlap": 281.12,
+						"Percentage": 29
+					}
+				]
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "1181",
@@ -8,7 +8,57 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "East Ross",
+						"Prime": "P",
+						"Overlap": 5000.18,
+						"Percentage": 92
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "West Ross",
+						"Prime": "S",
+						"Overlap": 450.14,
+						"Percentage": 8
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "South Ross - Lochalsh",
+						"Prime": "S",
+						"Overlap": 322.33,
+						"Percentage": 6
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "South Ross - Strathconon",
+						"Prime": "S",
+						"Overlap": 1611.69,
+						"Percentage": 30
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "South Ross - Strathfarrar",
+						"Prime": "P",
+						"Overlap": 3516.3,
+						"Percentage": 65
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North Highland",
+						"Prime": "P",
+						"Overlap": 4998.12,
+						"Percentage": 92
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "West Highland",
+						"Prime": "S",
+						"Overlap": 452.21,
+						"Percentage": 8
+					}
+				]
 			},
 			"SiteFeature": [
 				{

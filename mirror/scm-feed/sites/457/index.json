@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "457",
@@ -9,7 +9,50 @@
 			"SNHArea": "National Operations Central Highland",
 			"NationalPark": "Cairngorms",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Westerness",
+						"Prime": "P",
+						"Overlap": 5311.86,
+						"Percentage": 76
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Easterness",
+						"Prime": "S",
+						"Overlap": 1720.17,
+						"Percentage": 24
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Monadhliaths",
+						"Prime": "P",
+						"Overlap": 7024.32,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Mid West Association",
+						"Prime": "S",
+						"Overlap": 7.71,
+						"Percentage": 0
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North East Scotland",
+						"Prime": "S",
+						"Overlap": 1653.7,
+						"Percentage": 24
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Argyll",
+						"Prime": "P",
+						"Overlap": 5378.33,
+						"Percentage": 76
+					}
+				]
 			},
 			"SiteFeature": [
 				{

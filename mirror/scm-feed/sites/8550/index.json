@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "8550",
@@ -8,7 +8,50 @@
 			"LocalAuthority": "Moray",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Easterness",
+						"Prime": "S",
+						"Overlap": 569.65,
+						"Percentage": 24
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Banff",
+						"Prime": "S",
+						"Overlap": 142.29,
+						"Percentage": 6
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Elgin",
+						"Prime": "P",
+						"Overlap": 1613.73,
+						"Percentage": 69
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Moray Firth",
+						"Prime": "P",
+						"Overlap": 1556.67,
+						"Percentage": 67
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North East Scotland",
+						"Prime": "S",
+						"Overlap": 322.99,
+						"Percentage": 14
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North Highland",
+						"Prime": "P",
+						"Overlap": 2002.68,
+						"Percentage": 86
+					}
+				]
 			},
 			"SiteFeature": [
 				{

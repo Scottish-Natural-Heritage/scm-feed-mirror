@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "9190",
@@ -8,7 +8,36 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "East Sutherland",
+						"Prime": "P",
+						"Overlap": 14701.44,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "East Sutherland",
+						"Prime": "S",
+						"Overlap": 4077.44,
+						"Percentage": 28
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "South Sutherland",
+						"Prime": "P",
+						"Overlap": 10624,
+						"Percentage": 72
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North Highland",
+						"Prime": "P",
+						"Overlap": 14701.44,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

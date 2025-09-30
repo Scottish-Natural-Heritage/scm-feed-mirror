@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "1313",
@@ -8,7 +8,22 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "West Ross",
+						"Prime": "P",
+						"Overlap": 131.96,
+						"Percentage": 0
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "West Highlands",
+						"Prime": "P",
+						"Overlap": 12.99,
+						"Percentage": 0
+					}
+				]
 			},
 			"SiteFeature": [
 				{

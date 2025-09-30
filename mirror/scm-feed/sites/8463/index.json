@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "8463",
@@ -8,7 +8,36 @@
 			"LocalAuthority": "South Ayrshire",
 			"SNHArea": "National Operations West Central",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Ayrshire",
+						"Prime": "S",
+						"Overlap": 511.55,
+						"Percentage": 19
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Clyde Isles",
+						"Prime": "P",
+						"Overlap": 2248,
+						"Percentage": 81
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 2669.98,
+						"Percentage": 97
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "P",
+						"Overlap": 2759.55,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

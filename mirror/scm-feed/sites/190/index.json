@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "190",
@@ -9,7 +9,50 @@
 			"SNHArea": "National Operations South",
 			"NationalPark": "Loch Lomond and The Trossachs",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "West Perth",
+						"Prime": "P",
+						"Overlap": 2082.6,
+						"Percentage": 54
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Mid Perth",
+						"Prime": "S",
+						"Overlap": 1797.36,
+						"Percentage": 46
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Balquhidder",
+						"Prime": "P",
+						"Overlap": 3879.97,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Tay",
+						"Prime": "P",
+						"Overlap": 1778.25,
+						"Percentage": 46
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Forth",
+						"Prime": "S",
+						"Overlap": 1663.63,
+						"Percentage": 43
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Clyde",
+						"Prime": "S",
+						"Overlap": 438.08,
+						"Percentage": 11
+					}
+				]
 			},
 			"SiteFeature": [
 				{

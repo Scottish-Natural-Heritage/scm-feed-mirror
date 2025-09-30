@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "8201",
@@ -9,7 +9,43 @@
 			"SNHArea": "National Operations South",
 			"NationalPark": "Loch Lomond and The Trossachs",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Mid Perth",
+						"Prime": "P",
+						"Overlap": 2763.22,
+						"Percentage": 99
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Main Argyll",
+						"Prime": "S",
+						"Overlap": 20.5,
+						"Percentage": 1
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Breadalbane",
+						"Prime": "P",
+						"Overlap": 2764.94,
+						"Percentage": 99
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Blackmount",
+						"Prime": "S",
+						"Overlap": 18.78,
+						"Percentage": 1
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Tay",
+						"Prime": "P",
+						"Overlap": 2760.93,
+						"Percentage": 99
+					}
+				]
 			},
 			"SiteFeature": [
 				{

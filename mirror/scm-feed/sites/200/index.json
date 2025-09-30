@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "200",
@@ -8,7 +8,43 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "East Sutherland",
+						"Prime": "S",
+						"Overlap": 8.55,
+						"Percentage": 4
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Caithness",
+						"Prime": "P",
+						"Overlap": 215.95,
+						"Percentage": 96
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Moray Firth",
+						"Prime": "P",
+						"Overlap": 44.58,
+						"Percentage": 20
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Northern",
+						"Prime": "P",
+						"Overlap": 168.28,
+						"Percentage": 75
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North Highland",
+						"Prime": "P",
+						"Overlap": 224.5,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

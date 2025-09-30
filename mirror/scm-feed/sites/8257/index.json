@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "8257",
@@ -8,7 +8,50 @@
 			"LocalAuthority": "Fife",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Fife",
+						"Prime": "P",
+						"Overlap": 8171.72,
+						"Percentage": 53
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "East Perth",
+						"Prime": "S",
+						"Overlap": 3287.45,
+						"Percentage": 21
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Forfar",
+						"Prime": "S",
+						"Overlap": 3892.2,
+						"Percentage": 25
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Mid Perth",
+						"Prime": "S",
+						"Overlap": 90.3,
+						"Percentage": 1
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Forth and Tay",
+						"Prime": "P",
+						"Overlap": 15142.32,
+						"Percentage": 98
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Tay",
+						"Prime": "P",
+						"Overlap": 15441.67,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

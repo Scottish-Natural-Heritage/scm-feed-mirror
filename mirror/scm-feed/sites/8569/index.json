@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "8569",
@@ -8,7 +8,50 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Mid Perth",
+						"Prime": "S",
+						"Overlap": 396.33,
+						"Percentage": 0
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Westerness",
+						"Prime": "S",
+						"Overlap": 294.91,
+						"Percentage": 0
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Main Argyll",
+						"Prime": "P",
+						"Overlap": 484.55,
+						"Percentage": 0
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Blackmount",
+						"Prime": "P",
+						"Overlap": 481.37,
+						"Percentage": 0
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Breadalbane",
+						"Prime": "S",
+						"Overlap": 21.54,
+						"Percentage": 0
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Mid West Association",
+						"Prime": "S",
+						"Overlap": 326.02,
+						"Percentage": 0
+					}
+				]
 			},
 			"SiteFeature": [
 				{

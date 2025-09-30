@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "927",
@@ -8,7 +8,43 @@
 			"LocalAuthority": "Highland",
 			"SNHArea": "National Operations Central Highland",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Westerness",
+						"Prime": "P",
+						"Overlap": 299.1,
+						"Percentage": 51
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Main Argyll",
+						"Prime": "S",
+						"Overlap": 286.72,
+						"Percentage": 49
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Blackmount",
+						"Prime": "S",
+						"Overlap": 19.93,
+						"Percentage": 3
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Mid West Association",
+						"Prime": "P",
+						"Overlap": 565.89,
+						"Percentage": 97
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Argyll",
+						"Prime": "P",
+						"Overlap": 585.82,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

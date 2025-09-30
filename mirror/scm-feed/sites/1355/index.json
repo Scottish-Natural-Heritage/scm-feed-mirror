@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "1355",
@@ -8,7 +8,29 @@
 			"LocalAuthority": "Scottish Borders",
 			"SNHArea": "National Operations South",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Selkirk",
+						"Prime": "P",
+						"Overlap": 8.31,
+						"Percentage": 100
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Eskdalemuir",
+						"Prime": "P",
+						"Overlap": 8.31,
+						"Percentage": 100
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Tweed",
+						"Prime": "P",
+						"Overlap": 8.31,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "8366",
@@ -9,7 +9,120 @@
 			"SNHArea": "National Operations Central Highland",
 			"NationalPark": "Cairngorms",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "East Perth",
+						"Prime": "S",
+						"Overlap": 1267.58,
+						"Percentage": 13
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Forfar",
+						"Prime": "S",
+						"Overlap": 94.99,
+						"Percentage": 1
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Mid Perth",
+						"Prime": "P",
+						"Overlap": 7649.26,
+						"Percentage": 81
+					},
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Main Argyll",
+						"Prime": "S",
+						"Overlap": 466.83,
+						"Percentage": 5
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Forth and Tay",
+						"Prime": "P",
+						"Overlap": 349.05,
+						"Percentage": 4
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Blackmount",
+						"Prime": "S",
+						"Overlap": 462.47,
+						"Percentage": 5
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Breadalbane",
+						"Prime": "P",
+						"Overlap": 825.71,
+						"Percentage": 9
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Balquhidder",
+						"Prime": "S",
+						"Overlap": 0.02,
+						"Percentage": 0
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Mid West Association",
+						"Prime": "S",
+						"Overlap": 14.1,
+						"Percentage": 0
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "East Loch Ericht",
+						"Prime": "S",
+						"Overlap": 1.67,
+						"Percentage": 0
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Inveraray & Tyndrum",
+						"Prime": "S",
+						"Overlap": 19.93,
+						"Percentage": 0
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "East Grampian - Glen Isla/Glen Shee",
+						"Prime": "S",
+						"Overlap": 63.1,
+						"Percentage": 1
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "South Perthshire",
+						"Prime": "S",
+						"Overlap": 166.42,
+						"Percentage": 2
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Strathtay",
+						"Prime": "S",
+						"Overlap": 771.85,
+						"Percentage": 8
+					},
+					{
+						"Type": "DEER_MANAGEMENT_GROUP",
+						"Ref": "Tayside",
+						"Prime": "S",
+						"Overlap": 175.47,
+						"Percentage": 2
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "Tay",
+						"Prime": "P",
+						"Overlap": 9478.66,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{

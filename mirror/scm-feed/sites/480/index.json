@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-09-28 16:04:19",
+	"refreshDateTime": "2025-09-29 16:04:20",
 	"Site": [
 		{
 			"Code": "480",
@@ -8,7 +8,29 @@
 			"LocalAuthority": "Aberdeenshire",
 			"SNHArea": "National Operations North",
 			"ProtectedOverlays": {
-				"Overlay": []
+				"Overlay": [
+					{
+						"Type": "VICE_COUNTIES",
+						"Ref": "Banff",
+						"Prime": "P",
+						"Overlap": 341.39,
+						"Percentage": 100
+					},
+					{
+						"Type": "SCOTTISH_MARINE_REGIONS",
+						"Ref": "Moray Firth",
+						"Prime": "P",
+						"Overlap": 117.66,
+						"Percentage": 34
+					},
+					{
+						"Type": "SEPA_SUB_BASIN_DISTRICTS",
+						"Ref": "North East Scotland",
+						"Prime": "P",
+						"Overlap": 341.39,
+						"Percentage": 100
+					}
+				]
 			},
 			"SiteFeature": [
 				{
