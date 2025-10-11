@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-09 16:04:33",
+	"refreshDateTime": "2025-10-10 16:04:36",
 	"Site": [
 		{
 			"Code": "8432",
@@ -346,6 +346,22 @@
 								"AnnualSummaryCondition": "Not Assessed"
 							}
 						]
+					}
+				},
+				{
+					"Id": "20968",
+					"Name": "Oligotrophic loch",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Freshwater habitats",
+					"Subcategory": "Standing open water and canals",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
 					}
 				},
 				{

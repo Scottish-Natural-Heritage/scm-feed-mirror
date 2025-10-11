@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-09 16:04:33",
+	"refreshDateTime": "2025-10-10 16:04:36",
 	"Site": [
 		{
 			"Code": "8455",
@@ -959,6 +959,22 @@
 								"AnnualSummaryCondition": "Favourable"
 							}
 						]
+					}
+				},
+				{
+					"Id": "21082",
+					"Name": "Eutrophic loch",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Freshwater habitats",
+					"Subcategory": "Standing open water and canals",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
 					}
 				}
 			]
