@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-14 16:04:43",
+	"refreshDateTime": "2025-10-15 16:04:44",
 	"Site": [
 		{
 			"Code": "8435",
@@ -203,48 +203,6 @@
 							{
 								"year": "2010",
 								"AnnualSummaryCondition": "Favourable"
-							}
-						]
-					}
-				},
-				{
-					"Id": "21046",
-					"Name": "Vascular plant assemblage",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Vascular plants",
-					"Subcategory": "Vascular plants",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
-					"Id": "21047",
-					"Name": "Beetles",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Invertebrates",
-					"Subcategory": "Other invertebrates",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
 							}
 						]
 					}

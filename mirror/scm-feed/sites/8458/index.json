@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-14 16:04:43",
+	"refreshDateTime": "2025-10-15 16:04:44",
 	"Site": [
 		{
 			"Code": "8458",
@@ -764,31 +764,6 @@
 				{
 					"Id": "20945",
 					"Name": "Whooper swan (Cygnus cygnus), non-breeding",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Birds",
-					"Subcategory": "Birds - aggregations of non-breeding birds",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2021",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
-					"Id": "20947",
-					"Name": "Waterfowl assemblage, non-breeding",
 					"ActionPlanFeature": "N",
 					"WaterFeature": "N",
 					"Category": "Birds",

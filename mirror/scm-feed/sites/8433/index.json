@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-14 16:04:43",
+	"refreshDateTime": "2025-10-15 16:04:44",
 	"Site": [
 		{
 			"Code": "8433",
@@ -221,27 +221,6 @@
 					"Subcategory": "Mammals",
 					"SummaryCondition": "Not Assessed",
 					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
-					"Id": "20965",
-					"Name": "Intertidal mudflats and sandflats",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Marine (including marine mammals)",
-					"Subcategory": "Littoral sediment (Marine)",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []
 					},

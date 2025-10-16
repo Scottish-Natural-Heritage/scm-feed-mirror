@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-14 16:04:43",
+	"refreshDateTime": "2025-10-15 16:04:44",
 	"Site": [
 		{
 			"Code": "8437",
@@ -147,48 +147,6 @@
 							{
 								"year": "2010",
 								"AnnualSummaryCondition": "Favourable"
-							}
-						]
-					}
-				},
-				{
-					"Id": "21053",
-					"Name": "Vascular plant assemblage",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Vascular plants",
-					"Subcategory": "Vascular plants",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
-					"Id": "21055",
-					"Name": "Hydromorphological mire range",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Wetlands",
-					"Subcategory": "Fen, marsh and swamp (Wetland)",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Habitats",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
 							}
 						]
 					}

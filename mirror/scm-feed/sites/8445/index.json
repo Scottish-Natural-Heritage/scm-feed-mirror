@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-14 16:04:43",
+	"refreshDateTime": "2025-10-15 16:04:44",
 	"Site": [
 		{
 			"Code": "8445",
@@ -275,48 +275,6 @@
 							{
 								"year": "2010",
 								"AnnualSummaryCondition": "Favourable"
-							}
-						]
-					}
-				},
-				{
-					"Id": "21048",
-					"Name": "Wet woodland",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Woodland",
-					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Habitats",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
-					"Id": "21049",
-					"Name": "Vascular plant assemblage",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Vascular plants",
-					"Subcategory": "Vascular plants",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
 							}
 						]
 					}

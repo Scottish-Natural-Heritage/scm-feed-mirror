@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-14 16:04:43",
+	"refreshDateTime": "2025-10-15 16:04:44",
 	"Site": [
 		{
 			"Code": "8432",
@@ -362,48 +362,6 @@
 					},
 					"HistoryDetails": {
 						"Year": []
-					}
-				},
-				{
-					"Id": "20970",
-					"Name": "Subalpine wet heath",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Upland habitat",
-					"Subcategory": "Dwarf shrub heath (Upland)",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Habitats",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
-					"Id": "20971",
-					"Name": "Depressions on peat substrates",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Upland habitat",
-					"Subcategory": "Bogs (Upland)",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Habitats",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
 					}
 				}
 			]

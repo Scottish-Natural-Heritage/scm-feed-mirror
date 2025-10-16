@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-14 16:04:43",
+	"refreshDateTime": "2025-10-15 16:04:44",
 	"Site": [
 		{
 			"Code": "8446",
@@ -543,48 +543,6 @@
 					"Subcategory": "Birds - aggregations of non-breeding birds",
 					"SummaryCondition": "Not Assessed",
 					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
-					"Id": "20966",
-					"Name": "Saltmarsh",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Coast",
-					"Subcategory": "Littoral sediment (Coast)",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Habitats",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
-					"Id": "20967",
-					"Name": "Transition saltmarsh",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Wetlands",
-					"Subcategory": "Fen, marsh and swamp (Wetland)",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []
 					},

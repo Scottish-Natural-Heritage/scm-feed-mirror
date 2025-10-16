@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-14 16:04:43",
+	"refreshDateTime": "2025-10-15 16:04:44",
 	"Site": [
 		{
 			"Code": "8420",
@@ -787,80 +787,6 @@
 					"WaterFeature": "Y",
 					"Category": "Marine (including marine mammals)",
 					"Subcategory": "Mammals (Marine)",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2021",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2020",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2019",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2018",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
-					"Id": "17249",
-					"Name": "Invertebrate assemblage",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Invertebrates",
-					"Subcategory": "Other invertebrates",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2021",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2020",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2019",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2018",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
-					"Id": "17250",
-					"Name": "Vascular plant assemblage",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Vascular plants",
-					"Subcategory": "Vascular plants",
 					"SummaryCondition": "Not Assessed",
 					"FeatureType": "Species",
 					"Pressures": {

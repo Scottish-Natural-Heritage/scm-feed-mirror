@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-14 16:04:43",
+	"refreshDateTime": "2025-10-15 16:04:44",
 	"Site": [
 		{
 			"Code": "8422",
@@ -190,27 +190,6 @@
 							{
 								"year": "2010",
 								"AnnualSummaryCondition": "Favourable"
-							}
-						]
-					}
-				},
-				{
-					"Id": "20973",
-					"Name": "Depressions on peat substrates",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Upland habitat",
-					"Subcategory": "Bogs (Upland)",
-					"SummaryCondition": "Not Assessed",
-					"FeatureType": "Habitats",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
 							}
 						]
 					}

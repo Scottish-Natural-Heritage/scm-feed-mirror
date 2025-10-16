@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-14 16:04:43",
+	"refreshDateTime": "2025-10-15 16:04:44",
 	"Site": [
 		{
 			"Code": "488",
@@ -44,22 +44,8 @@
 					"LatestAssessedCondition": "Unfavourable Recovering",
 					"LatestAssessedVisitDate": "2007-10-05",
 					"LatestAssessedSCMcycle": "2",
-					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Burning",
-								"PressureRecordedAs": "Burning"
-							},
-							{
-								"Description": "Other",
-								"PressureRecordedAs": "No on-site activities related to feature condition noted"
-							},
-							{
-								"Description": "Water management",
-								"PressureRecordedAs": "Water management"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [

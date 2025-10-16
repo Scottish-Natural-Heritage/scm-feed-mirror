@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2025-10-14 16:04:43",
+	"refreshDateTime": "2025-10-15 16:04:44",
 	"Site": [
 		{
 			"Code": "240",
@@ -44,15 +44,8 @@
 					"LatestAssessedCondition": "Unfavourable Recovering",
 					"LatestAssessedVisitDate": "2023-07-19",
 					"LatestAssessedSCMcycle": "4",
-					"FeatureType": "Habitats",
 					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
-								"keywords": "Common reed, Phalaris arundinacea – Reed canary grass"
-							}
-						]
+						"Pressure": []
 					},
 					"HistoryDetails": {
 						"Year": [
@@ -122,7 +115,6 @@
 					"LatestAssessedCondition": "Favourable Maintained",
 					"LatestAssessedVisitDate": "2009-06-24",
 					"LatestAssessedSCMcycle": "2",
-					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": []
 					},
