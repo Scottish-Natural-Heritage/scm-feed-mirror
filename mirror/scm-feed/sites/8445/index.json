@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-04-07 16:10:46",
+	"refreshDateTime": "2026-04-08 16:10:47",
 	"Site": [
 		{
 			"Code": "8445",
@@ -288,6 +288,70 @@
 					"Subcategory": "Vascular plants",
 					"SummaryCondition": "Not Assessed",
 					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21150",
+					"Name": "Baltic rush (Juncus balticus)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21151",
+					"Name": "Lesser tussock sedge (Carex diandra)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21152",
+					"Name": "Slender-leaved pondweed (Potamogeton filiformis)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21153",
+					"Name": "Willow/alder carr",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Woodland",
+					"Subcategory": "Broad-leaved, mixed and yew woodland",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []
 					},

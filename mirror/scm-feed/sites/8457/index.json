@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-04-07 16:10:46",
+	"refreshDateTime": "2026-04-08 16:10:47",
 	"Site": [
 		{
 			"Code": "8457",
@@ -845,6 +845,118 @@
 					"WaterFeature": "N",
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of non-breeding birds",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21191",
+					"Name": "Baltic rush (Juncus balticus)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21192",
+					"Name": "Brackish water loch",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Freshwater habitats",
+					"Subcategory": "Standing open water and canals",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21193",
+					"Name": "Cowbane (Cicuta virosa)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21194",
+					"Name": "Fen community",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Wetlands",
+					"Subcategory": "Fen, marsh and swamp (Wetland)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21195",
+					"Name": "Sand dune slack",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Coast",
+					"Subcategory": "Supralittoral sediment (Coast)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21196",
+					"Name": "Slender naiad (Najas flexilis)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21197",
+					"Name": "Slender-leaved pondweed (Potamogeton filiformis)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
 					"SummaryCondition": "Not Assessed",
 					"FeatureType": "Species",
 					"Pressures": {

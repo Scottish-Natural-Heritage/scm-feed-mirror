@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-04-07 16:10:46",
+	"refreshDateTime": "2026-04-08 16:10:47",
 	"Site": [
 		{
 			"Code": "8418",
@@ -567,6 +567,38 @@
 					"WaterFeature": "N",
 					"Category": "Wetlands",
 					"Subcategory": "Fen, marsh and swamp (Wetland)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21119",
+					"Name": "Estuarine alder woodland",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Woodland",
+					"Subcategory": "Broad-leaved, mixed and yew woodland",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21120",
+					"Name": "Mudflat",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Marine (including marine mammals)",
+					"Subcategory": "Littoral sediment (Marine)",
 					"SummaryCondition": "Not Assessed",
 					"FeatureType": "Habitats",
 					"Pressures": {

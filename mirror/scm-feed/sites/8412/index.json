@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-04-07 16:10:46",
+	"refreshDateTime": "2026-04-08 16:10:47",
 	"Site": [
 		{
 			"Code": "8412",
@@ -594,6 +594,134 @@
 					"Subcategory": "Birds - aggregations of breeding birds",
 					"SummaryCondition": "Not Assessed",
 					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21106",
+					"Name": "Common scoter (Melanitta nigra), breeding",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Birds",
+					"Subcategory": "Birds - aggregations of breeding birds",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21107",
+					"Name": "Dystrophic loch, lochan and pool",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Freshwater habitats",
+					"Subcategory": "Standing open water and canals",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21108",
+					"Name": "Freshwater pearl mussel (Margaritifera margaritifera)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21109",
+					"Name": "Water beetle (Oreodytes alpinus)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21110",
+					"Name": "Sphagnum moss (Sphagnum lindbergii) ",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Non-vascular plants",
+					"Subcategory": "Bryophytes",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21111",
+					"Name": "Sphagnum moss (Sphagnum majus)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Non-vascular plants",
+					"Subcategory": "Bryophytes",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21112",
+					"Name": "Very wet mires often identified by an unstable 'quaking' surface",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Fen, marsh and swamp (Upland)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21113",
+					"Name": "Wet heath",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Dwarf shrub heath (Upland)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
 					"Pressures": {
 						"Pressure": []
 					},

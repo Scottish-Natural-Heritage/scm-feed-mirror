@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-04-07 16:10:46",
+	"refreshDateTime": "2026-04-08 16:10:47",
 	"Site": [
 		{
 			"Code": "8435",
@@ -205,6 +205,102 @@
 								"AnnualSummaryCondition": "Favourable"
 							}
 						]
+					}
+				},
+				{
+					"Id": "21132",
+					"Name": "Water beetle (Bidessus minutissimus)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21133",
+					"Name": "Elongated sedge (Carex elongata)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21134",
+					"Name": "Water beetle (Hydroporus rufifrons)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21135",
+					"Name": "Purple iris (Iris versicolor)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21136",
+					"Name": "Spignel (Meum athamanticum)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21137",
+					"Name": "Wood bitter-vetch (Vicia orobus)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
 					}
 				}
 			]

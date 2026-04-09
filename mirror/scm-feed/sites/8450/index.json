@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-04-07 16:10:46",
+	"refreshDateTime": "2026-04-08 16:10:47",
 	"Site": [
 		{
 			"Code": "8450",
@@ -161,6 +161,230 @@
 					"WaterFeature": "N",
 					"Category": "Freshwater habitats",
 					"Subcategory": "Standing open water and canals",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21163",
+					"Name": "Moth, Noctuidae (Apamea zeta)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21164",
+					"Name": "Beetle (Bembidion bipunctatum)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21165",
+					"Name": "Fly, Mycetophilidae (Brevicornu kingi)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21166",
+					"Name": "Moth (Carsia sororiata)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21167",
+					"Name": "Moth (Coleophora genistae)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21168",
+					"Name": "Dystrophic loch, lochan and pool",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Freshwater habitats",
+					"Subcategory": "Standing open water and canals",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21169",
+					"Name": "Beetle (Dytiscus lapponicus)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21170",
+					"Name": "Moth, Nepticulidae (Ectoedemia weaveri)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21171",
+					"Name": "Moth, Noctuidae (Eurois occulta)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21172",
+					"Name": "Beetle (Gyrinus opacus)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21173",
+					"Name": "Rannoch-rush (Scheuchzeria palustris)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21174",
+					"Name": "Fly, Tipulidae (Tasiocera fuscescens)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21175",
+					"Name": "Very wet mires often identified by an unstable 'quaking' surface",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Fen, marsh and swamp (Upland)",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21176",
+					"Name": "Wet heath",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Upland habitat",
+					"Subcategory": "Dwarf shrub heath (Upland)",
 					"SummaryCondition": "Not Assessed",
 					"FeatureType": "Habitats",
 					"Pressures": {

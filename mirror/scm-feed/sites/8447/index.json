@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-04-07 16:10:46",
+	"refreshDateTime": "2026-04-08 16:10:47",
 	"Site": [
 		{
 			"Code": "8447",
@@ -873,6 +873,118 @@
 					"WaterFeature": "N",
 					"Category": "Birds",
 					"Subcategory": "Birds - aggregations of non-breeding birds",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21156",
+					"Name": "Baltic rush (Juncus balticus)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21157",
+					"Name": "Dwarf eelgrass (Zostera noltei)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21158",
+					"Name": "Estuarine alder woodland",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Woodland",
+					"Subcategory": "Broad-leaved, mixed and yew woodland",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Habitats",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21159",
+					"Name": "Water beetle (Ochthebius lenensis)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21160",
+					"Name": "Oysterplant (Mertensia maritima)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21161",
+					"Name": "Seaside centaury (Centaurium littorale)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Vascular plants",
+					"Subcategory": "Vascular plants",
+					"SummaryCondition": "Not Assessed",
+					"FeatureType": "Species",
+					"Pressures": {
+						"Pressure": []
+					},
+					"HistoryDetails": {
+						"Year": []
+					}
+				},
+				{
+					"Id": "21162",
+					"Name": "Snail killing fly (Tetanocera freyi)",
+					"ActionPlanFeature": "N",
+					"WaterFeature": "N",
+					"Category": "Invertebrates",
+					"Subcategory": "Other invertebrates",
 					"SummaryCondition": "Not Assessed",
 					"FeatureType": "Species",
 					"Pressures": {
