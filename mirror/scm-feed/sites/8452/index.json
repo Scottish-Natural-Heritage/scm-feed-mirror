@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-07-24 16:14:32",
+	"refreshDateTime": "2026-07-25 16:14:59",
 	"Site": [
 		{
 			"Code": "8452",
@@ -295,39 +295,6 @@
 					}
 				},
 				{
-					"Id": "21033",
-					"Name": "Wet woodland",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Woodland",
-					"Subcategory": "Broad-leaved, mixed and yew woodland",
-					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2023-09-11",
-					"LatestAssessedSCMcycle": "4",
-					"FeatureType": "Habitats",
-					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
-							},
-							{
-								"Description": "Plant pests and diseases",
-								"PressureRecordedAs": "Plant Pests and Diseases"
-							}
-						]
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
 					"Id": "21034",
 					"Name": "Invertebrate assemblage",
 					"ActionPlanFeature": "N",
@@ -341,39 +308,6 @@
 					"FeatureType": "Species",
 					"Pressures": {
 						"Pressure": [
-							{
-								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
-							}
-						]
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Favourable"
-							}
-						]
-					}
-				},
-				{
-					"Id": "21035",
-					"Name": "Vascular plant assemblage",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Vascular plants",
-					"Subcategory": "Vascular plants",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2014-08-10",
-					"LatestAssessedSCMcycle": "3",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
-							},
 							{
 								"Description": "Over grazing",
 								"PressureRecordedAs": "Grazing - over"

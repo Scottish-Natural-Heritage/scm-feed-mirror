@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-07-24 16:14:32",
+	"refreshDateTime": "2026-07-25 16:14:59",
 	"Site": [
 		{
 			"Code": "8438",
@@ -165,30 +165,6 @@
 							{
 								"year": "2023",
 								"AnnualSummaryCondition": "Unfavourable"
-							}
-						]
-					}
-				},
-				{
-					"Id": "21031",
-					"Name": "Vascular plant assemblage",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Vascular plants",
-					"Subcategory": "Vascular plants",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2008-08-20",
-					"LatestAssessedSCMcycle": "2",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Favourable"
 							}
 						]
 					}

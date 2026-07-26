@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-07-24 16:14:32",
+	"refreshDateTime": "2026-07-25 16:14:59",
 	"Site": [
 		{
 			"Code": "8456",
@@ -237,47 +237,6 @@
 							{
 								"Description": "Under grazing",
 								"PressureRecordedAs": "Grazing - under"
-							}
-						]
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2021",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
-				{
-					"Id": "20876",
-					"Name": "Waterfowl assemblage, non-breeding",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Birds",
-					"Subcategory": "Birds - aggregations of non-breeding birds",
-					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable Declining",
-					"LatestAssessedVisitDate": "2014-03-01",
-					"LatestAssessedSCMcycle": "3",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Game/ fisheries management",
-								"PressureRecordedAs": "Game or fisheries management"
-							},
-							{
-								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Recreation/disturbance"
-							},
-							{
-								"Description": "Water management",
-								"PressureRecordedAs": "Water management"
 							}
 						]
 					},

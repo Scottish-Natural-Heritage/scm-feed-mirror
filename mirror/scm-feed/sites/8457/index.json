@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-07-24 16:14:32",
+	"refreshDateTime": "2026-07-25 16:14:59",
 	"Site": [
 		{
 			"Code": "8457",
@@ -226,87 +226,6 @@
 					}
 				},
 				{
-					"Id": "14268",
-					"Name": "Loch trophic range",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Freshwater habitats",
-					"Subcategory": "Standing open water and canals",
-					"SummaryCondition": "Unfavourable",
-					"LatestAssessedCondition": "Unfavourable No change",
-					"LatestAssessedVisitDate": "2016-09-23",
-					"LatestAssessedSCMcycle": "3",
-					"FeatureType": "Habitats",
-					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Agricultural operations",
-								"PressureRecordedAs": "Agricultural operations"
-							},
-							{
-								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
-							}
-						]
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2021",
-								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2020",
-								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2019",
-								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2018",
-								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2017",
-								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2016",
-								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2015",
-								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2014",
-								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2013",
-								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2012",
-								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2011",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2010",
-								"AnnualSummaryCondition": "Favourable"
-							}
-						]
-					}
-				},
-				{
 					"Id": "14269",
 					"Name": "Machair",
 					"ActionPlanFeature": "N",
@@ -384,83 +303,6 @@
 					}
 				},
 				{
-					"Id": "14270",
-					"Name": "Saline lagoon",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Marine (including marine mammals)",
-					"Subcategory": "Inshore sublittoral sediment (Marine)",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2002-09-08",
-					"LatestAssessedSCMcycle": "1",
-					"FeatureType": "Habitats",
-					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Game/ fisheries management",
-								"PressureRecordedAs": "Game or fisheries management"
-							}
-						]
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2021",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2020",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2019",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2018",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2017",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2016",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2015",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2014",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2013",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2012",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2011",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2010",
-								"AnnualSummaryCondition": "Favourable"
-							}
-						]
-					}
-				},
-				{
 					"Id": "14271",
 					"Name": "Dunlin (Calidris alpina schinzii), breeding",
 					"ActionPlanFeature": "N",
@@ -513,78 +355,6 @@
 							{
 								"year": "2015",
 								"AnnualSummaryCondition": "Unfavourable"
-							},
-							{
-								"year": "2014",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2013",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2012",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2011",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2010",
-								"AnnualSummaryCondition": "Favourable"
-							}
-						]
-					}
-				},
-				{
-					"Id": "14272",
-					"Name": "Greylag goose (Anser anser), breeding",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Birds",
-					"Subcategory": "Birds - aggregations of breeding birds",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2009-04-29",
-					"LatestAssessedSCMcycle": "2",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2021",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2020",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2019",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2018",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2017",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2016",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2015",
-								"AnnualSummaryCondition": "Favourable"
 							},
 							{
 								"year": "2014",

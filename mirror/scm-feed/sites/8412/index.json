@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-07-24 16:14:32",
+	"refreshDateTime": "2026-07-25 16:14:59",
 	"Site": [
 		{
 			"Code": "8412",
@@ -138,78 +138,6 @@
 				]
 			},
 			"SiteFeature": [
-				{
-					"Id": "14120",
-					"Name": "Breeding bird assemblage",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Birds",
-					"Subcategory": "Birds - assemblages of breeding birds",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2009-07-12",
-					"LatestAssessedSCMcycle": "2",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": []
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2021",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2020",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2019",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2018",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2017",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2016",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2015",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2014",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2013",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2012",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2011",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2010",
-								"AnnualSummaryCondition": "Not Assessed"
-							}
-						]
-					}
-				},
 				{
 					"Id": "14121",
 					"Name": "Blanket bog",
@@ -376,83 +304,6 @@
 							{
 								"year": "2010",
 								"AnnualSummaryCondition": "Favourable"
-							}
-						]
-					}
-				},
-				{
-					"Id": "14123",
-					"Name": "Greylag goose (Anser anser), breeding",
-					"ActionPlanFeature": "N",
-					"WaterFeature": "N",
-					"Category": "Birds",
-					"Subcategory": "Birds - aggregations of breeding birds",
-					"SummaryCondition": "Favourable",
-					"LatestAssessedCondition": "Favourable Maintained",
-					"LatestAssessedVisitDate": "2018-06-08",
-					"LatestAssessedSCMcycle": "3",
-					"FeatureType": "Species",
-					"Pressures": {
-						"Pressure": [
-							{
-								"Description": "Burning",
-								"PressureRecordedAs": "Burning"
-							}
-						]
-					},
-					"HistoryDetails": {
-						"Year": [
-							{
-								"year": "2023",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2021",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2020",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2019",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2018",
-								"AnnualSummaryCondition": "Favourable"
-							},
-							{
-								"year": "2017",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2016",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2015",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2014",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2013",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2012",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2011",
-								"AnnualSummaryCondition": "Not Assessed"
-							},
-							{
-								"year": "2010",
-								"AnnualSummaryCondition": "Not Assessed"
 							}
 						]
 					}
