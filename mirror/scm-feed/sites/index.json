@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-09-06 16:16:10",
+	"refreshDateTime": "2026-09-07 16:16:14",
 	"Site": [
 		{
 			"Code": "1",
@@ -279130,7 +279130,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- abstraction"
+								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
 							}
 						]
 					},
@@ -396914,7 +396914,7 @@
 						"Pressure": [
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- morphological alteration"
 							}
 						]
 					},
