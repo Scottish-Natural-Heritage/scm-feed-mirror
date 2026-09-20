@@ -1,5 +1,5 @@
 {
-	"refreshDateTime": "2026-09-18 16:16:34",
+	"refreshDateTime": "2026-09-19 16:16:35",
 	"Site": [
 		{
 			"Code": "1",
@@ -21948,7 +21948,7 @@
 						"Pressure": [
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- flow regulation"
 							}
 						]
 					},
@@ -43162,7 +43162,7 @@
 							{
 								"Description": "Invasive species",
 								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
-								"keywords": "Bracken, Scrub"
+								"keywords": "Bracken, Gorse"
 							},
 							{
 								"Description": "Over grazing",
@@ -104520,7 +104520,7 @@
 							},
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
 							}
 						]
 					},
@@ -129265,7 +129265,7 @@
 							{
 								"Description": "Over grazing",
 								"PressureRecordedAs": "Grazing - over",
-								"keywords": "Deer"
+								"keywords": "Sheep"
 							}
 						]
 					},
@@ -146353,8 +146353,8 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
-								"keywords": "Conifers"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Nettles, Thistles"
 							},
 							{
 								"Description": "Trampling",
@@ -159945,7 +159945,7 @@
 						"Pressure": [
 							{
 								"Description": "Game/ fisheries management",
-								"PressureRecordedAs": "Fishing - recreational"
+								"PressureRecordedAs": "Aquaculture - finfish"
 							},
 							{
 								"Description": "Water management",
@@ -184088,7 +184088,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
 							}
 						]
 					},
@@ -193619,7 +193619,8 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence or changing extent of invasive species"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
+								"keywords": "Giant hogweed - Heracleum mantegazzianum, Himalayan balsam, Japanese Knotweed, Sycamore"
 							}
 						]
 					},
@@ -203104,7 +203105,7 @@
 							},
 							{
 								"Description": "No proactive management",
-								"PressureRecordedAs": "Lack of remedial management"
+								"PressureRecordedAs": "Non intervention"
 							}
 						]
 					},
@@ -231726,7 +231727,8 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Nettles, Thistles"
 							},
 							{
 								"Description": "Over grazing",
@@ -276827,8 +276829,8 @@
 							},
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
-								"keywords": "Scrub"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
+								"keywords": "Rhododendron"
 							}
 						]
 					},
@@ -277462,8 +277464,7 @@
 						"Pressure": [
 							{
 								"Description": "Recreation/disturbance",
-								"PressureRecordedAs": "Recreation/disturbance",
-								"keywords": "Dog walking"
+								"PressureRecordedAs": "Recreation/disturbance"
 							}
 						]
 					},
@@ -279129,7 +279130,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- abstraction"
 							}
 						]
 					},
@@ -320570,7 +320571,7 @@
 							},
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
 							},
 							{
 								"Description": "No proactive management",
@@ -320996,7 +320997,7 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence or changing extent of invasive species"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
 							},
 							{
 								"Description": "Over grazing",
@@ -341183,7 +341184,8 @@
 							},
 							{
 								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over"
+								"PressureRecordedAs": "Grazing - over",
+								"keywords": "Deer"
 							},
 							{
 								"Description": "Trampling",
@@ -353534,7 +353536,7 @@
 							},
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
 							},
 							{
 								"Description": "No proactive management",
@@ -353623,7 +353625,8 @@
 							},
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Birch, Scots pine"
 							},
 							{
 								"Description": "No proactive management",
@@ -355144,8 +355147,7 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
-								"keywords": "Bracken"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE"
 							},
 							{
 								"Description": "Over grazing",
@@ -364041,8 +364043,8 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
-								"keywords": "Sitka Spruce"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Other (add species to the pressure comment)"
 							},
 							{
 								"Description": "Under grazing",
@@ -366154,8 +366156,7 @@
 							},
 							{
 								"Description": "Over grazing",
-								"PressureRecordedAs": "Grazing - over",
-								"keywords": "Deer"
+								"PressureRecordedAs": "Grazing - over"
 							}
 						]
 					},
@@ -366980,8 +366981,8 @@
 							},
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
-								"keywords": "Beech, Conifers, European Larch, Rhododendron"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Bracken"
 							},
 							{
 								"Description": "Over grazing",
@@ -372231,8 +372232,8 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
-								"keywords": "Sitka Spruce"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Birch"
 							},
 							{
 								"Description": "Under grazing",
@@ -372317,8 +372318,8 @@
 						"Pressure": [
 							{
 								"Description": "Invasive species",
-								"PressureRecordedAs": "Presence/changing extent invasive species - NON NATIVE",
-								"keywords": "Sitka Spruce"
+								"PressureRecordedAs": "Presence/changing extent invasive species - NATIVE",
+								"keywords": "Birch"
 							},
 							{
 								"Description": "Under grazing",
@@ -387186,7 +387187,7 @@
 							},
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- point source pollution"
+								"PressureRecordedAs": "Water Dependant Pressure- abstraction"
 							},
 							{
 								"Description": "Water quality",
@@ -396913,7 +396914,7 @@
 						"Pressure": [
 							{
 								"Description": "Water management",
-								"PressureRecordedAs": "Water Dependant Pressure- morphological alteration"
+								"PressureRecordedAs": "Water Dependant Pressure- diffuse source pollution"
 							}
 						]
 					},
